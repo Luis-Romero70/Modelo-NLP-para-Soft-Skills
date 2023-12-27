@@ -1,60 +1,68 @@
-Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
+¡Sumate a Huumit!
 
-PaasportTM, our iPaaS solution, streamlines software integration and automates workflows. 
-Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients. 
 
-Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
 
-In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+En Huumit Recruitment estamos buscando un Analista programador Sr/Ssr para ERP interno con el objetivo de unirse a este fantástico equipo de trabajo. 👥💼
 
-At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
 
-Are you a skilled RPA developer eager to explore new opportunities? We want to introduce you to our RPA developer talent pool. While we may not have an immediate opening, we are building a selected pool of professionals for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+Estamos en búsqueda de un Programador Senior/Ssr altamente calificado y con sólida experiencia para unirse a nuestro equipo de desarrollo va a ser parte del proceso de desarrollo de nuevas funcionalidades y mantenimiento de los sistemas.
 
-Why join our Talent Pool?
 
-Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up. 
-Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role. 
+A su vez participará activamente de los proyectos del área tanto en la parte de análisis, desarrollo, revisiones como de implementaciones.
 
-Responsibilities:
 
-Collaborate with business analysts and stakeholders to understand and document business processes. 
-Design, develop, and deploy robotic process automation solutions using RPA tools. 
-Analyze and evaluate automation workflows to identify opportunities for improvement. 
-Develop and maintain RPA scripts, workflows, and automation configurations. 
-Test and debug automation solutions to ensure functionality and reliability. 
-Provide technical support and troubleshoot issues related to RPA implementations. 
-Collaborate with cross-functional teams to integrate RPA solutions with existing systems. 
-Stay updated on RPA technologies, industry trends, and best practices. 
-Document RPA processes, configurations, and troubleshooting steps. 
+Conocimientos técnicos requeridos
 
-Qualifications:
 
-Bachelor's degree in Computer Science, Information Technology, or a related field. 
-Proven experience as an RPA Developer or in a similar role. 
-Proficiency in RPA tools such as UiPath, Automation Anywhere, or Blue Prism. 
-Strong programming skills in languages such as C#, Java, or Python. 
-Solid understanding of business processes and workflow automation. 
-Excellent problem-solving and analytical skills. 
-Ability to work independently and collaboratively in a team. 
-Strong communication and documentation skills. 
 
-Preferred Skills:
+Experiencia como programador Sr en python o typescript 3años (Excluyente).
+Experiencia mínima de 3 años en base de datos SQL (Excluyente).
+Experiencia con Azure (deseable).
+Experiencia desarrollando FrontEnd (deseable) / Backend (Excluyente).
+Estudios avanzados o culminados en carreras de sistemas o afines | Deseable.
 
-Certification in RPA technologies. 
-Experience with cognitive automation and machine learning integration. 
-Familiarity with process mining tools. 
-Knowledge of API integrations and web services. 
-Previous experience with business process analysis and improvement. 
-100% remote
-People first culture
-Excellent compensation in US Dollars
-Hardware setup for working from home
-Work with global teams and prominent brands based in North America, Europe, and Asia
-Training allowances
-Personal time off (PTO) for vacations, study leave, personal time, etc. 
-...and more!
 
-At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+Conocimientos no técnicos 
 
-Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.
+
+
+Excelentes habilidades de comunicación verbal y escrita, en español e inglés.
+Habilidad para colaborar y trabajar en equipo con otros departamentos.
+Habilidad para tomar la iniciativa y trabajar de manera autónoma.
+Habilidad para aprender rápidamente y adaptarse a los cambios.
+
+
+Es un plus para nosotros:
+
+
+
+- Experiencia deseable en un puesto similar de más de 3 años.
+- Buena predisposición para el trabajo en equipo.
+
+
+Nos preocupamos sinceramente por tu salud, bienestar y crecimiento profesional. ¡También cuidamos tus ingresos! ¡Nos aseguramos de mantenerlos actualizados! 💪💼💰
+
+
+Estas son nuestras propuestas de valor para ti:
+
+
+
+Bonos por rendimiento (hasta 2 salarios) 💰💰
+Cobertura de seguro médico privado 🏥💊
+Premios en la plataforma CuponStar con múltiples beneficios 🎁🛍️
+Capacitación en el idioma inglés incluida 🇺🇸📚
+Trabajo híbrido (presencial y desde casa) 🏠👨‍💼👩‍💼
+
+
+Horario laboral:
+
+
+
+Híbrido presencial/home office de lunes a viernes (3 días presenciales, 2 días desde casa).
+
+
+Ubicación: Vicente López 📍🗺️
+
+
+
+Si crees que cumples con los requisitos, no dudes en postularte. ¡Queremos saber de vos! ¡Te estamos esperando! 🙌🏼💼👨‍💻

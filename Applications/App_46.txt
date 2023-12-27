@@ -1,3 +1,64 @@
-In our QA team, we are looking for a Tester who shares our passion for software quality. If you enjoy finding defects and ensuring the best user experience, we want you on our team!
+Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
 
+PaasportTM, our iPaaS solution, streamlines software integration and automates workflows. 
+Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients. 
 
+Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
+
+In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
+
+Are you a skilled Augmented Reality Developer eager to explore new opportunities? We want to introduce you to our Augmented Reality Developer talent pool. While we may not have an immediate opening, we are building a selected pool of developers for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+
+Why join our Talent Pool?
+
+Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up. 
+Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role. 
+
+Responsibilities:
+
+Collaborate with cross-functional teams to conceptualize and design augmented reality applications. 
+Develop AR applications for various platforms, including mobile devices and AR glasses. 
+Implement interactive and visually appealing AR experiences using AR development tools and frameworks. 
+Integrate AR functionality with existing applications and systems. 
+Collaborate with designers and 3D artists to incorporate virtual elements into the real world. 
+Optimize AR applications for performance and user experience. 
+Stay updated on emerging AR technologies and industry trends. 
+Test and debug AR applications to ensure functionality and performance. 
+Provide technical support and troubleshooting for AR applications. 
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field. 
+Proven experience as an Augmented Reality Developer or in a similar role. 
+Proficiency in AR development tools and frameworks (e.g., Unity, ARKit, ARCore). 
+Strong programming skills in languages such as C# or C++. 
+Experience with 3D modeling and animation tools. 
+Solid understanding of computer vision and tracking technologies. 
+Excellent problem-solving and debugging skills. 
+Ability to work independently and collaboratively in a team. 
+Passion for exploring and implementing innovative AR solutions. 
+
+Preferred Skills:
+
+Experience with virtual reality (VR) development. 
+Knowledge of AR cloud technologies. 
+Familiarity with IoT integration in AR applications. 
+Understanding of UX/UI design principles. 
+Published AR applications in app stores. 
+
+Why work for Launchpad?
+
+100% remote
+People first culture
+Excellent compensation in US Dollars
+Hardware setup for working from home
+Work with global teams and prominent brands based in North America, Europe, and Asia
+Training allowances
+Personal time off (PTO) for vacations, study leave, personal time, etc. 
+...and more!
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+
+Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.

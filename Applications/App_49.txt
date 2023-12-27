@@ -1,11 +1,38 @@
-¿QUÉ DESAFÍOS TE ESPERAN?
-Participar en el análisis, diseño y desarrollo de soluciones técnicas.
+Description
 
-¿QUÉ VALORAMOS DE TU PERFIL?
-Experiencia con Angular 14 y superiores.
-Experiencia trabajando con Docker.
-Conocimientos sólidos de GitFlow, GitHub, Gitlab, Copilot.
-Experiencia trabajando con FireBase y FireStore HTML/CSS/Wordpress/JavaScript.
-APIs REST (Postman, OpenAPI / Swagger).
-Excelentes habilidades en resolución de problemas y análisis de índole técnico.
+Amazon Web Services (AWS) ofrece un conjunto completo de servicios en la nube que permiten que todas las empresas, desde startups hasta empresas, ejecuten prácticamente todo en la nube, incluidas aplicaciones móviles, análisis de big data, plataformas de IA/ML e infraestructuras sin servidor y microservicios/infraestructuras sin servidor. Las startups, que ahora nacen principalmente en la nube, representan un subconjunto de clientes de importancia crítica y creciente para AWS. Las startups tienen necesidades, prioridades y trayectorias de crecimiento únicas que las distinguen de los negocios tradicionales y requieren diferentes estrategias de participación y movimientos de ventas de los vendedores para adquirirlos, crecer y retenerlos de manera efectiva a largo plazo en la plataforma de AWS.
 
+A medida que AWS continúa creciendo rápidamente, buscamos un Gerente de Cuentas Startup de LATAM para ayudar a impulsar el crecimiento de startups de alto potencial temprano, medio y tardío. Sus responsabilidades incluirán impulsar los ingresos y la adopción de los usuarios, las migraciones y garantizar que las nuevas empresas seleccionen AWS como su principal proveedor de nube. Se alineará estrechamente con sus contrapartes en desarrollo de negocios, marketing, arquitectura de soluciones y equipos de socios para liderar la ejecución de estrategias coordinadas de salida al mercado y juegos de ventas. También trabajará en estrecha colaboración con los equipos de desarrollo de negocios que están impulsando el soporte estratégico, la coprogramación global y la participación de la cartera para ayudar a impulsar la adquisición de clientes de primer nivel y acelerar los ciclos de vendedores en el campo.
+
+Estarás en el corazón de las últimas tendencias como inteligencia artificial (IA), aprendizaje automático (ML), serverless e IoT. Sus clientes aprovechan las tecnologías de vanguardia en AWS para innovar y convertirse en los próximos disruptores, como AirBnB, Slack, DoorDash y Lyft actuales. Te apasionan las startups, un emprendedor con un fuerte espíritu emprendedor que está preparado para trabajar en un entorno acelerado, a menudo ambiguo, ejecutar en contra de objetivos ambiciosos y abrazar consistentemente la Cultura Amazónica.
+
+Key job responsibilities
+
+ Asegurar el éxito del cliente con nuevas empresas en etapas tempranas, medias y tardías
+ Impulsar los ingresos y la cuota de mercado en un territorio definido o vertical de la industria
+ Acelere la adopción del cliente a través de contratos de ventas bien desarrollados y una estrategia GTM exitosa
+ Cumplir o superar los objetivos trimestrales de ingresos y metas.
+ Desarrollar y ejecutar contra un plan integral de cuenta/territorio.
+ Cree y articule propuestas de valor convincentes en torno a los servicios de AWS.
+ Acelere la adopción de los clientes mediante la participación de fundadores, CxO, Junta Directiva e influencers de VC
+ Trabajar con los asociados de negocios para ampliar el alcance e impulsar la adopción.
+ Desarrollar relaciones estratégicas a largo plazo con cuentas clave.
+ Asegurar la satisfacción del cliente.
+ Espere un viaje moderado.
+
+We are open to hiring candidates to work out of one of the following locations:
+
+Buenos Aires, ARG
+
+Basic Qualifications
+
+ 7+ years of direct sales or business development in software, cloud or SaaS markets selling to C-level executives experience
+ 10+ years of business development, partner development, sales or alliances management experience
+
+Preferred Qualifications
+
+ 5+ years of building profitable partner ecosystems experience
+ Experience developing detailed go to market plans
+
+
+Company - Amazon Web Services Argentina S.R.L.

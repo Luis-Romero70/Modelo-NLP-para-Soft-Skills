@@ -1,65 +1,51 @@
-Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
+About The Role
 
-PaasportTM, our iPaaS solution, streamlines software integration and automates workflows. 
-Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients. 
+The Team:You will report to the Head of Infrastructure, Latin America, and be working closely with a number of highly experienced industry specialists, not only in Latin America but globally.
 
-Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
+The Global Infrastructure Practice was established by S&P Global Ratings to expand our ratings franchise in an area of strong growth and to leverage our significant global infrastructure expertise across the full range of infrastructure and energy asset classes. Analytical team members reside in 16 locations globally and work on a diverse range of transactions applying different ratings criteria.
 
-In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+As important as the pure professional background is the personal and cultural fit. S&P Global's culture can be described as highly integrated & collegiate, as a firm we work supporting each other to deliver the best solutions to clients.
 
-At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
+Responsibilities And Impact
 
-Are you a skilled Augmented Reality Architect eager to explore new opportunities? We want to introduce you to our Augmented Reality Architect talent pool. While we may not have an immediate opening, we are building a selected pool of developers for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+At S&P Global Ratings, your analytical opinion truly matters and each person who works here has an essential role in our reputation of integrity, transparency, and ratings excellence. S&P Global Ratings plays a vital role in bringing transparency and comparability to the financial markets and helps investors and others measure and manage credit risk. By supporting capital markets, S&P Global Ratings helps people grow businesses, cities and states to build highways and hospitals, and manufacturers to build factories and create jobs.
 
-Why join our Talent Pool?
+The successful applicant will have the opportunity to further expand analytical excellence on an ongoing basis as we aim to encompass achievement within a working environment that is rewarding, stimulating and where there is a constant focus on building skills and competencies through learning.
 
-Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up. 
-Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role. 
+With the mentorship of senior analysts, you will work closely with the sector team on its ongoing surveillance of a portfolio of rated issuers. You will perform basic fundamental credit analysis, forecasting, and industry analysis. You are likely to be considered for providing input to financial models and written analysis used for reviews and external publications.
 
-Responsibilities:
+This team environment stimulates continuous innovation and highest customer service standards.
 
-Lead the design and architecture of augmented reality applications and experiences. 
-Collaborate with cross-functional teams to define AR project requirements. 
-Evaluate and recommend AR technologies, frameworks, and hardware. 
-Design and implement AR solutions that align with project goals and user experience. 
-Develop strategies for AR content creation, interaction, and integration. 
-Optimize AR applications for performance and user engagement. 
-Stay updated on emerging AR technologies, hardware, and software. 
-Collaborate with developers and artists to integrate AR elements seamlessly. 
-Provide technical leadership and mentorship to AR development teams. 
-Participate in the planning and execution of AR projects. 
+What We're Looking For
 
-Qualifications:
+Basic Required Qualifications:
 
-Bachelor's or Master's degree in Computer Science, Information Technology, or a related field. 
-Proven experience as an AR Architect or in a similar senior AR role. 
-Extensive expertise in AR design, development, and implementation. 
-In-depth knowledge of AR hardware, sensors, and tracking technologies. 
-Proficiency in AR development tools and frameworks (e.g., Unity, ARKit, ARCore). 
-Strong programming skills in languages such as C# or C++. 
-Experience with 3D modeling, animation, and rendering. 
-Excellent problem-solving and analytical skills. 
-Ability to work independently and collaboratively in a team. 
+Bachelor degree holder of Business, Economics, Finance, Engineering, Mathematics, or a related subject.
 
-Preferred Skills:
+Analytical skills with an understanding of financial statement analysis and accounting concepts.
 
-Certification in AR development or related field. 
-Experience with virtual reality (VR) development. 
-Familiarity with AR cloud technologies and services. 
-Knowledge of computer vision and image recognition. 
-Previous experience with AR in gaming, retail, or industrial applications. 
+Ability to quickly absorb, analyze, and act upon information, while demonstrating strong proficiency with figures
 
-Why work for Launchpad?
+Aptitude for expanding, learning, and passion for contributing.
 
-100% remote
-People first culture
-Excellent compensation in US Dollars
-Hardware setup for working from home
-Work with global teams and prominent brands based in North America, Europe, and Asia
-Training allowances
-Personal time off (PTO) for vacations, study leave, personal time, etc. 
-...and more!
+Highly organized with the ability to multitask and work under time pressure.
 
-At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+StrongExcel/Word/PowerPointand database application skills.
 
-Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.
+Additional Preferred Qualifications
+
+Strong proficiency with VBA, financial models and financial data.
+
+Knowledge of programming languages (e.g. C++, MATLAB, Python, R or VBA)
+
+Prior experience with data analysis. Knowledge of SQL and experience in databases such as Oracle, Sybase, or Access would be helpful
+
+Return To Work
+
+Have you taken time out for caring responsibilities and are now looking to return to work? As part of our Return to Work initiative, Restart, we are encouraging enthusiastic and talented returners to apply, and will actively support your return to the workplace.
+
+What's In It For You
+
+Infrastructure finance is one of the fastest growing sectors of the capital markets and is a key funding source and growth driver for many areas of the economy. If you are interested in helping to facilitate this growth while challenging yourself in a fast-paced environment, this is the right position for you. It offers the opportunity to work in a collegial culture with great potential for professional development and career growth. To succeed, you must be comfortable with quantitative analysis and have a knack for problem solving. In addition, this role provides a great opportunity to be exposed to a range of markets and asset types; it encompasses compelling analytical expertise and effective management skills.
+
+In the position, you will be working as part of the Global Infrastructure Ratings group at S&P Global Ratings. With the guidance of a senior analyst, a qualified Associate typically maintains direct analytical responsibility for a portfolio of rated issuers within the transportation, energy, power, renewables and utilities asset classes.

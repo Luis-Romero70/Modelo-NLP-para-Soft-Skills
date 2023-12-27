@@ -1,68 +1,70 @@
-¡Sumate a Huumit!
+Data Engineer/Machine Learning Engineer 
 
 
 
-En Huumit Recruitment estamos buscando un Analista programador Sr/Ssr para ERP interno con el objetivo de unirse a este fantástico equipo de trabajo. 👥💼
-
-
-Estamos en búsqueda de un Programador Senior/Ssr altamente calificado y con sólida experiencia para unirse a nuestro equipo de desarrollo va a ser parte del proceso de desarrollo de nuevas funcionalidades y mantenimiento de los sistemas.
-
-
-A su vez participará activamente de los proyectos del área tanto en la parte de análisis, desarrollo, revisiones como de implementaciones.
-
-
-Conocimientos técnicos requeridos
+Position Summary:
 
 
 
-Experiencia como programador Sr en python o typescript 3años (Excluyente).
-Experiencia mínima de 3 años en base de datos SQL (Excluyente).
-Experiencia con Azure (deseable).
-Experiencia desarrollando FrontEnd (deseable) / Backend (Excluyente).
-Estudios avanzados o culminados en carreras de sistemas o afines | Deseable.
+Our partner is looking for a saavy Data Engineer/Machine Learning Engineer to join a cutting-edge development team and develop top of the industry fintech applications partnering with quantum teams and Data Science teams! In this role you play a crucial role in designing, building and maintaining data pipelines that enable efficient data processing, storage, and analysis. You will be a part of a team that’s building innovative analytical tools and frameworks to exploit advantages in the latest fintech developments in cloud computing. Finally, you will be a crucial part in shaping future highly functional applications to deliver successful high quality, and sustainability of solutions.
 
 
-Conocimientos no técnicos 
+Experience and Education:
 
 
 
-Excelentes habilidades de comunicación verbal y escrita, en español e inglés.
-Habilidad para colaborar y trabajar en equipo con otros departamentos.
-Habilidad para tomar la iniciativa y trabajar de manera autónoma.
-Habilidad para aprender rápidamente y adaptarse a los cambios.
+BS in Computer Engineering or Computer Science, Statistics, Informatics or related experience/field
+5+ years of experience with data management, data management tools and data quality
+Strong understanding of machine learning concepts, algorithms, and deep learning architectures
+Experience managing data streams with varied files format such as EDI, XML, Flat Files, others
+Familiar with stream-processing systems: Apache Kafka, Spark-Streaming, others
 
 
-Es un plus para nosotros:
-
-
-
-- Experiencia deseable en un puesto similar de más de 3 años.
-- Buena predisposición para el trabajo en equipo.
-
-
-Nos preocupamos sinceramente por tu salud, bienestar y crecimiento profesional. ¡También cuidamos tus ingresos! ¡Nos aseguramos de mantenerlos actualizados! 💪💼💰
-
-
-Estas son nuestras propuestas de valor para ti:
+Technology Skills and Strengths:
 
 
 
-Bonos por rendimiento (hasta 2 salarios) 💰💰
-Cobertura de seguro médico privado 🏥💊
-Premios en la plataforma CuponStar con múltiples beneficios 🎁🛍️
-Capacitación en el idioma inglés incluida 🇺🇸📚
-Trabajo híbrido (presencial y desde casa) 🏠👨‍💼👩‍💼
+Kafka
+Airflow
+Spark
+Python
+AWS
+AWS services (S3, AWS Lambda, AWS Glue, others)
+Data warehousing
+Data pipelines
+Data architecture
+Data management
+Data security
+ETL processes
+Machine Learning operations (MLOps)
+ML model evaluation and optimization
+Metadata dependency
+Workload management
+SQL and NoSQL DB (such us NumPy, Pandas, MongoDB, others)
+SQL (development, implementation and optimization)
+Automation (Terraform, ARM Template)
+LifeCycle Data Development
+API (development and integration)
+Distributed Data Processing
+User stories
+Databricks (a plus)
+Kubernetes (a plus)
 
 
-Horario laboral:
+Primary Job Responsibilities:
 
 
 
-Híbrido presencial/home office de lunes a viernes (3 días presenciales, 2 días desde casa).
-
-
-Ubicación: Vicente López 📍🗺️
-
-
-
-Si crees que cumples con los requisitos, no dudes en postularte. ¡Queremos saber de vos! ¡Te estamos esperando! 🙌🏼💼👨‍💻
+Create and maintain an optimal data pipeline architecture to move, transform, and cleanse datafrom various sources into the correct data storage or processing systems
+Design, develop and implement data packages for data warehousing or applications
+Integrate data from various sources, both structured and unstructured, including databases, APIs, logs, and external datasets
+Design, develop, and fine-tune machine learning models, including supervised, unsupervised, and deep learning models
+Collect, clean, and preprocess data for model training, ensuring data quality and integrity
+Deploy machine learning models into production environments, ensuring scalability and reliability.
+Work with a team of developers with deep experience in data, distributed microservices, and full stack systems
+Work with data management, data access (big data, data marts, etc.), programming, and data modeling; and familiar with analytic algorithms and applications
+Provide technical support and problem resolution for related data service teams
+Architect, deploy and maintain data models and schema to support analytics and reporting requirements
+Develop and test scripts and exception handling processes based upon design
+Create and maintain technical documentation to support the business application and data related processes
+Troubleshoot to resolve operational and/or system problems

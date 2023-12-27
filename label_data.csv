@@ -1,0 +1,944 @@
+file_number;language;text;soft_skills
+01;es;Buscamos un Data Scientist altamente motivado con experiencia en análisis de datos y modelado predictivo. Deberás poseer habilidades blandas como comunicación efectiva y capacidad de trabajo en equipo.;['comunicación', 'trabajo en equipo', 'habilidades analíticas']
+02;es;"Como Data Scientist en nuestro equipo, participarás en la identificación de patrones y tendencias a partir de grandes conjuntos de datos. Se valora la capacidad de presentar resultados de manera clara y persuasiva.
+";['comunicación']
+03;es;"Estamos en busca de un Data Scientist apasionado por convertir datos en conocimiento. Las habilidades blandas, como la adaptabilidad y la resolución de problemas, son esenciales para tener éxito en este rol.
+";['resolución de problemas', 'adaptabilidad']
+04;es;"Únete a nuestro equipo como Data Scientist y contribuye al desarrollo de modelos predictivos avanzados. Habilidades blandas, incluyendo la capacidad de colaborar en entornos multidisciplinarios, son fundamentales.
+
+";['comunicación', 'trabajo en equipo']
+05;es;"Estamos contratando un Data Scientist con habilidades excepcionales en análisis de datos y visualización. La capacidad de comunicar hallazgos de manera efectiva a partes interesadas no técnicas es esencial.
+
+
+";['habilidades analíticas']
+06;es;"Buscamos un profesional de Data Science para liderar iniciativas analíticas. Se requiere una sólida ética de trabajo, así como habilidades blandas que faciliten la colaboración con equipos interdisciplinarios.
+
+
+";['comunicación', 'trabajo en equipo']
+07;es;"Únete a nuestro equipo dinámico como Data Scientist. Buscamos a alguien con habilidades analíticas avanzadas y la capacidad de trabajar de manera efectiva en un entorno ágil y colaborativo.
+
+
+";['ágil', 'colaborativo']
+08;es;"Estamos contratando un Data Scientist experimentado para aplicar técnicas estadísticas y de machine learning. Habilidades blandas como la resiliencia y la empatía son esenciales para el éxito en este rol.
+
+
+
+";['resiliencia', 'empatía']
+09;es;"Como Data Scientist, trabajarás en proyectos desafiantes y colaborarás estrechamente con equipos de ingeniería y negocio. Se espera que tengas habilidades blandas destacadas, incluyendo la capacidad de trabajar bajo presión.
+
+
+
+
+";['adaptabilidad']
+10;es;"Buscamos un Data Scientist con una sólida base en modelado estadístico y machine learning. La capacidad de comunicar resultados de manera efectiva y trabajar en equipo son atributos clave para este rol.
+
+
+
+
+
+";['comunicación', 'trabajo en equipo']
+11;en;"Join our innovative team as a Data Scientist and contribute to groundbreaking projects in machine learning and predictive analytics. Strong soft skills, including effective communication, are essential for success in this role.
+
+
+
+
+
+";['communication', 'problem solving', 'creativity']
+12;en;"Seeking a highly skilled Data Scientist with a passion for uncovering insights from data. Excellent teamwork and interpersonal skills are crucial for collaborating with cross-functional teams.
+
+
+
+
+
+
+";['teamwork']
+13;en;"We are hiring a Data Scientist to drive data-driven decision-making. Strong analytical abilities and soft skills such as adaptability and creativity are key attributes we value.
+
+
+
+
+
+
+
+";['problem solving', 'creativity', 'adaptability']
+14;en;"As a Data Scientist, you will play a key role in developing advanced analytics solutions. Effective problem-solving and communication skills, both written and verbal, are prerequisites for this position.
+
+
+
+
+
+
+
+";['communication', 'problem solving']
+15;en;"Are you a Data Scientist with expertise in statistical modeling? Join our team and bring your soft skills, including teamwork and a positive attitude, to contribute to our success.
+
+
+
+
+
+
+
+";['teamwork']
+16;en;"We're looking for an experienced Data Scientist who can apply machine learning techniques to complex datasets. Strong interpersonal skills and the ability to collaborate with diverse teams are essential.
+
+
+
+
+
+
+
+";['communication', 'teamwork']
+17;en;"Join us as a Data Scientist and apply your expertise in data analysis and modeling. Effective communication and the ability to distill complex concepts for non-technical stakeholders are highly valued.
+
+
+
+
+
+
+";['communication', 'analytical skills']
+18;en;"Seeking a Data Scientist with a track record of success in predictive modeling. Soft skills like effective time management and the ability to work autonomously in a fast-paced environment are crucial.
+
+
+
+
+
+
+
+";['time management', 'autonomous work', 'fast-paced environment']
+19;en;"As a Data Scientist, you will be responsible for developing and deploying machine learning models. Excellent communication skills and the ability to collaborate across departments are key to excelling in this role.
+
+
+
+
+
+
+
+
+";['communication', 'teamwork']
+20;en;"We are hiring a skilled Data Scientist to drive data insights for strategic decision-making. Strong problem-solving abilities and soft skills such as empathy and adaptability are critical for this position.
+
+
+
+
+
+
+
+
+";['adaptability']
+21;es;"Unirse a nuestro equipo como Data Scientist y contribuir a proyectos innovadores en machine learning y análisis predictivo. Se valoran habilidades interpersonales sólidas y comunicación efectiva.
+
+
+
+
+
+
+
+";['comunicación', 'creatividad']
+22;es;"We are seeking a passionate Data Scientist para descubrir conocimientos a partir de datos. Excelentes habilidades de trabajo en equipo y personales son cruciales para colaborar con equipos multidisciplinarios.
+
+
+
+
+
+
+
+";['comunicación', 'trabajo en equipo']
+23;es;"Estamos contratando un Data Scientist altamente calificado para impulsar la toma de decisiones basada en datos. Se valoran habilidades analíticas sólidas y habilidades blandas como la adaptabilidad y la creatividad.
+
+
+
+
+
+
+";['creatividad', 'adaptabilidad']
+24;es;"Como Data Scientist, jugarás un papel clave en el desarrollo de soluciones de análisis avanzado. Habilidades efectivas de resolución de problemas y comunicación, tanto escrita como verbal, son requisitos previos para este puesto.
+
+
+
+
+
+";['comunicación', 'resolución de problemas']
+25;es;"Are you a Data Scientist with expertise in statistical modeling? Únete a nuestro equipo y aporta tus habilidades interpersonales, incluido el trabajo en equipo y una actitud positiva, para contribuir a nuestro éxito.
+
+
+
+
+
+";['trabajo en equipo']
+26;es;"We're looking for an experienced Data Scientist que pueda aplicar técnicas de machine learning a conjuntos de datos complejos. Habilidades interpersonales sólidas y la capacidad de colaborar con equipos diversos son esenciales.
+
+
+
+
+
+";['trabajo en equipo']
+27;es;"Join us as a Data Scientist y aplica tu experiencia en análisis y modelado de datos. Se valoran habilidades efectivas de comunicación y la capacidad de simplificar conceptos complejos para stakeholders no técnicos.
+
+
+
+
+
+";['comunicación']
+28;es;"Buscamos un Data Scientist con un historial de éxito en modelado predictivo. Habilidades blandas como una gestión efectiva del tiempo y la capacidad de trabajar de manera autónoma en un entorno rápido son cruciales.
+
+
+
+
+";['gestión efectiva del tiempo']
+29;es;"Como Data Scientist, serás responsable del desarrollo e implementación de modelos de machine learning. Habilidades excelentes de comunicación y la capacidad de colaborar entre departamentos son clave para sobresalir en este rol.
+
+
+
+
+";['comunicación', 'trabajo en equipo']
+30;es;"Estamos contratando un Data Scientist calificado para impulsar conocimientos de datos para la toma estratégica de decisiones. Fuertes habilidades de resolución de problemas y habilidades blandas como la empatía y la adaptabilidad son críticas para este puesto.
+
+
+
+
+";['resolución de problemas', 'adaptabilidad', 'empatía']
+31;es;"Estamos en busca de un QA Tester apasionado por garantizar la calidad de nuestro software. Si tienes habilidades analíticas, atención al detalle y una mentalidad proactiva, ¡únete a nuestro equipo!
+
+
+
+
+";['atención al detalle']
+32;en;"We are hiring a QA Tester who is enthusiastic about ensuring the quality of our software. If you have analytical skills, attention to detail, and a proactive mindset, join our team!
+
+
+
+
+";['problem solving', 'attention to detail']
+33;es;"Buscamos un Especialista en Inteligencia Artificial para liderar proyectos innovadores. Si tienes experiencia en aprendizaje profundo, procesamiento del lenguaje natural y resolución de problemas complejos, ¡queremos conocerte!
+
+
+
+
+";['resolución de problemas', 'creatividad']
+34;en;"We are seeking an Artificial Intelligence Specialist to lead innovative projects. If you have expertise in deep learning, natural language processing, and solving complex problems, we want to meet you!
+
+
+
+
+";['creativity']
+35;es;"Únete a nuestro equipo como Diseñador UX/UI y crea experiencias de usuario excepcionales. Buscamos a alguien creativo, orientado al detalle y apasionado por el diseño centrado en el usuario.
+
+
+
+
+";['creatividad', 'atención al detalle']
+36;en;"Join our team as a UX/UI Designer and create exceptional user experiences. We are looking for someone creative, detail-oriented, and passionate about user-centered design.
+
+
+
+
+";['creativity', 'attention to detail']
+37;es;"Estamos contratando a un Diseñador Gráfico con habilidades creativas y experiencia en software de diseño. Si puedes transformar ideas en imágenes impactantes, ¡queremos conocerte!
+
+
+
+";['creatividad']
+38;en;"We are hiring a Graphic Designer with creative skills and experience in design software. If you can transform ideas into stunning visuals, we want to meet you!
+
+
+
+";['creativity']
+39;es;"En nuestro equipo de QA, estamos en búsqueda de un Tester que comparta nuestra pasión por la calidad del software. Si te apasiona encontrar defectos y garantizar la mejor experiencia para el usuario, ¡te queremos en nuestro equipo!
+
+
+";['atención al detalle']
+40;en;"In our QA team, we are looking for a Tester who shares our passion for software quality. If you enjoy finding defects and ensuring the best user experience, we want you on our team!
+
+
+";['attention to detail']
+41;es;"Buscamos un Especialista en Inteligencia Artificial para liderar proyectos innovadores en nuestra empresa. Si tienes experiencia en modelos predictivos y aprendizaje automático, ¡únete a nosotros para dar forma al futuro!
+
+";['creatividad']
+42;en;"We are looking for an Artificial Intelligence Specialist to lead innovative projects in our company. If you have experience in predictive modeling and machine learning, join us to shape the future!
+
+";['creativity']
+43;es;"¿QUÉ DESAFÍOS TE ESPERAN?
+Participar en el análisis, diseño y desarrollo de soluciones técnicas.
+
+¿QUÉ VALORAMOS DE TU PERFIL?
+Experiencia con Angular 14 y superiores.
+Experiencia trabajando con Docker.
+Conocimientos sólidos de GitFlow, GitHub, Gitlab, Copilot.
+Experiencia trabajando con FireBase y FireStore HTML/CSS/Wordpress/JavaScript.
+APIs REST (Postman, OpenAPI / Swagger).
+Excelentes habilidades en resolución de problemas y análisis de índole técnico.
+
+";['resolución de problemas']
+44;en;"What we're looking for:
+
+We are looking for a Senior Frontend engineer to join our engineering team, specifically our CMP Squad. Our main office is in Paris and we are a very distributed team with people working remotely in Europe and the Americas.
+
+
+Responsibilities:
+
+Leveraging your experience in building and maintaining complex frontend applications, you will drive the development of our user-facing web applications, primarily our Web SDK.
+We are looking for someone who is eager to:
+Collaborate with designers, product, and other developers to ship new features
+Be in charge of the overall architecture of web applications
+Ensure that we have the right tests and structure in place to make sure that we can move quickly without breaking everything
+Share your knowledge of software development principles and best practices with the team
+Keep learning new technologies and be on the look-out for new ideas that we should try out
+
+
+Qualifications:
+
+Solid knowledge of JavaScript and Typescript
+Experience with modern JavaScript and Typescript tooling and libraries
+Experience with front-end applications built in React and best practices and patterns
+Quality-oriented mindset: testing, code reviews, code quality, etc.
+A passion for simple, maintainable, and readable code that balances pragmatism and performance
+Knowledgeable of accessibility concepts and developing WCAG-compliant features
+Obsession with performance considerations and experience with optimizing metrics related to Google Core Web Vitals";['communication', 'teamwork', 'adaptability']
+45;en;"Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
+
+PaasportTM, our iPaaS solution, streamlines software integration and automates workflows. 
+Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients. 
+
+Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
+
+In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
+
+Are you a skilled RPA developer eager to explore new opportunities? We want to introduce you to our RPA developer talent pool. While we may not have an immediate opening, we are building a selected pool of professionals for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+
+Why join our Talent Pool?
+
+Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up. 
+Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role. 
+
+Responsibilities:
+
+Collaborate with business analysts and stakeholders to understand and document business processes. 
+Design, develop, and deploy robotic process automation solutions using RPA tools. 
+Analyze and evaluate automation workflows to identify opportunities for improvement. 
+Develop and maintain RPA scripts, workflows, and automation configurations. 
+Test and debug automation solutions to ensure functionality and reliability. 
+Provide technical support and troubleshoot issues related to RPA implementations. 
+Collaborate with cross-functional teams to integrate RPA solutions with existing systems. 
+Stay updated on RPA technologies, industry trends, and best practices. 
+Document RPA processes, configurations, and troubleshooting steps. 
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field. 
+Proven experience as an RPA Developer or in a similar role. 
+Proficiency in RPA tools such as UiPath, Automation Anywhere, or Blue Prism. 
+Strong programming skills in languages such as C#, Java, or Python. 
+Solid understanding of business processes and workflow automation. 
+Excellent problem-solving and analytical skills. 
+Ability to work independently and collaboratively in a team. 
+Strong communication and documentation skills. 
+
+Preferred Skills:
+
+Certification in RPA technologies. 
+Experience with cognitive automation and machine learning integration. 
+Familiarity with process mining tools. 
+Knowledge of API integrations and web services. 
+Previous experience with business process analysis and improvement. 
+100% remote
+People first culture
+Excellent compensation in US Dollars
+Hardware setup for working from home
+Work with global teams and prominent brands based in North America, Europe, and Asia
+Training allowances
+Personal time off (PTO) for vacations, study leave, personal time, etc. 
+...and more!
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+
+Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.
+";['communication', 'teamwork', 'problem solving', 'creativity']
+46;en;"Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
+
+PaasportTM, our iPaaS solution, streamlines software integration and automates workflows. 
+Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients. 
+
+Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
+
+In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
+
+Are you a skilled Augmented Reality Developer eager to explore new opportunities? We want to introduce you to our Augmented Reality Developer talent pool. While we may not have an immediate opening, we are building a selected pool of developers for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+
+Why join our Talent Pool?
+
+Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up. 
+Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role. 
+
+Responsibilities:
+
+Collaborate with cross-functional teams to conceptualize and design augmented reality applications. 
+Develop AR applications for various platforms, including mobile devices and AR glasses. 
+Implement interactive and visually appealing AR experiences using AR development tools and frameworks. 
+Integrate AR functionality with existing applications and systems. 
+Collaborate with designers and 3D artists to incorporate virtual elements into the real world. 
+Optimize AR applications for performance and user experience. 
+Stay updated on emerging AR technologies and industry trends. 
+Test and debug AR applications to ensure functionality and performance. 
+Provide technical support and troubleshooting for AR applications. 
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field. 
+Proven experience as an Augmented Reality Developer or in a similar role. 
+Proficiency in AR development tools and frameworks (e.g., Unity, ARKit, ARCore). 
+Strong programming skills in languages such as C# or C++. 
+Experience with 3D modeling and animation tools. 
+Solid understanding of computer vision and tracking technologies. 
+Excellent problem-solving and debugging skills. 
+Ability to work independently and collaboratively in a team. 
+Passion for exploring and implementing innovative AR solutions. 
+
+Preferred Skills:
+
+Experience with virtual reality (VR) development. 
+Knowledge of AR cloud technologies. 
+Familiarity with IoT integration in AR applications. 
+Understanding of UX/UI design principles. 
+Published AR applications in app stores. 
+
+Why work for Launchpad?
+
+100% remote
+People first culture
+Excellent compensation in US Dollars
+Hardware setup for working from home
+Work with global teams and prominent brands based in North America, Europe, and Asia
+Training allowances
+Personal time off (PTO) for vacations, study leave, personal time, etc. 
+...and more!
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+
+Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.";['communication', 'teamwork', 'creativity']
+47;en;"Be part of a revolutionary change
+
+We’re totally transforming our business, and building our future on smoke-free products with the power to improve the lives of a billion smokers worldwide.
+
+With huge change, comes huge opportunity. So, wherever you join us, you’ll enjoy the freedom to dream up and deliver better, brighter solutions and the space to move your career forward in different directions.
+
+Who we are looking for?
+
+
+ An agile person able to learn on the fly within changing environment and growing department
+ An action-oriented, fast learning problem solver with a university degree in Logistics or Finance
+ A person with at least 1 – 2 years of relevant business experience in Master Data, Supply Chain, Procurement or Finance area
+ A candidate with fluent English, with a strong attention to details and very good knowledge of Microsoft Office and Excel
+ You should have solid understanding of Master Data Management and Finance implications. Knowledge and experience of using SAP MDG would be an asset.
+
+
+'Your day to day':
+
+
+ Be responsible for calculating, validating and consolidated maintenance of selling and purchasing conditions - - - Be responsible for material master extension process
+ Ensure on time data completeness in SAP to enable sales of goods, and work with various resources to achieve it
+ Ensure correctness and accuracy of various pricing models and calculation schemes used in PMI pricing process flows
+ Identify, investigate, and correct master data quality issues
+ Identify areas for improvement of processes where applicable
+ Contact with different groups among PMI Company including SCE and Affiliates Management team
+ Participate in projects and initiatives impacting finance, selling or purchasing processes
+
+
+What we offer:
+
+Our success depends on the men and women who come to work every single day with a sense of purpose and an appetite for progress. Join PMI and you too can:
+
+
+ Seize the freedom to define your future and ours. We’ll empower you to take risks, experiment and explore.
+ Be part of an inclusive, diverse culture, where everyone’s contribution is respected; collaborate with some of the world’s best people and feel like you belong.
+ Pursue your ambitions and develop your skills with a global business – our staggering size and scale provides endless opportunities to progress.
+ Take pride in delivering our promise to society: to improve the lives of a billion smokers.
+";['communication', 'teamwork', 'project management']
+48;en;"Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
+
+PaasportTM, our iPaaS solution, streamlines software integration and automates workflows. 
+Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients. 
+
+Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
+
+In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
+
+Are you a skilled Augmented Reality Architect eager to explore new opportunities? We want to introduce you to our Augmented Reality Architect talent pool. While we may not have an immediate opening, we are building a selected pool of developers for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+
+Why join our Talent Pool?
+
+Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up. 
+Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role. 
+
+Responsibilities:
+
+Lead the design and architecture of augmented reality applications and experiences. 
+Collaborate with cross-functional teams to define AR project requirements. 
+Evaluate and recommend AR technologies, frameworks, and hardware. 
+Design and implement AR solutions that align with project goals and user experience. 
+Develop strategies for AR content creation, interaction, and integration. 
+Optimize AR applications for performance and user engagement. 
+Stay updated on emerging AR technologies, hardware, and software. 
+Collaborate with developers and artists to integrate AR elements seamlessly. 
+Provide technical leadership and mentorship to AR development teams. 
+Participate in the planning and execution of AR projects. 
+
+Qualifications:
+
+Bachelor's or Master's degree in Computer Science, Information Technology, or a related field. 
+Proven experience as an AR Architect or in a similar senior AR role. 
+Extensive expertise in AR design, development, and implementation. 
+In-depth knowledge of AR hardware, sensors, and tracking technologies. 
+Proficiency in AR development tools and frameworks (e.g., Unity, ARKit, ARCore). 
+Strong programming skills in languages such as C# or C++. 
+Experience with 3D modeling, animation, and rendering. 
+Excellent problem-solving and analytical skills. 
+Ability to work independently and collaboratively in a team. 
+
+Preferred Skills:
+
+Certification in AR development or related field. 
+Experience with virtual reality (VR) development. 
+Familiarity with AR cloud technologies and services. 
+Knowledge of computer vision and image recognition. 
+Previous experience with AR in gaming, retail, or industrial applications. 
+
+Why work for Launchpad?
+
+100% remote
+People first culture
+Excellent compensation in US Dollars
+Hardware setup for working from home
+Work with global teams and prominent brands based in North America, Europe, and Asia
+Training allowances
+Personal time off (PTO) for vacations, study leave, personal time, etc. 
+...and more!
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+
+Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.";['communication', 'teamwork', 'problem solving', 'creativity', 'leadership']
+49;es;"Description
+
+Amazon Web Services (AWS) ofrece un conjunto completo de servicios en la nube que permiten que todas las empresas, desde startups hasta empresas, ejecuten prácticamente todo en la nube, incluidas aplicaciones móviles, análisis de big data, plataformas de IA/ML e infraestructuras sin servidor y microservicios/infraestructuras sin servidor. Las startups, que ahora nacen principalmente en la nube, representan un subconjunto de clientes de importancia crítica y creciente para AWS. Las startups tienen necesidades, prioridades y trayectorias de crecimiento únicas que las distinguen de los negocios tradicionales y requieren diferentes estrategias de participación y movimientos de ventas de los vendedores para adquirirlos, crecer y retenerlos de manera efectiva a largo plazo en la plataforma de AWS.
+
+A medida que AWS continúa creciendo rápidamente, buscamos un Gerente de Cuentas Startup de LATAM para ayudar a impulsar el crecimiento de startups de alto potencial temprano, medio y tardío. Sus responsabilidades incluirán impulsar los ingresos y la adopción de los usuarios, las migraciones y garantizar que las nuevas empresas seleccionen AWS como su principal proveedor de nube. Se alineará estrechamente con sus contrapartes en desarrollo de negocios, marketing, arquitectura de soluciones y equipos de socios para liderar la ejecución de estrategias coordinadas de salida al mercado y juegos de ventas. También trabajará en estrecha colaboración con los equipos de desarrollo de negocios que están impulsando el soporte estratégico, la coprogramación global y la participación de la cartera para ayudar a impulsar la adquisición de clientes de primer nivel y acelerar los ciclos de vendedores en el campo.
+
+Estarás en el corazón de las últimas tendencias como inteligencia artificial (IA), aprendizaje automático (ML), serverless e IoT. Sus clientes aprovechan las tecnologías de vanguardia en AWS para innovar y convertirse en los próximos disruptores, como AirBnB, Slack, DoorDash y Lyft actuales. Te apasionan las startups, un emprendedor con un fuerte espíritu emprendedor que está preparado para trabajar en un entorno acelerado, a menudo ambiguo, ejecutar en contra de objetivos ambiciosos y abrazar consistentemente la Cultura Amazónica.
+
+Key job responsibilities
+
+ Asegurar el éxito del cliente con nuevas empresas en etapas tempranas, medias y tardías
+ Impulsar los ingresos y la cuota de mercado en un territorio definido o vertical de la industria
+ Acelere la adopción del cliente a través de contratos de ventas bien desarrollados y una estrategia GTM exitosa
+ Cumplir o superar los objetivos trimestrales de ingresos y metas.
+ Desarrollar y ejecutar contra un plan integral de cuenta/territorio.
+ Cree y articule propuestas de valor convincentes en torno a los servicios de AWS.
+ Acelere la adopción de los clientes mediante la participación de fundadores, CxO, Junta Directiva e influencers de VC
+ Trabajar con los asociados de negocios para ampliar el alcance e impulsar la adopción.
+ Desarrollar relaciones estratégicas a largo plazo con cuentas clave.
+ Asegurar la satisfacción del cliente.
+ Espere un viaje moderado.
+
+We are open to hiring candidates to work out of one of the following locations:
+
+Buenos Aires, ARG
+
+Basic Qualifications
+
+ 7+ years of direct sales or business development in software, cloud or SaaS markets selling to C-level executives experience
+ 10+ years of business development, partner development, sales or alliances management experience
+
+Preferred Qualifications
+
+ 5+ years of building profitable partner ecosystems experience
+ Experience developing detailed go to market plans
+
+
+Company - Amazon Web Services Argentina S.R.L.
+";['comunicación', 'trabajo en equipo']
+50;es;"About The Position
+
+Estamos enfocados en crear soluciones que brinden los mejores servicios financieros con una experiencia WOW para nuestros clientes. En todo momento investigamos y nos capacitamos sobre las nuevas tendencias tecnologías que hay en el mundo para adaptarlas a nuestra Transformación Digital. Trabajamos de la mano con el negocio para realizar entregas de productos y servicios de calidad.
+
+Responsabilidades:
+
+Diseñar, desarrollar, proponer arquitecturas a nivel de infraestructura cloud. 
+Mejorar, proponer soluciones de automatización a nivel de tubería pipeline. 
+Aprovisionar recursos a través de Infrastructure As Code IAC. 
+Evaluar, diseñar, implementar y evolucionar las plataformas devops. 
+Crear artefactos, librerías de código, plantillas que puedan ser utilizados en la construcción de automatizaciones CI/CD. 
+Proponer planes de acción frente a riesgos en la plataforma y/o herramientas. 
+Asegurar la inclusión de componentes de costos en el análisis de alternativas de solución en la evaluación de herramientas. 
+Atender en el soporte de pipelines de Testing y estabilidad de la plataforma. 
+Asegurar la adopción de componentes desarrollados. 
+Asegurar implementaciones alineadas a métricas de valor. 
+Garantizar integración, despliegue y entrega continua mediante flujos automatizados. 
+
+Requirements
+
+Bachiller en la carrera de Ingeniería de Sistemas, computación, informática, software y electrónica o carreras aﬁnes. 
+3+ años de experiencia en el rol. 
+Conocimiento sobre scripts con Groovy. 
+Sólido dominio de Cloud AWS. 
+Conocimiento sobre Linux (shell scripting). 
+Conocimiento en Ansible / Playbooks. 
+Conocimiento en lenguajes de programación java, react native, ios, android y python. 
+Conocimiento de herramientas Git/BitBucket, Jenkins, Jira, Artifactory, Sonarqube, SonarCloud Snyk, MS AppCenter, Confluence (o similares). 
+Sólidos conocimiento sobre contenedores (Docker) y orquestación de contenedor AWS EKS. 
+Conocimiento sobre base de datos relacionales y no relacionales rds, aurora, dynamo, MySQL, SQL Server, MongoDB). 
+Sólidos conocimiento sobre DevOps, CI/CD pipelines Github Actions, aws code pipeline y aws code build. 
+Sólidos conocimiento en tuberías e infraestructura como código PAC / IAC. 
+Sólidos conocimiento de Terraform / Terraform Cloud. 
+Distribución de aplicaciones móviles en ms appcenter. 
+Conocimiento de Frameworks de agilidad (Scrum, Kanban, etc.). 
+Conocimiento en automatización de pruebas unitarias. 
+Uso de framework para Testing Continuo (Deseable). 
+Previa experiencia en entornos cloud donde se trabajen en la automatización de modelos ML usando Databricks (deseable). 
+Conocimiento del flujo Data Ops (deseable). 
+
+Benefits
+
+Vacaciones / Flexibilidad de Trabajo
+
+22 dias de vacaciones
+Trabajo Remoto: Remoto
+
+Salud / Seguros
+
+Seguro de Salud
+
+Beneficios salariales
+
+Esquema 100% vía nómina
+Bono desempeño
+30 días de aguinaldo
+
+Beneficios Extras + Educación
+
+Plan de capacitación
+Plan de carrera
+Certificaciones en plataformas
+";['adaptabilidad', 'gestión de proyectos']
+51;es;"¡Sumate a Huumit!
+
+
+
+En Huumit Recruitment estamos buscando un Analista programador Sr/Ssr para ERP interno con el objetivo de unirse a este fantástico equipo de trabajo. 👥💼
+
+
+Estamos en búsqueda de un Programador Senior/Ssr altamente calificado y con sólida experiencia para unirse a nuestro equipo de desarrollo va a ser parte del proceso de desarrollo de nuevas funcionalidades y mantenimiento de los sistemas.
+
+
+A su vez participará activamente de los proyectos del área tanto en la parte de análisis, desarrollo, revisiones como de implementaciones.
+
+
+Conocimientos técnicos requeridos
+
+
+
+Experiencia como programador Sr en python o typescript 3años (Excluyente).
+Experiencia mínima de 3 años en base de datos SQL (Excluyente).
+Experiencia con Azure (deseable).
+Experiencia desarrollando FrontEnd (deseable) / Backend (Excluyente).
+Estudios avanzados o culminados en carreras de sistemas o afines | Deseable.
+
+
+Conocimientos no técnicos 
+
+
+
+Excelentes habilidades de comunicación verbal y escrita, en español e inglés.
+Habilidad para colaborar y trabajar en equipo con otros departamentos.
+Habilidad para tomar la iniciativa y trabajar de manera autónoma.
+Habilidad para aprender rápidamente y adaptarse a los cambios.
+
+
+Es un plus para nosotros:
+
+
+
+- Experiencia deseable en un puesto similar de más de 3 años.
+- Buena predisposición para el trabajo en equipo.
+
+
+Nos preocupamos sinceramente por tu salud, bienestar y crecimiento profesional. ¡También cuidamos tus ingresos! ¡Nos aseguramos de mantenerlos actualizados! 💪💼💰
+
+
+Estas son nuestras propuestas de valor para ti:
+
+
+
+Bonos por rendimiento (hasta 2 salarios) 💰💰
+Cobertura de seguro médico privado 🏥💊
+Premios en la plataforma CuponStar con múltiples beneficios 🎁🛍️
+Capacitación en el idioma inglés incluida 🇺🇸📚
+Trabajo híbrido (presencial y desde casa) 🏠👨‍💼👩‍💼
+
+
+Horario laboral:
+
+
+
+Híbrido presencial/home office de lunes a viernes (3 días presenciales, 2 días desde casa).
+
+
+Ubicación: Vicente López 📍🗺️
+
+
+
+Si crees que cumples con los requisitos, no dudes en postularte. ¡Queremos saber de vos! ¡Te estamos esperando! 🙌🏼💼👨‍💻
+";['comunicación', 'trabajo en equipo']
+52;en;"At Inmind Software we are blockchain & mobile software development experts. Our main goal is to deliver quality solutions for our customers' needs. We work with US clients in end-to-end projects and staff augmentation.
+We are writing blockchain history together with leading companies in the industry, are you joining us?
+In this opportunity, we are looking for an AWS data engineer with relational database experience.
+
+
+Project:
+This is a major AI project and we are looking for someone who possesses data transformation skills and work with existing datasets.
+The IA project uncovers hidden growth opportunities by transforming fragmented data into actionable intelligence, driving efficient decision making and profitability across the entire business ecosystem.
+The project is very challenging, so we are looking for someone who is highly motivated and with solid knowledge.
+
+
+Daily tasks:
+Analyze and organize raw data 
+Build data systems and pipelines
+Evaluate business needs and objectives
+Interpret trends and patterns
+Conduct complex data analysis and report on results 
+Prepare data for prescriptive and predictive modeling
+Build algorithms and prototypes
+Combine raw information from different sources
+Explore ways to enhance data quality and reliability
+Identify opportunities for data acquisition
+Develop analytical tools and programs
+Collaborate with data scientists and architects on several projects
+ Requirements (Must)
+Previous experience as a data engineer or in a similar role
+Technical expertise with data models, data mining, and segmentation techniques
+Hands-on experience with SQL database design
+Experience in Python 
+Different services and concepts of AWS data engineering (AWS RDS - Postgre SQL)
+Serverless data using S3, Glue and Athena
+Sftp server
+Great numerical and analytical skills
+Full time availability
+
+
+Plus
+AWS Certified Data Engineer Associate 
+English level: B2 or higher 
+
+
+Benefits
+Payment in USD by Let´s Deel
+Remote
+15 business days of vacation per year
+Local bank holidays";['communication', 'teamwork', 'problem solving', 'analytical skills']
+53;es;"ÚNETE A NUESTRO EQUIPO! Experto en Chatbots
+Buscamos un experto en chatbots para incorporarse a nuestro equipo. 
+
+Requisitos: 
+
+Experiencia comprobada en diseño e implementación de chatbots.
+Conocimiento sólido de la plataforma BOTPRESS.
+Capacidad para crear flujos de conversación intuitivos y efectivos.
+Habilidad para analizar datos y mejorar continuamente el rendimiento del chatbot. 
+
+
+
+Envía tu CV y una breve carta de presentación a [info@spectrumagencylab.com] o contactanos con un mensaje por aqui!
+";['comunicación']
+54;en;"About The Role
+
+The Team:You will report to the Head of Infrastructure, Latin America, and be working closely with a number of highly experienced industry specialists, not only in Latin America but globally.
+
+The Global Infrastructure Practice was established by S&P Global Ratings to expand our ratings franchise in an area of strong growth and to leverage our significant global infrastructure expertise across the full range of infrastructure and energy asset classes. Analytical team members reside in 16 locations globally and work on a diverse range of transactions applying different ratings criteria.
+
+As important as the pure professional background is the personal and cultural fit. S&P Global's culture can be described as highly integrated & collegiate, as a firm we work supporting each other to deliver the best solutions to clients.
+
+Responsibilities And Impact
+
+At S&P Global Ratings, your analytical opinion truly matters and each person who works here has an essential role in our reputation of integrity, transparency, and ratings excellence. S&P Global Ratings plays a vital role in bringing transparency and comparability to the financial markets and helps investors and others measure and manage credit risk. By supporting capital markets, S&P Global Ratings helps people grow businesses, cities and states to build highways and hospitals, and manufacturers to build factories and create jobs.
+
+The successful applicant will have the opportunity to further expand analytical excellence on an ongoing basis as we aim to encompass achievement within a working environment that is rewarding, stimulating and where there is a constant focus on building skills and competencies through learning.
+
+With the mentorship of senior analysts, you will work closely with the sector team on its ongoing surveillance of a portfolio of rated issuers. You will perform basic fundamental credit analysis, forecasting, and industry analysis. You are likely to be considered for providing input to financial models and written analysis used for reviews and external publications.
+
+This team environment stimulates continuous innovation and highest customer service standards.
+
+What We're Looking For
+
+Basic Required Qualifications:
+
+Bachelor degree holder of Business, Economics, Finance, Engineering, Mathematics, or a related subject.
+
+Analytical skills with an understanding of financial statement analysis and accounting concepts.
+
+Ability to quickly absorb, analyze, and act upon information, while demonstrating strong proficiency with figures
+
+Aptitude for expanding, learning, and passion for contributing.
+
+Highly organized with the ability to multitask and work under time pressure.
+
+StrongExcel/Word/PowerPointand database application skills.
+
+Additional Preferred Qualifications
+
+Strong proficiency with VBA, financial models and financial data.
+
+Knowledge of programming languages (e.g. C++, MATLAB, Python, R or VBA)
+
+Prior experience with data analysis. Knowledge of SQL and experience in databases such as Oracle, Sybase, or Access would be helpful
+
+Return To Work
+
+Have you taken time out for caring responsibilities and are now looking to return to work? As part of our Return to Work initiative, Restart, we are encouraging enthusiastic and talented returners to apply, and will actively support your return to the workplace.
+
+What's In It For You
+
+Infrastructure finance is one of the fastest growing sectors of the capital markets and is a key funding source and growth driver for many areas of the economy. If you are interested in helping to facilitate this growth while challenging yourself in a fast-paced environment, this is the right position for you. It offers the opportunity to work in a collegial culture with great potential for professional development and career growth. To succeed, you must be comfortable with quantitative analysis and have a knack for problem solving. In addition, this role provides a great opportunity to be exposed to a range of markets and asset types; it encompasses compelling analytical expertise and effective management skills.
+
+In the position, you will be working as part of the Global Infrastructure Ratings group at S&P Global Ratings. With the guidance of a senior analyst, a qualified Associate typically maintains direct analytical responsibility for a portfolio of rated issuers within the transportation, energy, power, renewables and utilities asset classes.
+";['problem solving', 'creativity', 'analytical skills', 'customer service', 'fast-paced environment']
+55;en;"The Position:
+
+We're looking to hire an Artificial Intelligence/Machine Learning Engineer to join our team. You'll work with our incredible clients in one of two ways:
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We're Looking For:
+
+4+ years of professional software development experience.
+3+ years of professional experience in designing and implementing machine learning algorithms.
+Meaningful experience in programming languages such as Python, R, or Java.
+Proficiency in working with machine learning frameworks such as TensorFlow or PyTorch.
+Proficiency in working with data analysis and visualization tools such as Pandas, NumPy, or Matplotlib.
+Advanced English is required.
+Successful completion of a four-year college degree is required.
+Ability to work through new and difficult issues and contribute to libraries as needed.
+Ability to create and maintain continuous integration and delivery of applications.
+Forensic attention to detail.
+A positive mindset and a can-do attitude.
+Experience working on Agile / Scrum teams.
+Meaningful experience working on large, complex systems.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week.";['attention to detail', 'analytical skills', 'project management']
+56;en;"Concord isn't your typical consulting firm; we are an execution company with a passion for making things happen. Our mission is to help clients enhance customer experiences, optimize operations, and revolutionize their product offerings through seamless integration, optimization, and activation of technology and data.
+
+
+We are seeking a highly skilled and experienced Machine Learning/AI Engineer to join our dynamic team. Our portfolio offers software tools coupled with content and services that customers need to make decisions with confidence.
+
+
+Responsibilities
+
+• Develop predictive models using supervised and unsupervised machine learning/deep learning
+• Build models for legal predictive analytics, natural language understanding, conversational AI, robotic accounting, forecasting and anomaly detection
+• Provide expertise in data wrangling, exploratory data analysis and feature engineering with large data sets
+• Support the development of proofs of concept to demonstrate the application of AI/ML capabilities in solving customer problems in collaboration with product and other development teams
+• Collaborate effectively with other teams across the organization
+• A self-starter who can align the technology solution with a business goal
+
+
+Qualifications
+
+3+ years’ experience in supporting the development of production-ready solutions leveraging AI technologies: NLP, Deep Learning, Machine Learning
+Strong hands-on expertise in Python and open source libraries/frameworks/tools such as NumPy, SciPy, scikit-learn, pandas, matplotlib, spaCy, NLTK, jupyter, anaconda, transformers, etc.
+Experience with deep learning frameworks such as TensorFlow, Keras, PyTorch
+Experience in applying deep learning to NLP
+Experience with designing, building, and optimizing data and model training pipelines
+Experience with cloud-based platforms (AWS or Azure) for solution delivery
+Experience working with agile and Software Development Lifecycle tools (e.g. JIRA, Confluence, Git) and Test-Driven Development (TDD)
+Undergraduate or Graduate degree (MS or PhD) in Computer Science, Engineering, Mathematics or equivalent, specializing in machine learning or a related field
+Advanced English skills (B2 or higher)
+
+
+Nice to have
+
+Experience in SageMaker or Azure ML Studio a plus
+Computer vision modeling a plus
+Experience in the healthcare industry is a big plus
+
+
+Job specifications
+
+Contract type: contractor (6 to 12 months)
+Location: Latin America (remote)
+Timezone: US timezone
+";['communication', 'teamwork', 'problem solving', 'analytical skills', 'project management']
+57;en;"Data Engineer/Machine Learning Engineer 
+
+
+
+Position Summary:
+
+
+
+Our partner is looking for a saavy Data Engineer/Machine Learning Engineer to join a cutting-edge development team and develop top of the industry fintech applications partnering with quantum teams and Data Science teams! In this role you play a crucial role in designing, building and maintaining data pipelines that enable efficient data processing, storage, and analysis. You will be a part of a team that’s building innovative analytical tools and frameworks to exploit advantages in the latest fintech developments in cloud computing. Finally, you will be a crucial part in shaping future highly functional applications to deliver successful high quality, and sustainability of solutions.
+
+
+Experience and Education:
+
+
+
+BS in Computer Engineering or Computer Science, Statistics, Informatics or related experience/field
+5+ years of experience with data management, data management tools and data quality
+Strong understanding of machine learning concepts, algorithms, and deep learning architectures
+Experience managing data streams with varied files format such as EDI, XML, Flat Files, others
+Familiar with stream-processing systems: Apache Kafka, Spark-Streaming, others
+
+
+Technology Skills and Strengths:
+
+
+
+Kafka
+Airflow
+Spark
+Python
+AWS
+AWS services (S3, AWS Lambda, AWS Glue, others)
+Data warehousing
+Data pipelines
+Data architecture
+Data management
+Data security
+ETL processes
+Machine Learning operations (MLOps)
+ML model evaluation and optimization
+Metadata dependency
+Workload management
+SQL and NoSQL DB (such us NumPy, Pandas, MongoDB, others)
+SQL (development, implementation and optimization)
+Automation (Terraform, ARM Template)
+LifeCycle Data Development
+API (development and integration)
+Distributed Data Processing
+User stories
+Databricks (a plus)
+Kubernetes (a plus)
+
+
+Primary Job Responsibilities:
+
+
+
+Create and maintain an optimal data pipeline architecture to move, transform, and cleanse datafrom various sources into the correct data storage or processing systems
+Design, develop and implement data packages for data warehousing or applications
+Integrate data from various sources, both structured and unstructured, including databases, APIs, logs, and external datasets
+Design, develop, and fine-tune machine learning models, including supervised, unsupervised, and deep learning models
+Collect, clean, and preprocess data for model training, ensuring data quality and integrity
+Deploy machine learning models into production environments, ensuring scalability and reliability.
+Work with a team of developers with deep experience in data, distributed microservices, and full stack systems
+Work with data management, data access (big data, data marts, etc.), programming, and data modeling; and familiar with analytic algorithms and applications
+Provide technical support and problem resolution for related data service teams
+Architect, deploy and maintain data models and schema to support analytics and reporting requirements
+Develop and test scripts and exception handling processes based upon design
+Create and maintain technical documentation to support the business application and data related processes
+Troubleshoot to resolve operational and/or system problems";['communication', 'problem solving', 'creativity']
