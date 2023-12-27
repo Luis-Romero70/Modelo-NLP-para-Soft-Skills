@@ -1,0 +1,11 @@
+¿QUÉ DESAFÍOS TE ESPERAN?
+Participar en el análisis, diseño y desarrollo de soluciones técnicas.
+
+¿QUÉ VALORAMOS DE TU PERFIL?
+Experiencia con Angular 14 y superiores.
+Experiencia trabajando con Docker.
+Conocimientos sólidos de GitFlow, GitHub, Gitlab, Copilot.
+Experiencia trabajando con FireBase y FireStore HTML/CSS/Wordpress/JavaScript.
+APIs REST (Postman, OpenAPI / Swagger).
+Excelentes habilidades en resolución de problemas y análisis de índole técnico.
+

@@ -1,0 +1,25 @@
+What we're looking for:
+
+We are looking for a Senior Frontend engineer to join our engineering team, specifically our CMP Squad. Our main office is in Paris and we are a very distributed team with people working remotely in Europe and the Americas.
+
+
+Responsibilities:
+
+Leveraging your experience in building and maintaining complex frontend applications, you will drive the development of our user-facing web applications, primarily our Web SDK.
+We are looking for someone who is eager to:
+Collaborate with designers, product, and other developers to ship new features
+Be in charge of the overall architecture of web applications
+Ensure that we have the right tests and structure in place to make sure that we can move quickly without breaking everything
+Share your knowledge of software development principles and best practices with the team
+Keep learning new technologies and be on the look-out for new ideas that we should try out
+
+
+Qualifications:
+
+Solid knowledge of JavaScript and Typescript
+Experience with modern JavaScript and Typescript tooling and libraries
+Experience with front-end applications built in React and best practices and patterns
+Quality-oriented mindset: testing, code reviews, code quality, etc.
+A passion for simple, maintainable, and readable code that balances pragmatism and performance
+Knowledgeable of accessibility concepts and developing WCAG-compliant features
+Obsession with performance considerations and experience with optimizing metrics related to Google Core Web Vitals
