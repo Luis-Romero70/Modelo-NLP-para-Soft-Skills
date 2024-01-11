@@ -1,0 +1,60 @@
+Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including: workload migrations & modernization, cloud native application development, DevOps, data engineering, security & compliance and everything in between. At Caylent, our people always come first.
+
+
+We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien!
+
+
+The Mission
+
+
+At Caylent, a Senior Machine Learning Architect works as an integral part of a cross-functional delivery team to design and document machine learning solutions on the AWS cloud for our customers. We are looking for someone that has a strong understanding of the various model types and tools, and can help our customers connect their business goals with the details of feature design, model training and inference. You will also have a weekly 1:1 with your manager to help guide you in your career and make the most of your time at Caylent.
+
+
+Your Assignment
+
+
+Work with a team to deliver machine learning solutions on AWS for customers
+Decompose business goals into architecture and Sprint-level tasks
+Having had thorough hands on experience, lead engineers in building solutions
+Participate in daily standup meetings and address technical issues
+Design and document ML models, MLOps, and analytics
+Big data processing and preparation of training data for models
+
+
+Your Qualifications
+
+
+At least 7 years of hands on experience in most of these ML tools/techniques:
+Build ML models in SageMaker
+Build ML models in frameworks like Tensorflow & PyTorch and deploy in SageMaker
+Train and deploy AWS pre-trained AI Services and Foundational Models
+Build and optimize models using feature definition, activation functions, hyperparameter tuning and other techniques
+Integrate ML models into real-time applications and batch workflows, recommend better infrastructure design and optimization
+Monitor, evaluate and continuously improve model performance, as well as automate these tasks using one or more tools for MLOps
+Hands on experience in these data engineering tools/techniques:
+Data integration, cleansing, transformation, and visualization using Python packages, SQL, PySpark etc.
+AWS services such as Glue, EMR, Athena, DynamoDB, StepFunctions, EKS etc
+Experience with an IaC tool such as CloudFormation, CDK or Terraform
+Excellent written and verbal communication skills
+
+
+Benefits
+
+
+Pay in USD
+100% remote work
+Generous holidays and flexible PTO
+Competitive phantom equity
+Paid for exams and certifications
+Peer bonus awards
+State of the art laptop and tools
+Equipment & Office Stipend
+Individual professional development plan
+Annual stipend for Learning and Development
+Work with an amazing worldwide team and in an incredible corporate culture
+
+
+Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent.
+
+
+We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.

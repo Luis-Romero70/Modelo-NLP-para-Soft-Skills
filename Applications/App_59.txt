@@ -1,0 +1,66 @@
+Lean Tech is a fast-growing company located in Medellín, Colombia. We currently have one of the most prominent networks within the entertainment, financial, and logistics industries. Our corporate projections represent hundreds of opportunities for our professionals to grow and boost their careers. Working with us means collaborating with large engineering teams across Latin America and the United States.
+
+We are currently looking for an experienced, dynamic, and highly motivated Machine Learning Engineer with a mix of strong technical expertise, engineering best practices, business engagement, hands-on architecture, project delivery, and cross-team collaboration. In addition, the candidate ought to have a passion for inspiring and mentoring junior engineers with varying levels of experience.
+In particular, as a Python engineer in the Data Science team, you should possess an in-depth knowledge of object-relational mapping, experience with server-side logic, and knowledge of Python programming/scripting. You should have a good understanding of machine learning models and data science concepts. You also will be responsible for writing and testing scalable code, developing back-end components, and integrating user-facing elements in collaboration with other developers.
+If you understand how to balance speed, long-term scalability, and performance, want to contribute ideas, and be part of a small team building a lot of things from scratch, this may be the opportunity for you.⚡ What you'll do
+Build services that are part of our proprietary decision engine—the core of Company's product
+
+Develop statistical machine learning models and data pipelines to serve Company's decision engine
+
+Collaborate with the development team to design, develop, and maintain high-quality software solutions in Python
+
+Write clean, efficient, and maintainable code, following best practices and coding standards
+
+Work on database design and interact with relational databases using ORMs, such as SQLAlchemy and Django
+
+Understand, analyze, and implement business needs, feature modification requests and conversion into software components
+
+Implement and maintain unit tests using frameworks like Unittest, pytest, and Behave to ensure code reliability
+
+Write technical documentation, lead code reviews and pair programming sessions
+
+Be a technical leader within the team you work with and within Company in general
+
+Engage in discussions to provide insights into business, and technical decisions and project updates
+
+🎯 What we're looking for
+6+ years of experience as a Python Developer
+
+English Level Required B2+
+Experience using various Python libraries, like Pandas, SciPy, and tools, such as Jupyter
+
+Experience in developing AI/ML and data science modules
+
+Strong understanding of relational databases and experience with ORMs (SQLAlchemy and Django)
+
+Proficiency in unit testing frameworks such as Unittest, pytest, and Behave
+
+Proficient understanding of code versioning tools such as GitHub
+
+Excellent problem-solving and critical-thinking skills
+
+A responsible and dedicated individual with a keen attention to detail
+
+Strong communication and collaboration skills
+
+Bachelor's degree in Computer Science, Computer Engineering, or related field
+
+👍🏼 Nice to have
+Experience working with Docker
+
+Familiarity with AWS services, like ECS, EC2, RDS, SQS, S3, etc., and experience using boto
+
+Experience in developing data engineering pipelines & ETL jobs
+
+Preference for candidates with startup experience and a diverse range of roles in their career
+
+🤗 Who you are
+Excellent verbal communication skills
+
+Strong attention to detail
+
+Have an extreme ownership mindset
+
+Being a team player
+
+Comfortable with working unsupervised

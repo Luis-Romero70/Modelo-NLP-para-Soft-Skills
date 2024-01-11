@@ -1,0 +1,40 @@
+About NCR
+
+NCR Corporation (NYSE: NCR) is a leader in transforming, connecting and running technology platforms for self-directed banking, stores and restaurants. NCR is headquartered in Atlanta, Ga., with 38,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+
+Título: Data Systems Engineer
+
+Localidad: Argentina - Virtual
+
+Grado: 10
+
+Resumen De La Posición
+
+Será responsable de diseñar, implementar, optimizar y administrar bases de datos. Automatización de procesos y reportes.
+
+Tareas Laborales Diarias
+
+Análisis de datos recurrentes y/o específicos. 
+Creación y automatización de reportes. 
+Trabajo en conjunto con áreas de desarrollo y Analytics. 
+
+Requisitos Básicos
+
+Experiencia en base de datos SQL y NoSQL. 
+ Experiencia en puestos similares. 
+Nivel de inglés B2/C1 (deseable)
+Experiencia en Python. (deseable)
+Experiencia en Estructura de Azure (deseable)
+Experiencia en Databrick. (desable)
+Experiencia de Reporting Services (deseable)
+Experiencia en Administración de Servidores Windows / Linux. (desable)
+
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+
+EEO Statement
+
+Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+
+Statement to Third Party Agencies
+
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.

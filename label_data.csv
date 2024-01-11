@@ -51,7 +51,7 @@ file_number;language;text;soft_skills
 
 
 
-";['teamwork']
+";[]
 13;en;"We are hiring a Data Scientist to drive data-driven decision-making. Strong analytical abilities and soft skills such as adaptability and creativity are key attributes we value.
 
 
@@ -78,7 +78,7 @@ file_number;language;text;soft_skills
 
 
 
-";['teamwork']
+";[]
 16;en;"We're looking for an experienced Data Scientist who can apply machine learning techniques to complex datasets. Strong interpersonal skills and the ability to collaborate with diverse teams are essential.
 
 
@@ -521,7 +521,7 @@ Personal time off (PTO) for vacations, study leave, personal time, etc.
 
 At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
 
-Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.";['communication', 'teamwork', 'problem solving', 'creativity', 'leadership']
+Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today.";['communication', 'teamwork', 'problem solving', 'creativity', 'leadership', 'mentoring/teaching']
 49;es;"Description
 
 Amazon Web Services (AWS) ofrece un conjunto completo de servicios en la nube que permiten que todas las empresas, desde startups hasta empresas, ejecuten prácticamente todo en la nube, incluidas aplicaciones móviles, análisis de big data, plataformas de IA/ML e infraestructuras sin servidor y microservicios/infraestructuras sin servidor. Las startups, que ahora nacen principalmente en la nube, representan un subconjunto de clientes de importancia crítica y creciente para AWS. Las startups tienen necesidades, prioridades y trayectorias de crecimiento únicas que las distinguen de los negocios tradicionales y requieren diferentes estrategias de participación y movimientos de ventas de los vendedores para adquirirlos, crecer y retenerlos de manera efectiva a largo plazo en la plataforma de AWS.
@@ -692,7 +692,7 @@ Ubicación: Vicente López 📍🗺️
 
 
 Si crees que cumples con los requisitos, no dudes en postularte. ¡Queremos saber de vos! ¡Te estamos esperando! 🙌🏼💼👨‍💻
-";['comunicación', 'trabajo en equipo']
+";['comunicación', 'trabajo en equipo', 'adaptabilidad']
 52;en;"At Inmind Software we are blockchain & mobile software development experts. Our main goal is to deliver quality solutions for our customers' needs. We work with US clients in end-to-end projects and staff augmentation.
 We are writing blockchain history together with leading companies in the industry, are you joining us?
 In this opportunity, we are looking for an AWS data engineer with relational database experience.
@@ -804,7 +804,7 @@ What's In It For You
 Infrastructure finance is one of the fastest growing sectors of the capital markets and is a key funding source and growth driver for many areas of the economy. If you are interested in helping to facilitate this growth while challenging yourself in a fast-paced environment, this is the right position for you. It offers the opportunity to work in a collegial culture with great potential for professional development and career growth. To succeed, you must be comfortable with quantitative analysis and have a knack for problem solving. In addition, this role provides a great opportunity to be exposed to a range of markets and asset types; it encompasses compelling analytical expertise and effective management skills.
 
 In the position, you will be working as part of the Global Infrastructure Ratings group at S&P Global Ratings. With the guidance of a senior analyst, a qualified Associate typically maintains direct analytical responsibility for a portfolio of rated issuers within the transportation, energy, power, renewables and utilities asset classes.
-";['problem solving', 'creativity', 'analytical skills', 'customer service', 'fast-paced environment']
+";['problem solving', 'creativity', 'leadership', 'analytical skills', 'customer service', 'fast-paced environment', 'mentoring/teaching']
 55;en;"The Position:
 
 We're looking to hire an Artificial Intelligence/Machine Learning Engineer to join our team. You'll work with our incredible clients in one of two ways:
@@ -942,3 +942,1007 @@ Architect, deploy and maintain data models and schema to support analytics and r
 Develop and test scripts and exception handling processes based upon design
 Create and maintain technical documentation to support the business application and data related processes
 Troubleshoot to resolve operational and/or system problems";['communication', 'problem solving', 'creativity']
+58;en;"Job Description
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+As a Software Engineer III at JPMorgan Chase within the Infrastructure Platforms Team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
+
+Job Responsibilities
+
+Builds relationships with internal teams and clients and is passionate about unlocking value using AI and Machine learning
+Demonstrates intellectual curiosity for solving difficult problems
+Is a self-starter with technical knowledge and a hands on approach to using our data assets both efficiently and effectively
+Develop approaches for understanding each individual client and their behavior to deliver highly impactful ML models
+Develop, plan and execute analytical projects as an individual contributor and in teams.
+Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems
+
+Required Qualifications, Capabilities, And Skills
+
+Formal training or certification on data mining, quantitative research techniques, theories, principles, and practices and 3+ years applied experience.
+Experience in: SQL; Python; AWS, GCP or Azure
+Working with relational and non-relational databases; ML techniques including: regression, classification, time series, clustering, deep learning, hypothesis testing, cross validation, feature selection and feature extraction; NLP techniques including: topic modeling, entity extraction, summarization, and sentiment analysis;
+Working with machine learning and natural language processing libraries such as: scikit-learn, tensor flow, pandas, nltk,; and Building data pipelines and deploying ML models and data visualization techniques.
+Analytical thought leader - You can define the analytical agenda for projects, frame ambiguous business questions into analytical plans (e.g., assess data needs, source files, prepare data, create new features, evaluate quality, etc.), and execute.
+Leadership - Primary focus of building something of significance. Willingness to roll up sleeves and do whatever it takes to achieve the goals.
+Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages.
+
+Preferred Qualifications, Capabilities, And Skills
+
+Fluent in English
+";['problem solving', 'leadership', 'project management']
+59;en;"Lean Tech is a fast-growing company located in Medellín, Colombia. We currently have one of the most prominent networks within the entertainment, financial, and logistics industries. Our corporate projections represent hundreds of opportunities for our professionals to grow and boost their careers. Working with us means collaborating with large engineering teams across Latin America and the United States.
+
+We are currently looking for an experienced, dynamic, and highly motivated Machine Learning Engineer with a mix of strong technical expertise, engineering best practices, business engagement, hands-on architecture, project delivery, and cross-team collaboration. In addition, the candidate ought to have a passion for inspiring and mentoring junior engineers with varying levels of experience.
+In particular, as a Python engineer in the Data Science team, you should possess an in-depth knowledge of object-relational mapping, experience with server-side logic, and knowledge of Python programming/scripting. You should have a good understanding of machine learning models and data science concepts. You also will be responsible for writing and testing scalable code, developing back-end components, and integrating user-facing elements in collaboration with other developers.
+If you understand how to balance speed, long-term scalability, and performance, want to contribute ideas, and be part of a small team building a lot of things from scratch, this may be the opportunity for you.⚡ What you'll do
+Build services that are part of our proprietary decision engine—the core of Company's product
+
+Develop statistical machine learning models and data pipelines to serve Company's decision engine
+
+Collaborate with the development team to design, develop, and maintain high-quality software solutions in Python
+
+Write clean, efficient, and maintainable code, following best practices and coding standards
+
+Work on database design and interact with relational databases using ORMs, such as SQLAlchemy and Django
+
+Understand, analyze, and implement business needs, feature modification requests and conversion into software components
+
+Implement and maintain unit tests using frameworks like Unittest, pytest, and Behave to ensure code reliability
+
+Write technical documentation, lead code reviews and pair programming sessions
+
+Be a technical leader within the team you work with and within Company in general
+
+Engage in discussions to provide insights into business, and technical decisions and project updates
+
+🎯 What we're looking for
+6+ years of experience as a Python Developer
+
+English Level Required B2+
+Experience using various Python libraries, like Pandas, SciPy, and tools, such as Jupyter
+
+Experience in developing AI/ML and data science modules
+
+Strong understanding of relational databases and experience with ORMs (SQLAlchemy and Django)
+
+Proficiency in unit testing frameworks such as Unittest, pytest, and Behave
+
+Proficient understanding of code versioning tools such as GitHub
+
+Excellent problem-solving and critical-thinking skills
+
+A responsible and dedicated individual with a keen attention to detail
+
+Strong communication and collaboration skills
+
+Bachelor's degree in Computer Science, Computer Engineering, or related field
+
+👍🏼 Nice to have
+Experience working with Docker
+
+Familiarity with AWS services, like ECS, EC2, RDS, SQS, S3, etc., and experience using boto
+
+Experience in developing data engineering pipelines & ETL jobs
+
+Preference for candidates with startup experience and a diverse range of roles in their career
+
+🤗 Who you are
+Excellent verbal communication skills
+
+Strong attention to detail
+
+Have an extreme ownership mindset
+
+Being a team player
+
+Comfortable with working unsupervised";['communication', 'teamwork', 'attention to detail', 'leadership', 'mentoring/teaching']
+60;en;"Dive into a world where code meets creativity and each line you write has the potential to spark digital life into the most advanced AIs. We're not just a company, we're a global tech phenomenon, piecing together the future of engrossing chatbots straight out of science fiction. We're on the hunt for a Python Developer — a sharp coder with a taste for agility, scalability, and all things AI. If you’re a modern-day tech artisan eager to embark on projects peppered with AI, ML, and collaborative innovation, you've found your arena.
+
+
+Your Adventure Awaits:
+
+
+
+Craft high-caliber, resilient code that adapts like AI and scales like cloud infrastructure.
+Engage in rigorous code reviews keeping an eye out for the pristine standard of clean and efficient codebases.
+Deploy cutting-edge Python libraries to deconstruct and streamline complex challenges with grace.
+Be the guardian of your code, ensuring it's not just functional but is a beacon of industry best practices for data-driven AI development.
+
+
+Your Toolkit and Talents:
+
+
+
+Proudly holding a tech decree, supplemented by continuous skill upgrades in the tech sphere.
+With 3+ years as a software sage, Python is your staff of power with which you weave backend magic.
+You've got fine-tuned expertise in Python, firing up data models, machine learning wizardry, and seamless API concoctions.
+Adept in SQL with the QA acumen that places you at the heart of the DevSecOps revolution.
+Familiarity with CI/CD, unit testing, and a history of conquered bugs will set you apart as a candidate of legend.
+You thrive on solving algorithmic puzzles, transforming towering data sets into digestible insights.
+If cloud platforms and container orchestration sing your song, consider us already charmed.
+Your software development achievements aren't just noted; they echo in the valleys of tech lore.
+You're so well-versed in English, you're unofficially the Rosetta Stone between geeks and mortals.
+
+
+Unique Perks and Opportunities:
+
+
+
+Collaborate with illustrious researchers and innovators from every corner of the globe, building a network that’s as expansive as your ambitions.
+This is more than a job; it’s a digital nomad's dream with full remote flexibility. Work where you thrive.
+Enjoy a competitive salary paid in USD, ensuring you benefit from a global standard.
+Work on breakthrough projects that bend the boundaries of tech, consistently pushing you to the vanguard of industry innovation.
+Rise with Us: Answer the call to invent the intelligence that will define tomorrow’s conversational AI. Let's turn what if into what is together! 🚀
+";['communication', 'teamwork', 'creativity', 'adaptability']
+61;en;"Python Developer Wanted: Help Us Engineer the Conversational Bots of the Future!
+
+
+
+Are you intrigued by the potential of artificial intelligence to unlock new ways we interact with technology? We’re a cutting-edge company on a mission to develop intelligent chatbots that aren't just innovative but are a leap forward in how we experience learning and entertainment through conversation. We're scouting for a talented Python Developer who thrives in an inventive and fast-evolving landscape, someone ready to leave their mark on the AI world.
+
+
+The Role Awaits:
+
+
+
+Develop durable, clear-cut code that will be a backbone for our AI-driven products.
+Take part in detailed code reviews ensuring we uphold the high bar for quality and functionality.
+Leverage Python to devise solutions to intricate challenges, showcasing your coding finesse.
+Produce code that’s not just functional but is carefully documented and constructed with future expansion in focus.
+
+
+Your Credentials:
+
+
+
+Completed a Bachelor's or Master's degree in Engineering or Computer Science, or demonstrate equivalent professional experience.
+Have a minimum of 3 years of shaping software with a focus on Python development.
+Proficient in Python with expertise in its application to data science and machine learning initiatives.
+Adept in SQL and have an understanding of the essentials of QA.
+Bonus points for hands-on experience with software testing strategies and frameworks.
+Known for your aptitude in problem-solving, particularly in crafting algorithms.
+Background in data science or data engineering is massively favorable.
+A proven track record of building sleek, operable software applications.
+The fluent, articulate communicator in English, both verbal and written.
+
+
+Why You'll Love Working With Us:
+
+
+
+Engage and learn from top-tier researchers and developers from every part of the world, all from the comfort of your home.
+Revel in the freedom of remote work — find productivity in your personal haven.
+Receive a competitive salary that matches global standards, with the assurance of US dollars.
+Dive into boundary-pushing projects that will routinely challenge and excite you, keeping you at the cutting edge of tech advancements.
+Join Our Journey: If you’re driven to shape the way we interact with machines and eager to contribute to the next wave of AI advancements, we're waiting for you.";['creativity']
+62;en;"Who we are?
+
+Clip is changing the way payments work in Mexico! We are empowering people to exchange value directly from a mobile device. Clip enables anyone to accept card payments, at any time, and anywhere by turning your smartphone or tablet into a card terminal. We're a well-funded quickly growing FinTech startup. We are the leaders in our market and are accelerating to extend our lead and move into new markets.
+
+The Role:
+
+We are looking for a Data Engineer to be part of this amazing and fast – growing fintech and will be part of the team responsible for all of the data in the company used to support and implement Clip's mission. This Data Engineer work will be focused closely with product managers within the Product & Technology department as well as other leaders throughout the company to turn data into critical information and knowledge, he/she needs to be a creative thinker with a strong desire to learn and improve. A successful Data Engineer at Clip would propose innovative ways to look at problems by using data manipulation and engineering techniques, while proving that their projects bring value to the company, and they will directly impact business and product decisions for the future of Clip. This candidate must have strong written and verbal communications skills in both English and Spanish and be willing to continue learning and loving technology.
+
+What will I do?
+
+Work as part of a team developing in Python using Agile development methods.
+Contribute to team and organizational improvements in process and infrastructure.
+Work in the Data team and with the Architecture and DevOps teams to design and build efficient and fault tolerant data pipelines.
+Create and populate data lakes and a data warehouse to facilitate data analysis and data science projects. 
+Effectively use tools and ingenuity to identify and fix defects before they become a problem.
+Invent new things and create world-changing software
+
+Ideal Candidate:
+
+Skills and experience in using Spark and Databricks.
+Proficient in Python.
+Proficient in OO methodologies, Agile development, design patterns, unit testing, and other software engineering principles and processes. 
+Experience with AWS tools such as Redshift, Athena, Lambda, and Kinesis is a plus.
+Experience with developing data pipelines, data lakes, and data warehousing solutions.
+
+In Clip, we are committed to a diverse and inclusive workplace. Clip does not discriminate under any basis of origin, gender, gender identity, sexual orientation, race, disability, age or other legal status. Clip is an equal opportunity employer.If you are unstoppable, creative and have the skills we need, we want to hear from you!";['creativity', 'attention to detail', 'analytical skills', 'project management']
+63;en;"Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including: workload migrations & modernization, cloud native application development, DevOps, data engineering, security & compliance and everything in between. At Caylent, our people always come first.
+
+
+We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien!
+
+
+The Mission
+
+
+At Caylent, a Senior Machine Learning Architect works as an integral part of a cross-functional delivery team to design and document machine learning solutions on the AWS cloud for our customers. We are looking for someone that has a strong understanding of the various model types and tools, and can help our customers connect their business goals with the details of feature design, model training and inference. You will also have a weekly 1:1 with your manager to help guide you in your career and make the most of your time at Caylent.
+
+
+Your Assignment
+
+
+Work with a team to deliver machine learning solutions on AWS for customers
+Decompose business goals into architecture and Sprint-level tasks
+Having had thorough hands on experience, lead engineers in building solutions
+Participate in daily standup meetings and address technical issues
+Design and document ML models, MLOps, and analytics
+Big data processing and preparation of training data for models
+
+
+Your Qualifications
+
+
+At least 7 years of hands on experience in most of these ML tools/techniques:
+Build ML models in SageMaker
+Build ML models in frameworks like Tensorflow & PyTorch and deploy in SageMaker
+Train and deploy AWS pre-trained AI Services and Foundational Models
+Build and optimize models using feature definition, activation functions, hyperparameter tuning and other techniques
+Integrate ML models into real-time applications and batch workflows, recommend better infrastructure design and optimization
+Monitor, evaluate and continuously improve model performance, as well as automate these tasks using one or more tools for MLOps
+Hands on experience in these data engineering tools/techniques:
+Data integration, cleansing, transformation, and visualization using Python packages, SQL, PySpark etc.
+AWS services such as Glue, EMR, Athena, DynamoDB, StepFunctions, EKS etc
+Experience with an IaC tool such as CloudFormation, CDK or Terraform
+Excellent written and verbal communication skills
+
+
+Benefits
+
+
+Pay in USD
+100% remote work
+Generous holidays and flexible PTO
+Competitive phantom equity
+Paid for exams and certifications
+Peer bonus awards
+State of the art laptop and tools
+Equipment & Office Stipend
+Individual professional development plan
+Annual stipend for Learning and Development
+Work with an amazing worldwide team and in an incredible corporate culture
+
+
+Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent.
+
+
+We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.";['communication', 'problem solving']
+64;en;"About NCR
+
+NCR Corporation (NYSE: NCR) is a leader in transforming, connecting and running technology platforms for self-directed banking, stores and restaurants. NCR is headquartered in Atlanta, Ga., with 38,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+
+Título: Data Systems Engineer
+
+Localidad: Argentina - Virtual
+
+Grado: 10
+
+Resumen De La Posición
+
+Será responsable de diseñar, implementar, optimizar y administrar bases de datos. Automatización de procesos y reportes.
+
+Tareas Laborales Diarias
+
+Análisis de datos recurrentes y/o específicos. 
+Creación y automatización de reportes. 
+Trabajo en conjunto con áreas de desarrollo y Analytics. 
+
+Requisitos Básicos
+
+Experiencia en base de datos SQL y NoSQL. 
+ Experiencia en puestos similares. 
+Nivel de inglés B2/C1 (deseable)
+Experiencia en Python. (deseable)
+Experiencia en Estructura de Azure (deseable)
+Experiencia en Databrick. (desable)
+Experiencia de Reporting Services (deseable)
+Experiencia en Administración de Servidores Windows / Linux. (desable)
+
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+
+EEO Statement
+
+Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+
+Statement to Third Party Agencies
+
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.";['problem solving']
+65;es;"En Mercado Libre estamos democratizando el comercio, el dinero y los pagos en América Latina.
+ 
+Imagínate emprendiendo proyectos desafiantes, dinámicos e innovadores y siendo responsable de:
+
+ 
+Crear, desarrollar e implementar soluciones nuevas y escalables para problemáticas transversales a la organización, con base en técnicas de estadística, Data Science y Machine Learning.
+Obtener, procesar y analizar grandes volúmenes de datos provenientes de diversas fuentes y extraer insights de interés.
+Diseñar, entrenar y evaluar modelos de Machine Learning capaces de adaptarse a entornos productivos complejos y establecer las mejores prácticas de desarrollo de software, a fin de asegurar procesos eficientes y automatizados.
+Participar de reuniones con diferentes stakeholders, interpretar los requerimientos y proveer herramientas de visualización que simplifiquen la comunicación con interlocutores, tanto técnicos como de negocio.
+Interactuar con los equipos de ingeniería al momento de desplegar, monitorear y mantener los modelos en producción.
+ 
+Requisitos:
+
+ 
+Contar con 4 años de experiencia trabajando en proyectos de Machine Learning o Data Science. 
+Haber participado en la implementación de soluciones con Machine Learning en entornos productivos. 
+Poseer conocimientos en tecnologías vinculadas a Machine Learning; librerías del stack, como Python, Numpy, Pandas, Scikit-Learn, Matplotlib; frameworks de Deep Learning, como TensorFlow, Keras, PyTorch, y bases de datos relacionales y distribuidos, como Redshift, Teradata, Hive, Presto y BigQuery, entre otros. 
+Residir en cualquier localidad de Argentina.
+ 
+Tecnología es la esencia de nuestro producto. Nuestros equipos de desarrollo, arquitectura, base de datos, user experience, seguridad informática y data & analytics co-crean y son responsables de la plataforma líder de e-commerce de América Latina y de uno de los sitios de mayor tráfico en todo el mundo. En una industria que se reinventa día a día, nuestros equipos son reconocidos por su visión y liderazgo. Desde aplicaciones móviles a machine learning, nuestra innovación tiene un claro foco: simplificarle la vida a quien utiliza nuestros productos.
+ 
+Te proponemos:
+
+ 
+Ser parte de una compañía con espíritu emprendedor en la que nos encanta pensar en grande y a largo plazo.
+Ser protagonista de tu desarrollo en un ambiente de oportunidades, aprendizaje, crecimiento, expansión y proyectos desafiantes. 
+Compartir y aprender en equipo junto a grandes profesionales y especialistas.
+Un excelente clima de trabajo, con todo lo necesario para que vivas una gran experiencia. :)
+ 
+ *La tarea puede llevarse a cabo de manera remota, con opción de presencialidad.
+
+ 
+ 
+En Mercado Libre trabajamos para promover una cultura inclusiva, que busca la equidad y valora las diferentes perspectivas. Esto se traduce en género, religión, personas con discapacidad, LGBTQ+, etnia y diversidad de experiencias. Trabajamos todas nuestras búsquedas con base en esta premisa. ¡Súmate a nuestro equipo!";['comunicación', 'creatividad', 'adaptabilidad', 'liderazgo']
+66;en;"At Kin + Carta, we’ve got opportunities to offer you — for growth, for leadership, for big, world-changing impact and for, dare we say it, fun. We are a global workforce that is committed to building a world that works better for everyone. And that starts with our Kin. That’s why we’re proud of:
+
+
+The life we create within our virtual walls, every day
+Our B Corp certification
+Our ranking in Consulting Magazine's 2022 “Best Large Firms to Work For”
+The work we’ve done with some of the world’s most innovative companies
+
+
+The role
+
+Ideal candidates will have strong quantitative backgrounds and analytical discipline. While they will have some demonstrated ability to write code, they will not have learned programming languages for the sake of building their resume, but rather as a means to express their intellectual curiosity and analytical voice. Kin + Carta will provide a platform and training to help them reach their full potential.
+
+Kin + Carta is looking to hire a Data Engineer to join our growing capabilities team. If you are innovative, passionate about data and AI technologies, and look to continually learn and enjoy sharing expertise, read on!
+
+Role responsibilities
+
+
+Analyze a collection of raw data sets to create meaningful impact to large enterprise clients while maintaining a high degree of scientific rigor and discipline.
+Engineer data pipelines and products to help stakeholders make and execute data driven decisions.
+Communicate analytical findings in an intuitive and visually compelling way.
+Creating highly visual and interactive dashboards via Tableau, PowerBI, or custom web applications
+Conducting deep dive analysis and designing KPIs to help guide business decisions and measure success
+Engineering data infrastructure, software libraries, and APIs supporting BI and ML data pipelines
+Architecting cloud data platform components enabling the above
+Building and tracking project timelines, dependences, and risks
+Gathering stakeholder requirements and conducting technical due diligence toward designing pragmatic data-driven business solutions
+
+
+Minimum Qualifications
+
+We want all new hires to succeed in their roles at Kin + Carta. That's why we've outlined the job requirements below. To be considered for this role, it's important that you meet all Minimum Qualifications. If you do not meet all of the Preferred Qualifications, we still encourage you to apply.
+
+
+Proven industry experience executing data engineering, analytics and/or data science projects or Bachelors/Masters degree in quantitative studies including Engineering, Mathematics, Statistics, Computer Science or computation-intensive Sciences and Humanities.
+Proficiency (can execute data ingestion to insight) in programmatic languages such as SQL, Python, R
+5 years of experience working in similar roles. 
+
+
+Preferred Qualifications
+
+
+Proficiency in visualization/reporting tools such as Tableau and PowerBI or programmatic visualization library such as R ggplot2, Python matplotlib/seaborn/bokeh, Javascript D3.
+Proficiency scripting in UNIX environment
+Proficiency in big data environments and tools such as Spark, Hive, Impala, Pig, etc. 
+Proficiency with cloud architecture components (AWS, Azure, Google)
+Proficiency with data pipeline software such as Airflow, Luigi, or Prefect
+Ability to turn raw data and ambiguous business questions into distilled findings and recommendations for action
+Experience with statistical and machine learning libraries along with the ability to apply them appropriately to business problems
+Proficiency in front and back-end web application development stacks and frameworks (Javascript, HTML, CSS, React/Vue/AngularJS) including API design (REST/GraphQL) and library development 
+Experience leading and managing technical data/analytics/machine learning projects
+
+
+About Kin + Carta
+
+Kin + Carta is a global digital transformation consultancy committed to working alongside our clients to build a world that works better #ForEveryone. We build digital solutions that connect people, data and technology for some of the world’s most influential companies. As a Certified B Corp, we are committed to Inclusion, Diversity, Equity and Awareness, and our triple bottom line focus of people, the planet and profit.
+
+If you need accommodations at any point in the application or interview process, please let us know.";['communication', 'problem solving', 'creativity', 'leadership']
+67;es;"Hola! 🙋
+
+
+¿Todavía no conoces HIBERUS TECNOLOGÍA? Somos una empresa de #tecnología construida con un ingrediente diferencial, la HIPERESPECIALIZACIÓN.
+
+
+Formar parte de Hiberus significa crecimiento, pasión por la tecnología, interés por la innovación, ambiente laboral flexible y colaborativo, compañerismo, aprendizaje, formación continua, motivación y superación ante nuevos retos...y esto es solo el principio.
+Somos más de 2.500 profesionales y no paramos de crecer!🙌
+Actualmente contamos con más de 20 delegaciones en puntos estratégicos de España, tenemos presencia en 10 países europeos, sede en Marruecos, Argentina, Colombia, Ecuador, Mexico y en EEUU.
+
+
+Trabajamos muy duro, para transformar nuestra vida a través de la tecnología y queremos contar contigo para seguir creciendo. Si lo tuyo es el mundo IT, te gusta estar al día en las últimas tecnologías y quieres asumir un nuevo reto profesional ¡Sigue leyendo, te estamos buscando!
+
+
+🔎¿Qué estamos buscando?
+
+Buscamos especialistas en procesamiento de datos con Spark y Scala que quieran incorporarse al equipo y ser parte de grandes proyectos nacionales e internacionales.
+Buscamos una persona que nos ayude a seguir creciendo, con ganas de aportar y seguir evolucionando de la mano de los mejores profesionales, pero sobre todo... ¡en Hiberus buscamos buena gente!😉
+
+
+📋🖋️Habilidades y requisitos
+
+Al menos 2 años de experiencia en big data (spark, hadoop, hive, kafka)
+Amplia experiencia programando con Spark/Scala
+Experiencia con BBDD (SQL, Postgres, mysql...)
+Experiencia trabajando con herramientas devops (git, jenkins, sonar, nexus, jira, splunk)
+
+
+Y además sería un plus si tienes experiencia con...
+AWS
+Visualización de datos
+Flink, hbase
+Machine learning
+
+
+🙌¿Qué te ofrecemos?
+
+💼 Contrato indefinido en una compañía puramente tecnológica, que forma parte de un gran grupo, solvente y en crecimiento.
+💰 Salario fijo competitivo + bonificación
+🏡 100% Remoto desde nuestras sedes en Argentina, México, España, UK, Alemania, Italia, USA.
+🏖️ Ambiente familiar, cercano, ¡como una gran familia!
+⏰ Conciliación con nuestra vida personal y laboral mediante horario flexible, acuerdos de teletrabajo, desconexión digital, jornada intensiva viernes y verano.
+🤙 Cultura “techie”, nos gusta estar en contacto con la tecnología, herramientas, y últimas novedades!
+📚 ¡Formación! Siempre que quieras, disfrutarás de un amplio catálogo de cursos formativos, adaptados a tu perfil profesional, inquietudes y novedades del sector. Para ello, pondremos a tu disposición todo el potencial de nuestra Hiberus University y los acuerdos con los principales fabricantes.
+💳 ¡Benefíciate! Programa de retribución flexible a medida: seguro médico, tarjeta de transporte público, cheques guardería, tarjeta restaurante, etc.
+
+
+En Hiberus estamos viviendo un crecimiento explosivo 💥 y queremos que formes parte de nuestro equipo.
+Suena bien, ¿verdad? Si quieres saber más, ¡inscríbete y te contamos!
+Si quieres saber más busca nuestros hashtag #somoshiberus #lascosasocurrenaquí y conoce todo lo que hacemos.
+";['creatividad', 'colaborativo']
+68;en;"We are seeking a skilled AWS Developer with a strong background in Python and JSON to join our team. The ideal candidate will be responsible for developing and implementing innovative chatbot solutions using AWS services, with a focus on text-to-speech capabilities.
+This role involves leveraging a variety of AWS tools and technologies to create efficient, scalable, and effective chatbot applications.
+
+
+Candidates must be fluent in English and Spanish, both written and spoken. Only resumes in English will be considered.
+
+
+
+Responsibilities:
+Design and develop chatbot solutions using Amazon Lex, integrating voice and text functionalities.
+Implement text-to-speech features using Amazon Polly and other relevant AWS services.
+Work with AWS Lambda for serverless application development.
+Utilize AWS AI services such as Transcribe, Kendra, Textract, Rekognition, Comprehend, and Cognito for enhanced chatbot functionalities.
+Develop and maintain Lex intents and enhance chatbot designs using tools like Streamlit and OpenChatkit.
+Apply machine learning techniques using Amazon SageMaker, Anthropic, and OpenAI GPT for natural language understanding (NLU) and processing.
+Collaborate with cross-functional teams to integrate chatbot solutions into broader systems.
+Optimize applications for maximum speed and scalability, ensuring best practices in security and data protection.
+Provide innovative solutions to complex technical problems, demonstrating excellent problem-solving skills.
+
+
+Requirements
+
+2+ years of experience working with AWS cloud services.
+Proficiency in Python programming and JSON data format.
+Demonstrated experience in developing chatbot solutions.
+Strong understanding of AI, ML, and NLU principles.
+Excellent problem-solving abilities and a results-oriented mindset.
+
+
+Desirable Experience
+
+
+
+Experience with Amazon Lex V1/V2, Amazon Polly, Amazon Lambda, AWS Transcribe, Kendra, Textract, Rekognition, Comprehend, and Cognito.
+Familiarity with chatbot design, modeling, and implementation using Streamlit, OpenChatkit, and similar tools.
+Knowledge of AWS Machine Learning, IBM Watson, VoiceFlow, and other relevant technologies.
+Understanding of confidence scoring in AI applications.
+Knowledge of contact center environment / operations.
+Realtime application development such as voice and video
+Education
+Bachelor's degree in Computer Science, Information Technology, or related field (preferred but not mandatory).
+Strong communication and teamwork skills.
+Eagerness to learn new technologies and stay updated with the latest industry trends.
+AWS certification is a plus but not a requirement.";['communication', 'teamwork', 'creativity']
+69;en;"TrovaTrip is a trip management platform dedicated to making travel safer and more accessible to all. Our mission is to enhance lives via meaningful connections, learning, and exploration. Our team of travel enthusiasts lives out our mission daily.
+
+We are determined to make TrovaTrip one of the best places to work by building trust, respecting personal boundaries, valuing work-life balance, and promoting diversity and inclusiveness. Our commitment to instilling a true sense of ownership and belonging among every employee that will transcend from delighting customers to creating true market value. We believe in an environment where creativity, curiosity, and continuous improvement are encouraged and nurtured.
+
+If you seek to develop your career and thrive off a fast-paced, collaborative culture where you can make an impact, you may be a fit for this position within the TrovaTrip Analytics Team.
+
+About this position:
+
+TrovaTrip is searching for a Data Engineer to be a member of our Analytics Team! We are looking for an experienced data practitioner who is driven to increase the impact of analytics and insights across the organization. You’ll have the opportunity to help the organization level up on the data maturity curve and build models using our best-in-class data stack and leadership support, including FiveTran, Snowflake, dbt, and Sigma.
+
+Your work will directly support Analytics projects and have a measurable impact on the organization. Through ongoing operational learning, you’ll develop an expert understanding of the organization’s data, and partner closely with the Product Engineering, Sales, Marketing, and Trip Experience departments and report to the Director of Analytics.
+
+Essential Functions:
+
+Establish a best-in-class analytics program and further our data-driven philosophy for growth and expansion
+Mature the department using data modeling best practices, version control, and documentation for async collaboration
+Design and build new ELT-based data models using SQL and dbt
+Write reusable SQL queries and transformations to support iterative analytics and data science development
+Collaborate with analysts and stakeholders to understand business requirements
+Guide the ongoing development of data technical needs and data architecture
+Join data from disparate sources to enable better dashboarding, in particular sales/marketing data and events data for product analytics
+Design and build internal and consumer facing dashboards for sales, marketing, trip experience, and product engineering. 
+Design and build centralized reporting data model (Kimball, Inman, lakehouse, vault, etc) that is agile and self-service oriented. 
+Build automations for manual data processes and improve data literacy amongst department groups. 
+
+Qualifications:
+
+Advanced SQL abilities and experience with python, R, etc.
+Understanding of the modern data stack and experience managing it - from Insights tools like Sigma, Looker, QuickSight to more under-the-hood infrastructure like BigQuery, Segment, dbt, FiveTran, Airbyte, Snowflake, etc.
+A passion for travel, learning and exploration
+Strong work ethic and works well independently
+Efficiency and ability to succeed in a fast-paced environment
+Experience working cross-functionally with various teams internally
+Integrity and a dedication to excellence
+Exceptional async and collaborative communication skills
+Track record of achieving success
+Tenacity and resilience
+
+Perks And Benefits
+
+Direct contractor mode with Trovatrip Inc. - Payment 100% in USD.
+Stock options.
+Opportunities to grow your career along with the company.
+Flexible hours 
+USD$1,000 for equipment 
+Multicultural work environment.";['communication', 'teamwork', 'problem solving', 'creativity', 'leadership', 'project management', 'fast-paced environment']
+70;es;"🚀 Cuando pensamos en que VOS seas parte de nuestro equipo global en el “HUB de Datos” en Accenture Argentina, lo asociamos claramente a la canción: 🎵 “We (you)! will rock you” 🎵
+
+🚀¿Por qué? Porque queremos que te conviertas en el próximo experto en Ingeniería de Datos & Big Data. Tendrás el desafío de participar en proyectos de data en empresas de primer nivel local, regional y global.
+
+
+Si tenés experiencia a un nivel de liderazgo principal y un background técnico para hacer que las cosas funcionen ¡Sé parte de nuestro gran Equipo!
+
+
+🚀 ¿Qué desafíos te esperan?
+
+Como Data Engineering Consultant, vas a tener el desafío de desarrollarte y hacer crecer a nuestros clientes desde la arquitectura y la gestión de los datos tanto en la nube como on-premise; ¡tendrás la oportunidad de aprender todo lo necesario en el ciclo de vida de los datos con las mejores experiencias, metodologías y capacitaciones del mercado!
+
+🚀 ¿Qué tipo de perfil nos imaginamos?
+
+
+Profesionales de las carreras de Ingeniería Informática, Ingeniería en Sistemas, Licenciados en Ciencia de la Computación, y/o afines.
+
++4 años de experiencia en bases de datos relacionales: SQL Server, Oracle y/o Teradata, etc.
+
++ 2 años de experiencia en herramientas de ETL: SSIS, Talend, Informatica, Scripting: Unix Bash, y/o Python, etc.
+
++ 4 años de experiencia hands on en plataformas de big data: Hadoop, Cloudera, Hortonworks
+
+Tecnologías cloud: AWS, GCP y/o Azure.
+
+Teradata, Informatica y/o IBM Infosphere.
+
+Power BI, Qlik, y/oTableau
+
+Python y/o Java.
+
+Inglés avanzado.
+
+
+🚀 Un súper nice to have será contar con experiencia en:
+
+
+Proyectos relacionados a datos: BI, Analytics, Data integration, Data Migration, Data Governance y/o Data Quality, etc.
+
+Arquitecturas para BI: Analytics
+
+Gobierno y calidad de datos.
+
+Herramientas de data management: Informatica, Infosphere, Collibra y/o Talend.
+
+
+🚀 Ok… si llegaste a leer hasta acá, te adelantamos lo que también es necesario que sepas: parte de nuestros grandes beneficios.
+
+🍔 Pedidos Ya 👩‍⚕️ Prepaga Swiss Medical sin costo para vos y tu grupo familiar primario 💻 Reintegro de Conectividad 💪 Gimnasio 100% Bonificado 🌎 Vacaciones Flex 💯 Jornada Flex 📚 Certificaciones bonificadas 🎂 Día de cumpleaños libre 🏆 Bonos 🗓 Accenture Days 🤟🏽Paquete de beneficios flexibles 👨‍👩‍👦‍👦 Licencias de Paternidad & Maternidad Extendida 💰 Ayuda Económica para Guardería y muchos ➕!
+
+🌎 Trabajá desde cualquier parte de la Argentina de forma 100% remota. También ¡tenemos oficinas a disposición en CABA, La Plata, Mar del Plata y Rosario!";['liderazgo']
+71;en;"About us:
+
+e2f helps people and machines communicate naturally regardless of language, content, or culture.
+
+With expertise in data science - and deep roots providing agile translation in 200+ languages and dialects - e2f uniquely provides high-quality linguistic datasets of multilingual speech, text, annotation, and quality data required to help machines understand people.
+
+e2f customers include several of the world’s most successful artificial intelligence (AI) and natural language processing (NLP) deployments.
+
+About the Position:
+
+The AI Prompt Engineer and Fine-Tuner is responsible for optimizing the interactions with AI language models. This role involves crafting effective prompts to elicit desired responses from the model and fine-tuning the model's responses for specific use cases. The ideal candidate will have a strong understanding of AI language models, natural language processing, and user experience design.
+
+Key Responsibilities:
+
+ Prompt Engineering:
+Design and test prompts that effectively guide AI language models to generate accurate, relevant, and coherent responses.
+Analyze different prompting strategies and their outcomes to continually improve model interactions.
+ Model Fine-Tuning:
+Customize the model's responses for specific applications, ensuring they meet user requirements and business objectives.
+Collaborate with data scientists and engineers to fine-tune the model based on feedback and performance metrics.
+ Quality Assurance:
+Conduct rigorous testing to identify any biases or inaccuracies in the model's responses.
+Implement strategies to mitigate any identified issues, ensuring ethical and responsible use of AI technology.
+ User Experience Design:
+Work closely with UX designers to ensure that prompts and responses enhance user interaction with the AI model.
+Develop guidelines and best practices for prompt creation and model interaction.
+ Documentation and Training:
+Create comprehensive documentation on prompt engineering and fine-tuning processes.
+Train other team members on best practices and methodologies.
+
+Qualifications:
+
+Strong understanding of AI language models, particularly GPT-4 or similar technologies.
+Experience in natural language processing, machine learning, and data analysis.
+Excellent problem-solving skills and creativity in prompt design.
+Strong communication and teamwork abilities.
+Familiarity with programming languages such as Python is a plus.
+
+Desired Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Linguistics, AI, or a related field.
+Proven experience in the AI and data industry with a focus on natural language processing, machine learning, and data analysis.";['communication', 'teamwork', 'creativity', 'analytical skills', 'project management']
+72;es;"👉 Como Ingeniero de datos especializado en Microsoft Purview, podrás liderar diversas soluciones dentro de la práctica de Digital Enablement de KPMG Argentina. Serás un asesor de confianza y experto en la materia.
+
+
+💎 ¿Cuáles serán tus tareas?
+
+
+
+Asesorar a nuestros clientes en todo lo relacionado a la plataforma de Microsoft Purview con experiencia en gobierno de datos y estrategia. Ayudarlos a alcanzar sus prioridades de negocio con foco en la innovación y transformación de sus datos. Evaluar sus aplicaciones y requisitos comerciales para poder recomendarles soluciones exitosas.
+
+
+💎 Requisitos: 
+
+
+
+Graduados de Carreras informáticas, Administración de empresas o afines.
+Más de 5 años de experiencia en áreas de preventa, administración de cuentas o ventas relacionadas con servicios tecnológicos.
+Experiencia demostrable en diseño e implementación de soluciones de datos.
+Conocimiento sólido de tecnologías y herramientas como: SQL, Python, Hadoop y Spark.
+Conocimientos y experiencia en servicios de Data Analytics provistos por los principales CSPs (GCP, Azure, AWS)
+Certificación en Azure Data Fundamentals (DP-900) o conocimiento equivalente (Deseable)
+Capacidad para aprender rápidamente nuevas tecnologías según sea necesario.
+Poseer buenas habilidades comunicacionales, analíticas, de gestión y de liderazgo.
+Nivel de inglés requerido: avanzado.
+
+
+✨ ¿Qué tenemos para ofrecerte?
+
+
+
+🏋️Afrontar desafíos de forma constante y desarrollar tu carrera en un ambiente dinámico.
+✡ Prepaga para vos y tu grupo familiar directo.
+💳Tarjetas de beneficios: Club La Nación Premium, Club La Voz y La Capital.
+💻Reintegro de Conectividad & Servicios.
+📚Certificaciones con descuentos exclusivos.
+🏝Días hábiles de vacaciones.
+🎂¡Día de cumpleaños libre!
+👨‍🎓¡Días extras por estudio!
+💰Reintegro por Guardería.
+👩‍🏫Clases de Inglés.
+🏋️‍♀️Gympass.
+✨Licencia extendida por paternidad y adopción.
+👶Programa Softlanding luego del nacimiento/adopción de un hijo.
+";['creatividad', 'liderazgo']
+73;en;"Job Description
+
+Ability to enter data into GUI (Authoring UI)
+Ability to translate information from spreadsheet into SQL to load into the GUI
+Abiliy to understand data formats
+Ability to understand data structure
+SQL knowledge/NoSQL knowledge
+Knowledge of data
+ALDM knowledge of source to target mapping
+Understanding of Microservices (Conversion DEEP.IO)
+Understanding of CI/CD
+Experience with Amdocs DataOne - will be a huge plus
+ 
+Job Responsibilities
+
+Attribute Dev & Maintenance:
+Maintains existing data feed data pipelines (adding/removing fields and corresponding model alignment). Primarily performed via Authoring UI (AMDOCS Product)
+Data Quality:
+E2E data mapping and reconciliation.
+Data Ingestion:
+Work from last month largely centered around Recon, Full Recon & Transient Data (no Scylla, just straight loads from source).
+Automation:
+Dev utilities that automate manual tasks and perform quality assurance
+
+
+
+
+
+
+
+
+What We Offer
+
+Exciting Projects: Come take your place at the forefront of digital transformation! With clients across all industries and sectors, we offer an opportunity to work on market-defining products using the latest technologies.
+Collaborative Environment:Expand your skills by collaborating with a diverse team of highly talented people in an open, laidback environment — or even abroad in one of our global centers or client facilities!
+Work-Life Balance:GlobalLogic prioritizes work-life balance, which is why we offer flexible work schedules.We offer you the best quality of work life so that you exceed the expectations of our clients, while achieving your professional and personal ambitions.
+Professional Development:Our dedicated Learning & Development team regularly organizes English classes, professional certifications, and technical and soft skill trainings. We also offer the chance to travel internationally
+Excellent Benefits:We provide our employees with competitive salaries, family medical insurance, extended paternity leave, annual performance bonuses, and referral bonuses.
+About GlobalLogic GlobalLogic is a leader in digital engineering. We help brands across the globe design and build innovative products, platforms, and digital experiences for the modern world. By integrating experience design, complex engineering, and data expertise—we help our clients imagine what’s possible, and accelerate their transition into tomorrow’s digital businesses. Headquartered in Silicon Valley, GlobalLogic operates design studios and engineering centers around the world, extending our deep expertise to customers in the automotive, communications, financial services, healthcare and life sciences, manufacturing, media and entertainment, semiconductor, and technology industries. GlobalLogic is a Hitachi Group Company operating under Hitachi, Ltd. (TSE: 6501) which contributes to a sustainable society with a higher quality of life by driving innovation through data and technology as the Social Innovation Business.
+";['creativity']
+74;en;"Rise Interactive (http://www.riseinteractive.com), a rapidly growing full service interactive advertising agency, is looking to hire a Software Engineer, focused on Data Management, into the Innovation team. We are seeking a detail-oriented, highly motivated individual contributor that is excited about joining a new Innovation department and contributing professionally to an entrepreneurial company with an expanding Fortune 500 client base.
+
+Job Summary
+
+We’re looking for a Data Engineer to help us build out our marketing and analytics platforms. Our platform processes billions of records today – and we’re just getting started. This role is not just a research or analytical role, it is an individual contributor role that is expected to contribute to production solutions for the entire data pipeline. Our goal is to add a data engineer who is strong at building systems from scratch by communicating closely with business stakeholders and passionate about delivering the best possible product and customer experience.
+
+Functions And Responsibilities
+
+We operate a cross-functional team that specializes when needed but aims to have everyone able to contribute. Duties of the Data Engineer include:
+
+Implement and optimize data processing pipelines for megabytes to terabytes of data
+Onboard and integrate client data into our analytics platform
+Design and build our data warehouse as well as real-time data reporting systems
+Promote and nurture good team practices such as unit testing, code reviews, build/test automation, etc.
+Proactively mentor and guide developers to improve their quality and simplicity in design and code
+Design, build and use tools to understand our product platform behavior and performance
+Design and conduct experiments to test concepts, technologies, and algorithms
+Implement analytics tools to maximize the value of collected data
+Implement data tests in data quality frameworks to ensure data is clean and accurate
+Adhere to security policies and guidelines to ensure our data is protected and safe
+Embrace and assist in evolving our Agile (Scrum) team processes and developer role responsibilities
+
+Education, Training, And Experience
+
+Education
+
+Bachelor's degree in computer science or equivalent field
+
+Training
+
+N/A
+
+Experience
+
+1-3 years of on-the-job experience
+
+Qualifications
+
+PREFERRED SKILLS
+
+Smart, high aptitude to learn new things and sense of urgency to get things done
+Extremely strong ETL programming skills using tools like Python, Spark, PySpark, Hadoop, MapReduce, Kafka
+Experience building data access layers via cubes, data marts, APIs, or visualization tools like Tableau or D3 
+Practical experience with Big data and NoSQL technologies desired
+Comfortable working with several large, complex SQL databases and SQL queries
+Experience working in cloud-only infrastructure, especially Amazon Web Services
+1+ years of experience working with large amounts of real data
+A strong passion for empirical research and answering hard questions
+Team player – demonstrated experience on a few teams that have shipped a product
+Professional developer – experienced with source control (Git) and bug tracking
+Practical-minded – chooses stability/reliability/maintainability over shiny new objects
+Passionate about technology – ideally you build things outside of work for fun 
+Scripting skills – must be totally comfortable at the Linux command line
+Nice to have: Expertise in applied statistics or machine learning
+Experience delivering data products in the marketing, ad tech space is also a plus
+Excellent English verbal and written communication skills
+
+If you were here this month, you would have
+
+Modeled web impression data into usable information
+Created scripts to manage our cloud environment
+Sped up an ETL process to make our users happy
+Tried to get the top pinball score
+";['communication', 'problem solving', 'creativity', 'attention to detail', 'project management', 'mentoring/teaching']
+75;es;"En VMLY&R estamos buscando un Data Analyst Sr, para cliente del rubro automotriz en la Región Sudamérica.
+
+
+Responsabilidades: 
+
+Elaboración de Dashboards en base a las necesidades de los usuarios decisores.
+Análisis estratégico de información para detectar Insights.
+Identificación e interpretación de KPIs.
+Generación y automatización de Queries para informes y reportes ejecutivos.
+Armado de ETLs.
+Pruebas de consistencia de la información visualizada en Dashboards y comunicada en reportes.
+
+
+ Requisitos:
+
+Contar con 2 años de experiencia en posiciones similares.
+Conocimientos de visualizadores como: Power BI, Looker Studio, Tableau, Qlik Sense, etc.
+Lenguajes: SQL (excluyente), Python (deseable), HTML (deseable).
+Conocimientos en Google Tag Manager, Google Analytics, Adobe Analytics (Deseable).
+Conocimiento de plataforma Sales Force.
+Inglés y portugués (deseable).
+";[]
+76;en;"Dive into a world where code meets creativity and each line you write has the potential to spark digital life into the most advanced AIs. We're not just a company, we're a global tech phenomenon, piecing together the future of engrossing chatbots straight out of science fiction. We're on the hunt for a Python Developer — a sharp coder with a taste for agility, scalability, and all things AI. If you’re a modern-day tech artisan eager to embark on projects peppered with AI, ML, and collaborative innovation, you've found your arena.
+
+
+Your Adventure Awaits:
+
+
+Craft high-caliber, resilient code that adapts like AI and scales like cloud infrastructure.
+Engage in rigorous code reviews keeping an eye out for the pristine standard of clean and efficient codebases.
+Deploy cutting-edge Python libraries to deconstruct and streamline complex challenges with grace.
+Be the guardian of your code, ensuring it's not just functional but is a beacon of industry best practices for data-driven AI development.
+
+
+Your Toolkit and Talents:
+
+
+Proudly holding a tech decree, supplemented by continuous skill upgrades in the tech sphere.
+With 3+ years as a software sage, Python is your staff of power with which you weave backend magic.
+You've got fine-tuned expertise in Python, firing up data models, machine learning wizardry, and seamless API concoctions.
+Adept in SQL with the QA acumen that places you at the heart of the DevSecOps revolution.
+Familiarity with CI/CD, unit testing, and a history of conquered bugs will set you apart as a candidate of legend.
+You thrive on solving algorithmic puzzles, transforming towering data sets into digestible insights.
+If cloud platforms and container orchestration sing your song, consider us already charmed.
+Your software development achievements aren't just noted; they echo in the valleys of tech lore.
+You're so well-versed in English, you're unofficially the Rosetta Stone between geeks and mortals.
+
+
+Unique Perks and Opportunities:
+
+
+Collaborate with illustrious researchers and innovators from every corner of the globe, building a network that’s as expansive as your ambitions.
+This is more than a job; it’s a digital nomad's dream with full remote flexibility. Work where you thrive.
+Enjoy a competitive salary paid in USD, ensuring you benefit from a global standard.
+Work on breakthrough projects that bend the boundaries of tech, consistently pushing you to the vanguard of industry innovation.
+
+
+Rise with Us: Answer the call to invent the intelligence that will define tomorrow’s conversational AI. Let's turn what if into what is together! 🚀";['communication', 'teamwork', 'creativity', 'adaptability']
+77;en;"Please submit your resume in English - we can only consider applications submitted in this language.
+
+Minimum qualifications:
+
+Bachelor's degree in Computer Science, Mathematics, a related technical field, or equivalent practical experience.
+3 years of experience building Machine Learning (ML) solutions.
+Experience coding in one or more languages (e.g., Python, Scala, Java, Go, or similar), data structures, algorithms, and software design.
+Experience working with technical customers.
+
+Preferred qualifications:
+
+2 years of experience working with recommendation engines, data pipelines, or distributed machine learning.
+Experience with deep learning frameworks (e.g., Tensorflow), Vertex AI, or Generative AI.
+Experience in technical consulting.
+Knowledge of Machine Learning Operations and BigQuery Machine Learning.
+Familiarity with foundational concepts of application development, infrastructure management, data engineering, and data governance.
+
+About The Job
+
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+
+As an AI Engineer, you will design and implement machine learning solutions for customer use cases, leveraging core Google products. You will work with customers to identify opportunities to apply machine learning in their business, travel to customer sites to deploy solutions, and deliver workshops to educate and empower customers. Additionally, you will partner with Product Management and Product Engineering to build and drive excellence in our products.
+
+In this role, you will work with Google Cloud customers. You will support customer implementation of Google Cloud products through architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring, and more.
+
+Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+Responsibilities
+
+Act as a trusted technical advisor to customers and solve machine learning issues.
+Develop and optimize machine learning models, design processing systems and orchestrate Machine Learning (ML) pipelines.
+Work with customers, partners, and Google Product teams to deliver tailored solutions into production.
+Create and deliver recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.
+Mentor customers on the practical issues in Machine Learning systems, including feature extraction/feature definition, data validation, monitoring, and management of features/models.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .";['communication', 'adaptability', 'customer service', 'mentoring/teaching']
+78;es;"About The Job
+
+Al asumir la posición de Data Science Analyst dentro de la unidad de negocios de SN en las oficinas de HIT tendrás el desafío de
+
+Trabajar de manera de directa con las diferentes áreas para transformar los diferentes datos en información y encontrar oportunidades concretas de negocio.
+
+About You
+
+Suena un gran desafío, ¿no? Para poder alcanzar este logro y ser exitoso en el rol, consideramos que necesitás contar con la siguiente formación, conocimientos y competencias
+
+Formación académica Estudiante avanzado o recibido de Ing. Industrial, Administración de Empresas, Marketing, o carreras afines
+1 año de experiencia en roles similares
+Conocimientos en Excel (excluyente). Power BI (deseable). Modelado (Deseable)
+Competencias Capacidad de análisis. Resiliencia. Trabajo en Equipo. Autonomía. Proactividad. 
+
+About us
+
+Danone es una empresa con una cultura y ADN que nos distingue fuertes raíces, grandes valores y una misión desafiante. En la unidad de negocios de Nutrición Especializada, nos guía un fuerte propósito “brindar salud a través de soluciones nutricionales especializadas para ayudar en los momentos claves de tu vida”.
+
+Contamos con un porfolio amplio de productos, tanto con marcas globales como locales. El mismo se compone de
+
+ Fórmulas infantiles y alimentos para bebés para un crecimiento y desarrollo saludables en los primeros años de vida donde nuestras marcas principales son Nutrilón, Vital, Crecer y La Serenísima Baby. 
+ Nutrición pediátrica especializada para temas de salud temprana, como por ejemplo alimentos para prematuros o bebes alérgicos a la proteína de la leche de vaca. 
+ Alimentos de nutrición con propositos médicos para adultos con enfermedades agudas y crónicas o en edad avanzada. 
+ Un servicio de internación domiciliaria especializada en nutrición. 
+
+A través del negocio buscamos crear un cambio positivo en el ámbito social y ambiental, y por eso nos comprometemos con la comunidad, los trabajadores, los clientes, la gobernanza y el planeta. En 2019 certificamos como Empresa B ¡y esto nos llena de orgullo!";['trabajo en equipo', 'resiliencia']
+79;en;"Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Calling AI enthusiasts! Do you dream of a world where AI not only supports but fully runs education services? Does the thought of using AI to replace human decision-making thrill you? Then listen up because we have an exciting opportunity just for you!
+
+At Trilogy, we're on a mission to harness the power of AI to transform education. But we need someone at the helm who's not just an expert in AI integration and prompt engineering but who's also laser-focused on understanding and incorporating the latest in learning science.
+
+Your primary task? Take the reins to transition our human-run education services to be fully automated through the power of generative AI. Sounds like the kind of challenge you're up for? Perfect!
+
+Ready to step into the forefront of education technology? Apply today and start a journey that promises to be exciting, challenging, and super rewarding! We can't wait to hear from you!
+
+What You Will Be Doing
+
+Using your technical acumen and tools like OpenAI Code Interpreter, LangChain, and AWS Glue to revolutionize our educational services.
+Unleashing the power of AI to make our services smarter with your knack for breaking down complex cases into component steps and designing AI prompts accordingly.
+Keeping us on track, thoroughly checking and validating our IDSs to ensure our AI solutions are on point and delivering top-notch services.
+Rolling up your sleeves, evaluating outputs, building prototypes, and doing whatever it takes to push the quality bar higher.
+
+What You Won’t Be Doing
+
+Spending your day delegating tasks. You will get hands-on in the research and data, building prompts and prototypes to find the best solutions.
+Wasting time in pointless meetings. Our asynchronous culture prioritizes written communication and moves decision-making and feedback out of meetings and into the comment section.
+Managing in the traditional sense. We believe the best managers lead by example, actually doing the work and setting a high-quality standard for their team.
+Training LLMs. We're interested in your ability to utilize LLMs, not train them.
+
+Basic Requirements
+
+Senior Machine Learning Engineer key responsibilities
+
+A grasp of AI, Large Language Models (LLMs), and prompt engineering, including Chain-of-Thought (CoT) prompting and Self-Consistency in CoT
+Enough coding experience to assemble a set of prompts into a working prototype service in a single day
+A mastery of self-learning. If you're the type of person who applies learning science to your own learning journey – you're our kind of people!
+A process-focused mindset. It’s all about designing simple, repeatable processes that allow a system to scale.
+
+Nice-to-have Requirements
+
+Experience working with CodeInterpreter, LangChain, AWS Glue, and AI Orchestration tools to create 100% AI-based workflows
+Prior successful experience automating manual processes
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $200 USD/hour, which equates to $400,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.";['communication', 'creativity']
+80;en;"About Us
+
+Braintrust is a user-owned talent network that connects top-tier professionals with the world's leading enterprises. We prioritize transparency, eliminating middlemen and high markups, ensuring job-seekers are matched swiftly to innovative roles while clients benefit from unparalleled efficiency and quality.
+About The Hiring Process
+
+The hiring process for this role involves completing your Braintrust profile, applying directly to the role on Braintrust, and undergoing a one-time screening to ensure you meet our vetted talent specifications. After this, the hiring team will contact you directly if they believe you are a suitable match.
+Our process isn't for everyone, that's intentional. If you believe that you are a top candidate for this job, please join our network to give yourself the opportunity to work with top companies.
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Work from anywhere - Anytime | No timezone overlap required
+HOURLY RANGE Our client is looking to pay $16.00 – $55.00/hr
+ESTIMATED DURATION: 20/week - short term
+EXPERIENCE: 3-4 years
+BRAINTRUST JOB ID: 11450
+The Opportunity
+This is a great opportunity to supplement your income while looking for longer or more full-time work, all while contributing to the development of new AI models using your domain expertise!
+Our client has hired over 100 BT Talent and intends to hire hundreds more!
+
+You’ll have the flexibility to work as much or as little as you choose - 20hrs/week is suggested, but not a limit. Start working in as little as 48 hours.
+What to expect: If qualified, you’ll complete an ID verification & be invited to complete a 30-minute technical interview, typically scheduled within 48 hours of being invited. The interview will consist of technicals, choosing from: JS, Java, C++, and Python. If you successfully pass the interview, you’ll be approved and able to begin work ASAP. Otherwise, the next step will be to complete an async rating & writing assessment.
+In both scenarios, you will be compensated for successfully completing the assessment, up to $175.
+Required Qualifications
+
+Complete fluency in the English language is required. You should be able to describe code and abstract information in a clear way.
+Proficiency working with any of the the following:
+Python, Java, JavaScript / TypeScript, SQL, C/C++/C# and/or HTML
+Preferred Qualifications
+
+Bachelor's and/or Master's degree in Computer Science or equivalent. Students are welcome.
+Proficiency working with any of the the following (in addition to the languages above):
+Swift, Ruby, Rust, Go, NET, Matlab, PHP, HTML, DART, R, Apex, and Shell
+Data Science experience
+Note: Scale AI is partnering with Remotasks for this opportunity
+What You'll Be Working On
+Our client has partnered with organizations to train AI large language models, helping cutting-edge generative AI models write better code. 
+
+Example projects might include:
+Evaluating the quality of AI-generated code, including human-readable summaries of your rationale
+Solve coding problems, writing functional and efficient code
+Optimize code to run at maximum efficiency
+Writing robust test cases to confirm code works efficiently and effectively
+Writing human-readable summaries of coding problems
+Writing explanations of how code can solve problems and evaluate various solution approaches
+No previous experience with AI necessary! You will receive detailed instructions on what is expected of you after you complete the application and verification process.
+Apply Now!
+
+Notes
+
+Our employers all have varying legal and geographic requirements for their roles, they trust Braintrust to find them the talent that meet their unique specifications. For that reason, this role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.";['creativity', 'adaptability']

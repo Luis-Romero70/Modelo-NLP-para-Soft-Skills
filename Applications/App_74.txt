@@ -1,0 +1,63 @@
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full service interactive advertising agency, is looking to hire a Software Engineer, focused on Data Management, into the Innovation team. We are seeking a detail-oriented, highly motivated individual contributor that is excited about joining a new Innovation department and contributing professionally to an entrepreneurial company with an expanding Fortune 500 client base.
+
+Job Summary
+
+We’re looking for a Data Engineer to help us build out our marketing and analytics platforms. Our platform processes billions of records today – and we’re just getting started. This role is not just a research or analytical role, it is an individual contributor role that is expected to contribute to production solutions for the entire data pipeline. Our goal is to add a data engineer who is strong at building systems from scratch by communicating closely with business stakeholders and passionate about delivering the best possible product and customer experience.
+
+Functions And Responsibilities
+
+We operate a cross-functional team that specializes when needed but aims to have everyone able to contribute. Duties of the Data Engineer include:
+
+Implement and optimize data processing pipelines for megabytes to terabytes of data
+Onboard and integrate client data into our analytics platform
+Design and build our data warehouse as well as real-time data reporting systems
+Promote and nurture good team practices such as unit testing, code reviews, build/test automation, etc.
+Proactively mentor and guide developers to improve their quality and simplicity in design and code
+Design, build and use tools to understand our product platform behavior and performance
+Design and conduct experiments to test concepts, technologies, and algorithms
+Implement analytics tools to maximize the value of collected data
+Implement data tests in data quality frameworks to ensure data is clean and accurate
+Adhere to security policies and guidelines to ensure our data is protected and safe
+Embrace and assist in evolving our Agile (Scrum) team processes and developer role responsibilities
+
+Education, Training, And Experience
+
+Education
+
+Bachelor's degree in computer science or equivalent field
+
+Training
+
+N/A
+
+Experience
+
+1-3 years of on-the-job experience
+
+Qualifications
+
+PREFERRED SKILLS
+
+Smart, high aptitude to learn new things and sense of urgency to get things done
+Extremely strong ETL programming skills using tools like Python, Spark, PySpark, Hadoop, MapReduce, Kafka
+Experience building data access layers via cubes, data marts, APIs, or visualization tools like Tableau or D3 
+Practical experience with Big data and NoSQL technologies desired
+Comfortable working with several large, complex SQL databases and SQL queries
+Experience working in cloud-only infrastructure, especially Amazon Web Services
+1+ years of experience working with large amounts of real data
+A strong passion for empirical research and answering hard questions
+Team player – demonstrated experience on a few teams that have shipped a product
+Professional developer – experienced with source control (Git) and bug tracking
+Practical-minded – chooses stability/reliability/maintainability over shiny new objects
+Passionate about technology – ideally you build things outside of work for fun 
+Scripting skills – must be totally comfortable at the Linux command line
+Nice to have: Expertise in applied statistics or machine learning
+Experience delivering data products in the marketing, ad tech space is also a plus
+Excellent English verbal and written communication skills
+
+If you were here this month, you would have
+
+Modeled web impression data into usable information
+Created scripts to manage our cloud environment
+Sped up an ETL process to make our users happy
+Tried to get the top pinball score
