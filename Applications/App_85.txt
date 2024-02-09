@@ -1,0 +1,48 @@
+Who we are:
+
+Kajae is a premium staff augmentation company, connecting top global talents to thriving US companies and clients offering fully remote opportunities. Our team hails from over 15 different countries, with the majority coming from the Philippines and Latin America. We pride ourselves on our tight-knit culture and strong bonds, despite working remotely across diverse time zones.
+
+
+Benefits
+
+• Competitive salary. Receive your pay in USD! 100% fully remote work setup. Work from home or work from anywhere in the world— forever! Eliminate the hassles of commuting and be around family more without missing out on life’s biggest moments.
+• Healthy work-life balance. There’s nothing we prioritize more. We do regular check-ins with the team for the first few months to provide support and work advice. We also make sure you are working with only the best clients and a healthy work environment.
+• Health Insurance. Covered after the third month of contract.
+• Mental Health Support Program. We have an in-house mental health professional to make sure our team members have all the support they need.
+• Referral Bonuses. Earn up to $100 USD for every successful candidate you refer (because you'll want to tell your friends!)
+• Fun virtual events. We have monthly virtual events where everyone gets together, play fun games, celebrate special holidays, with many opportunities to win cash and exciting prizes.
+• Kajae Spotlight Bonus. With stellar performance comes the Kajae Spotlight cash bonus!
+• We have a tribe! Get the chance to engage with the whole team on our team’s social platform and earn coins along the way. Bid on some of our crazy auctions and get the chance to win prizes like Airpods, Apple Watch, Starbucks gift cards, shopping or experience vouchers, and more!
+• Continuing Education. 100% free courses offered through our university partners in the US in order to earn academic credits for Master’s or Graduate Degree programs.
+• All-Expense Paid Summits. Earn your way to our annual Kajae Summit as a reward for your outstanding performance and tenure. The last two summits were held at Palawan, Philippines and Cusco, Peru (we saw Machu Picchu together!)
+
+
+Who We Are looking For:
+
+As a Data Analyst / Google Sheets Analyzer, you will play a crucial role in the analysis and reporting of before and after traffic data, placement information, keyword indexing, and overall performance metrics for both internal tools and client reporting. This part-time position involves working on diverse projects, including enhancing AI content rewriter processes, developing client indexing reporting dashboards, and generating insightful ASIN/Keyword reports based on content inclusion.
+
+
+What You´ll Do:
+
+Transition from the Mixed Analytics API connector to a custom library for data retrieval.
+Update code, formulas, and reporting to align with a new process for selecting keywords for AI content integration.
+Retrieve information from S3 files reporting on ASIN/Keyword indexing status.
+Develop a dashboard to present indexing information in a client-friendly report.
+Coordinate with a virtual assistant to pull ASIN/Keyword/Week level data from Seller Central reports.
+Organize and maintain data in a designated data source (e.g., Google Sheets).
+Generate weekly reports showcasing keyword traffic changes categorized into keywords not in content, keywords in content before optimization, and keywords added post-optimization.
+
+
+Requirements
+
+Bachelor's degree in a related field (Data Science, Analytics, etc.) or equivalent work experience.
+Previous experience in a similar role, preferably in e-commerce or digital marketing analytics.
+Familiarity with AI content rewriters and tools used in content optimization.
+Proficient in Google Sheets with advanced knowledge of formulas, scripts, and data manipulation.
+Experience working with APIs for data retrieval and integration.
+Strong analytical and problem-solving skills with the ability to interpret data trends.
+Familiarity with traffic analysis, placement data, and keyword indexing.
+Ability to effectively communicate insights and findings to both technical and non-technical stakeholders.
+Collaborative mindset to work with virtual assistants and other team members.
+Proven ability to manage multiple projects simultaneously and prioritize tasks effectively.
+Detail-oriented and committed to maintaining data accuracy.

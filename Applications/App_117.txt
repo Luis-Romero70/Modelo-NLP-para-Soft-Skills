@@ -1,0 +1,58 @@
+Buscamos desarrollador web con competencias para programar y configurar sitios web basados en Drupal, con el fin de proporcionar soluciones basadas en requerimientos de nuestros clientes en Colombia y LATAM.
+
+Ubicación: Remoto
+
+Categoria:
+
+REQUISITOS
+Formación
+Formación en sistemas de información, programación web o afines.
+Experiencia
+Experiencia laboral comprobada de mínimo 1 año de trabajo con Drupal.
+Técnicos
+Programación orientada a objetos en PHP
+Lenguajes HTML, CSS y JavaScript
+Desarrollo de módulos personalizados Drupal
+Conocimiento en construcción de plantillas y/o temas en Drupal
+Conocimiento del motor de plantillas Twig
+Familiaridad con herramientas y conceptos Drupal tales como Drush, Drupal Console, Configuration Management, Views, etc.
+
+FUNCIONES:
+Proveer desarrollo, programación y configuración en la creación de aplicaciones personalizadas y actividades de soporte.
+Participar en la planificación o estimación de proyectos con el jefe de proyecto y Líder Técnico.
+Analizar las especificaciones escritas y configurar las funcionalidades dentro del CMS Drupal según el alcance del proyecto.
+Realizar prueba unitaria de los requerimientos asignados para garantizar la funcionalidad adecuada, antes de solicitar despliegues a la rama de desarrollo.
+Comunicar estimaciones y cambios en el alcance.
+Configurar, personalizar e integrar software de código abierto (OSS) para clientes.
+Desarrollar e implementar componentes a la medida en Drupal.
+Ofrecer soluciones técnicas a los clientes y al líder técnico cuando se produzcan desafíos o imprevistos durante los sprints de desarrollo.
+Documentar los componentes desarrollados.
+Mantener y apoyar los sistemas existentes y sitios web.
+Proporcionar capacitación técnica y apoyo a los clientes cuando sea necesario.
+Proporcionar comentarios oportunos a los gerentes de proyectos, arquitectos y clientes sobre el estado de las tareas asignadas.
+Asistir a reuniones de seguimiento para dialogar con las partes interesadas del proyecto sobre el estado de los entregables asignados.
+Mantener una comunicación fluida con el equipo de trabajo asignado para alcanzar los objetivos propuestos.
+Mantenerse informado sobre las mejores prácticas de desarrollo de Drupal y los estándares de codificación.
+
+COMPETENCIAS:
+Comunicación abierta
+Trabajo en equipo
+Vocación de servicio
+Orientación al cliente
+Planificación y coordinación
+Responsabilidad y compromiso
+
+PLUS:
+Conocimientos en twig
+Manejo de Frameworks JS (angular, vue, react)
+Conocimientos en otros frameworks PHP
+Idioma Inglés
+
+OFERTA Y BENEFICIOS:
+Trabaja de forma remota desde casa a tiempo completo.
+Contrato a termino indefinido con todas las prestaciones legales.
+Salario competitivo.
+Plan de incentivos y compensación.
+Plan carrera con oportunidades de crecimiento y desarrollo profesional.
+Capacitación y formación permanente.
+Suministro de portátil Apple o Linux con los recursos que necesita para hacer su trabajo al más alto nivel.

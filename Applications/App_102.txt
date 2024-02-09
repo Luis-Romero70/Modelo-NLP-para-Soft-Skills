@@ -1,0 +1,53 @@
+and Future 50 companies. Listed on Inc. 5000 among the fastest-growing US companies, we are always open to talented software, UX, and data experts in the Americas, Europe, and Asia.
+
+If you like a challenging environment where you’re working with the best and are encouraged to learn and experiment daily, there’s no better place — guaranteed! :)
+
+What you will do
+
+Perform analysis on existing relational and non-relational structures from various sources and business groups; 
+Consolidate and Normalize the data and map to the destination data model; 
+Identify new attributes, build technical requirements while mapping to the business context and usage of the attribute; 
+Recommend incremental updates to data model accommodating additional data attributes and entities; 
+Work with technical team implementing changes to data model; 
+Evaluate the data for integrity and accuracy; feedback and work with business and technical teams to backfill gaps, if any; 
+Leverage in-depth master data management and PIM knowledge combined with technical data analysis to gain significant insights to maintain and improve the master data; 
+Support content syndication to all retail partners & channels (Brand.com, Retailer.com, TR, 3rd party product feeds)including basic product content, retailer attributes, images, 360 spins, videos and enhanced/A+ content, etc; 
+Identify, track and report new data attributes across brands; 
+Summarize and report the work progress on daily basis; 
+
+Must haves
+
+Bachelor’s degree in technology / engineering with computer science or related field; 
+5+ years’ experience in implementing database driven projects; 
+2-3 years of experience in architecting database, data warehousing or data migration; 
+Must be extremely detail-oriented, deadline driven and have the ability to manage multiple projects at once; 
+Tech savviness with an initiative to learn new software systems quickly; 
+Strong problem-solving skills, analytical and critical-thinking skills to be able to proactively resolve issues and continuously improve results; 
+Outstanding written and verbal communication skills required; 
+Strong knowledge relational databases like Oracle, MySQL or Microsoft SQL Server; 
+Good written and verbal communication skills required. 
+
+Nice to haves
+
+Experience in working with data interchange formats like JSON and bulk data formats like CSV and Excel; 
+Experience in business analytics tools like PowerBI is preferred; 
+Knowledge of InRiver and/or Adobe Creative Suite is a plus; 
+Knowledge in eCommerce testing is added advantage. 
+
+The benefits of joining us
+
+Professional growth 
+
+Accelerate your professional journey with mentorship, TechTalks, and personalized growth roadmaps.
+
+Competitive compensation 
+
+We match your ever-growing skills, talent, and contributions with competitive USD-based compensation and budgets for education, fitness, and team activities.
+
+A selection of exciting projects 
+
+Join projects with modern solutions development and top-tier clients that include Fortune 500 enterprises and leading product brands.
+
+Flextime 
+
+Tailor your schedule for an optimal work-life balance, by having the options of working from home and going to the office – whatever makes you the happiest and most productive.

@@ -1,0 +1,36 @@
+Data Scientist (LATAM)
+Descripción del puesto
+Si sos un apasionado por el análisis de datos y por transformar ideas en soluciones, te invitamos a formar parte de nuestra compañía con visibilidad internacional y un excelente ambiente laboral!
+
+
+Buscamos a una persona proactiva, con gran capacidad analítica, que se enfrente a problemas de marketing y decida la mejor forma de atacarlos. El profesional deberá ser capaz de implementar y trabajar con librerías de Python para Data Science y crear prototipos que luego sean llevados a producción.
+
+
+Responsabilidades:
+
+Gestionar las relaciones con los clientes para hacerlos parte del equipo, comprendiendo sus necesidades para traducirlas en soluciones analíticas.
+Desarrollo de la solución al proyecto punta a punta en Python, con un ojo puesto en la estandarización del código para poder atacar problemas diversos.
+Diseño del camino hacia el MVP: definición de plazos, tareas y entregables para cada proyecto del que la persona sea dueña.
+Implementación de prototipos de cara interna a la compañía que estarán en el roadmap de producto.
+Requisitos
+Experiencia programando en Python con las siguientes librerías (pandas, numpy, seaborn/matplotlib, scikit-learn, pytorch/tensorflow, nltk).
+Experiencia con desarrollo de código en Github.
+Capacidad para bajar conceptos complejos a tierra con ejemplos sencillos.
+Se valorará:
+
+2-4 años de experiencia laboral en problemas de Machine Learning y Data Science.
+Graduados de las carreras de Matemática, Física, Estadística, Ciencias Económicas o carreras afines.
+Conocimientos de industria de marketing.
+Experiencia atacando problemas de optimización o en reconocimiento de imágenes.
+Curiosidad intelectual y alta capacidad analítica.
+
+Beneficios:
+
+Valoramos tu tiempo fuera del trabajo, flexibilidad full para trabajar desde donde quieras, lo importante es que cumplas las metas de cada proyecto en el que participes
+
+Tu cumpleaños es especial para nosotros, nuestro regalo es que te tomes el dÍa libre para que lo disfrutes como quieras.
+
+Capacitaciones constantes para que puedas continuar creciendo profesionalmente con estudios complementarios.
+
+Somos un equipo multicultural, conformado por personas de 12 nacionalidades diferentes.
+

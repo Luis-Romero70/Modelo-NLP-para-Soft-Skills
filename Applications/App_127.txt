@@ -1,0 +1,49 @@
+Acerca del empleo
+En Baufest queremos mejorar la vida con tecnología, por lo que nos encontramos en la búsqueda de un Python Developer para sumar a nuestro equipo.
+ 
+Responsabilidades:
+
+ 
+
+Desarrollar y probar la calidad de las unidades de software con el fin de generar entregables que cumplan con los estándares, plazos, especificaciones técnicas y requisitos funcionales definidos en la plataforma tecnológica del servicio.
+Participar activamente en las ceremonias que se lleven a cabo dentro del servicio.
+Colaborar con la formación de los compañeros del equipo técnico ayudando a conseguir las competencias necesarias en el servicio.
+Capacitarse en nuevas tendencias y metodologías para mejorar sus habilidades técnicas.
+
+
+Requisitos Principales:
+
+
+
+Experiencia con venv, el entorno virtualizado de python.
+Experiencia con mocks conocer unittest-mock, pytest-mock o mockito.
+Pruebas unitarias
+Conocimiento en pytest o unittest, si se usa o se va a cambiar al framework fastapi.
+Conocimiento en el uso de testclient combinado con pytest.
+Conocimiento de los módulos de pytest, unittest o tox.
+Calidad de código: pylint y en IDEs el uso de sonarlint.
+Seguridad de código: bandit.
+Performance test: locust.
+Base de datos relacional, postgresql: psycopg2.
+Base de datos no relacional.
+Mongo: pymongo.
+Cassandra: cassandra-driver.
+(para temas de logging): elasticsearch.
+Temas de token validacion de token, jwt y demás: pyjwt, python-jose, jwcrypto, authlib.
+Request o llamadas a terceros.
+Conocimiento del módulo requests (llamadas sincronas)
+Conocimiento del módulo aiohttp (asíncronas).
+Conocimiento de asyncio
+Microservicios
+Conocimiento en el ciclo de vida de un microservicio, saber qué implicaciones tiene a realizar cambios, como probarlos, con qué módulos, uso de github Action.
+A nivel de framework, conocimiento en flask, fastapi o starlite que se usa para generar apis, en especial fastapi.
+Request o llamadas a terceros: Conocimiento del módulo requests (llamadas síncronas) y conocimiento del módulo aiohttp (asíncronas), conocimiento de asyncio.
+
+
+Requisitos Deseables:
+
+
+
+Metodologías Agiles como SCRUM y Kanban
+Comunicación oral y escrita en inglés.
+Capacidad analítica

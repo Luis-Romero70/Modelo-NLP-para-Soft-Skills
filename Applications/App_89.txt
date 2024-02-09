@@ -1,0 +1,16 @@
+An NYSE-listed multinational pharmaceutical giant that has been consistently transforming the industry for over a century with their innovative solutions, is looking for a MLOps Engineer. The engineer will create and implement scalable services and tools to manage inference and training for machine learning. The company’s advanced research capabilities and wide range of healthcare products have efficiently catered to the changing needs of a global customer base. This is an amazing opportunity for candidates who are eager to work with an established organization and build a lucrative career for themselves.
+
+Job Responsibilities:
+
+Collaborate with cross-functional teams to develop new product features from conception to completion, including research, development, implementation, and maintenance
+Develop the engineering architecture and data pipelines needed to enable large-scale machine learning systems
+Build products, tools, and services from the ground up in close collaboration with internal and external stakeholders to produce high-caliber solutions
+Automate the production deployment and scalability of machine learning models
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as an MLOps Engineer
+Extensive experience working with DevOps and Machine Learning
+Ability to work well under pressure in an ambiguous environment
+Excellent conversational and written English communication skills

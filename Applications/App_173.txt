@@ -1,0 +1,43 @@
+Teramind is a hybrid, global workforce building the next-generation Insider Risk Management and User Behavior Analytics platform.
+
+
+Join our team of innovators who are redefining insider risk management through cutting-edge technology. More than 10,000 organizations across the globe have used' Teramind to mitigate insider threats and protect their sensitive company data with the most robust, enterprise-grade software on the market.
+
+
+As a global team, Teramind embraces an inclusive and flexible work environment and team culture. We win together, learn from each other and respect each other while delivering best-in-class security solutions.
+
+
+About the role
+
+Teramind, a leader in space of security and user behavior research, is looking for someone to help reshape how insights are delivered and surfaced in our platform. Being at the forefront of Digital Loss Prevent, Insider Threat Detection, and Employee Monitoring, you’ll have access to the richest data in the space, giving you unique challenges and endless opportunities. 
+
+
+
+Responsibilities
+
+Design and develop advanced algorithms for object detection, identification, and tracking, leveraging state-of-the-art computer vision techniques
+Assist in testing and validation process for Al functionalities in various controlled scenarios
+Keep up-to-date with the latest developments in Al and related technological domains
+Effectively communicate complex technical details to a diverse team
+Work closely with product owners on a feature-focused team to deliver value quickly to Teramind customers
+
+
+Qualifications
+
+Hands on experience (7 years) in designing, building, and maintaining scalable data pipelines with a focus on ML Vision including OCR
+Proficiency in image/video processing and computer vision tools such as PIL/Pillow, GraphicsMagick, FFmpeg, OpenCV, SimpleCV, etc
+Experience with modern deep learning techniques in CV including convolutional networks, residual networks, attentional models, etc
+Strong proficiency in programming languages such as Python, Java, Scala, C++, with hands-on experience in building distributed systems and streaming applications
+Experience analyzing and evaluating state-of-the-art algorithms related to detection, from both academic and industrial research, and implementing and enhancing them in a production environment
+
+
+Benefits
+
+This is a remote job. Work from anywhere! We’re a global, distributed team looking for the finest talent. We’ve been thriving as a fully-remote team since 2014. To us, remote work means flexibility and having truly diverse, global teams.
+
+
+At Teramind, we're a collaborative, forward-thinking team where new ideas come to life, experience is valued and talent is incubated.
+Competitive salary with a focus on a global market
+Career-growth opportunities
+Flexible Time Off and Paid Time Off benefits
+Ongoing training and development opportunities

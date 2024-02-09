@@ -1,0 +1,44 @@
+WHAT TO DO:
+
+develop and improve tools for Virtual Production in Unreal Engine 5, Maya, Substance Painter, Blender, Nuke, After Effects editors;
+develop custom plugins for these editors;
+develop plugins for deep integration of various web services;
+develop and improve the company’s microservices;
+to ensure the stability and quality of the development of tools, the quality of architecture and code;
+develop and improve existing tools, develop and implement new ones;
+realistic assessment of tasks taking into account possible risks;
+write technical documentation;
+participate in the formation and development of the team (conducting technical interviews, live-coding);
+interact with project managers, artists, UI/UX designers, game designers, analysts and programmers.
+
+
+WE EXPECT:
+
+confident knowledge of Python, practical experience - 3 years;
+knowledge of Python data structures, algorithms for working with them;
+following the principles of DRY, SOLID;
+ability to write clean, understandable code using EP-8, Docstrings;
+preparation of documentation in English;
+understanding of the principles of OOP, experience in their application;
+knowledge of design patterns;
+knowledge of data formats (JSON, YAML, XML, etc.);
+experience with Git.
+
+
+IT WILL BE A PLUS:
+
+experience with Digital Content Creation tools (DCC): Unreal Engine, 3Ds Max, Maya, Blender (experience writing plugins, knowledge of the API of the listed programs);
+experience with Perforce, ShotGrid;
+experience working with PyQt, PySide or other GUI frameworks.
+
+
+WHY WORK WITH US?
+
+become a part of a highly skilled, passionate, and friendly team that loves what they do;
+create innovative and unique games for the global market, and work with well-known existing IPs, worlds and stories;
+ability to work full time remotely;
+opportunities for advancement - we’ll work with you to help achieve your desired career trajectory;
+assistance with computer equipment or other necessary hardware;
+competitive salary;
+yearly company retreats with our amazing team;
+reimbursement for gym membership (if desired).

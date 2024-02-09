@@ -1,0 +1,58 @@
+Scope of Position:
+
+This group develops and integrates the Measurement and Inspection systems that enable Global Manufacturing to characterize and verify compliance of products manufactured and sold to our customers.
+
+The Software Engineer uses computer science principles to support Global initiatives in the development and sustainment of measurement platforms. Needs strong technical curiosity across many technologies, and the ability to learn and desire to work with others for the progress of the business. As part of a global team, this position provides integrated measurement solutions to Corning’s Optical Connectivity business to deliver best in class products to our customers.
+
+Day to Day Responsibilities:
+
+· Work closely with Technology Development, Manufacturing, Division Engineering, and IT to define, develop and implement product measurement and instrumentation, industrialize and standardize measurement applications and architectures for consistent data flow and reporting among processes and regions.
+· Provide technical leadership and expertise to design, develop, and deploy integrated measurement systems to global manufacturing facilities.
+· Participate in all phases of projects including design, off-line integration and testing, installation, production start-up support, training of plant personnel, and technology transfer.
+· Setup and execute measurements, perform post-processing of data, and deliver reports and analysis to customers.
+· Provide troubleshooting support for equipment and process issues during equipment installation and start-up phases, identify root cause and implement corrective actions.
+· Support the transfer of measurement technology from other location/region or in early stage development to a system ready for use in a manufacturing environment.
+· Develop and manage documentation in support of measurement system deployments including machine specifications, operating procedures, and drawing packages.
+· Train engineering, maintenance and operations people how to use and maintain the measurement systems.
+· Leverage external suppliers with key technologies or systems integration expertise to develop, procure, build, and install test applications in measurement platforms.
+· Upgrade and sustain Legacy Measurement Webpages to improve customer interaction and develop metric reporting site to keep track equipment and server performance.
+· Management of execution of short term and long-term solutions.
+· Assure quality and repeatability of processes and measurement systems software.
+· Visibly support the establishment and maintenance of a safe work environment.
+Required Education, Years and Area of Experience:
+
+- BS or MS in Electrical Engineering, Computer Systems or Computer Science
+- 3+ years of work experience in systems development, test equipment integration and/or software development.
+Required Skills:
+
+- Strong English and Spanish written and verbal communication skills.
+- Ability to work independently without close supervision.
+- Strong time management skills to be able to manage multiple projects and tasks in parallel.
+- Strong initiative and self-motivated. Ambition and ability to independently fill gaps in knowledge and expertise through self-guided learning.
+- Excellent problem-solving skills.
+- Experience with manufacturing test systems and/or instrumentation
+- Experience with computer-based measurement equipment setup and support.
+- Working knowledge and experience in Visual C# or VB.Net software development.
+- Experience in client/server system development in an Oracle or SQL Server environment.
+- Basic understanding of Oracle or SQL Server relational databases.
+- Ability to interface with Oracle or SQL Server through either Stored Procedure calls or dynamic SQL.
+- Understanding of basic SQL (Select/Insert/Update statements).
+- Experience in data acquisition system interfacing either through direct API calls, SCPI protocols, or other communication protocols.
+- Ability to work in technical project teams in leadership and team member roles.
+- Able to make sound decisions by blending analytical thinking with practical judgment.
+- Accountable for actions/behaviors.
+- Ability to work closely with internal customers around the world to meet customer requirements.
+- Ability to work individually and on teams to execute projects on time, on budget, and with expected results.
+- Ability to work in a multi-cultural team.
+Desired Skills:
+
+- Working knowledge of test equipment used to characterize various fiber optic assemblies. This can include, but is not limited to – equipment capable of measuring optical power loss, attenuation (OTDR), interferometers, and microscopy (end-face inspection) equipment.
+- Working knowledge and experience in LabVIEW.
+- Experience in the use of Source Code Control systems.
+- Experience working within a team of developers on a single source code project.
+- Experience in RS232/USB/GPIB/Ethernet interfacing to data acquisition hardware.
+- Experience in Optical Communication product test methods, characteristics, and data acquisition hardware.
+- Experience with image capture systems or machine vision systems (Like Keyence, Cognex, Omron).
+- Experience in relational database design.
+- Experience in Manufacturing Execution Systems.
+- Demonstrated project management experience.

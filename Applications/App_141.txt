@@ -1,0 +1,37 @@
+Nuestra misión como equipo de Machine Learning Engineering es diseñar y construir sistemas de machine learning que entreguen continuamente una experiencia agradable y segura para nuestros comerciantes.
+
+Estamos buscando Machine Learning Engineers talentosos/as y motivados/as para unirse a nuestro equipo y ayudarnos a cumplir nuestra misión.
+
+Como equipo, nos esforzamos por diseñar y construir sistemas que sean confiables, escalables y mantenibles. Además, tenemos propiedad de extremo a extremo del ciclo de vida de machine learning.
+
+Algunas de las características que promovemos dentro del equipo son la propiedad, la curiosidad, la transparencia y una fuerte cultura de escritura. Esperamos que ayudes a dar forma a nuestra dirección de producto y fortalezcas la cultura del equipo.
+
+Colaborarás estrechamente con equipos de producto, data science y data engineering, ingenieros de software y diseñadores para lanzar productos impactantes que puedan mejorar la vida de millones de personas.
+
+Jugarás un papel clave en el diseño y construcción de uno o varios sistemas:
+
+Un sistema de recomendación para impulsar la personalización en todo el ecosistema. 
+Un sistema de clasificación de búsqueda para mostrar los resultados más relevantes a nuestros clientes internos y externos . 
+Un sistema de prevención y detección de fraude en tiempo real. 
+Una plataforma de experimentación para crear, ejecutar y administrar experimentos controlados en la aplicación y otros canales. 
+
+Requirements
+
+Requisitos:
+
+No es indispensable que tengas experiencia profesional en un rol de Machine Learning Engineer; sin embargo estos son algunos de los requisitos que debes cumplir:
+
+5 años a más de experiencia utilizando Python como lenguaje de programación principal, en un rol de data science o ingeniería de software. 
+Fuerte mentalidad de producto y disfrutas trabajando en colaboración. 
+Utilizas prácticas de ingeniería sólidas y escribes código mantenible. 
+Te desempeñas bien en un entorno de ritmo rápido. 
+Disfrutas dar mentoría a otros, e introduces y promueves las mejores prácticas en todo el equipo. 
+Inglés (Lectura a nivel técnico - Avanzado)
+Eres capaz de ser dueño de todo el ciclo de vida de un proyecto de machine learning. 
+No necesitas ser un experto en cada aspecto, pero debes ser un aprendiz rápido para recoger las cosas y profundizar cuando sea necesario. 
+
+Deseable/valorado:
+
+Experiencia construyendo sistemas de recomendación que impulsan productos que deleitan a los clientes. Experiencia con aplicaciones intensivas en datos. 
+Experiencia trabajando con Airflow, Apache Spark, MLflow, Metaflow y/o Kedro. 
+Maestría o doctorado en Computación Aplicada, Machine Learning, Computer Science, Física, Matemática o un campo relacionado. 

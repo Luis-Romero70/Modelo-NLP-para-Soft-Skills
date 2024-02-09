@@ -1,0 +1,49 @@
+Liberty Latin America´s Advanced Analytics area is responsible for delivering measurable and actionable value to all the group´s business functions (commercial, finance, operations, networks, etc..) through data and analytics-based enhancements. Those enhancements will be a mix of AI/ML models and operationalized strategies which allow the different areas to improve their decisions and actions.
+
+
+Key Accountabilities
+
+
+
+The ideal candidate will have a very strong technical background in Big Data and pipeline automation, practical experience in AWS, and will fulfil the following main functions:
+
+
+Develop ETL processes to add new data sources to the data lake or any other data management environment used by the advanced analytics area
+Provide data to business analytics and data science teams to ensure the optimal way to consume for the business needs.
+Investigate and test new technologies that could improve our processes.
+Permanently enable the Data Science team´s and Business Analytics teamwork through timely and high-quality input data delivery
+Work with stakeholders including data, design, product and executive teams and assist them with data related technical issues.
+Integrate and work with various data sources to provide a single, comprehensive view of the customer.
+Support in orchestrating seamless experiences across marketing, sales and customer service channels.
+Design and develop integrations that facilitate the transfer of data between systems.
+Execution and monitoring of daily CDP routines to ensure data integrity and continuous availability.
+Implementation and configuration of monitoring tools to supervise CDP performance.
+Identification and rapid response to real-time alerts and anomalies to ensure system stability.
+Support data integrations and data quality framework.
+
+
+Preferred education/ qualifications:
+
+
+
+Bachelor’s degree in information technology or related technical field.
+Proven education or certifications in data management and cloud.
+Proficient English skills.
+
+
+Experience:
+
+3+ years of proven experience in Data ETL / data engineering.
+Advanced knowledge in one or more programming languages (Python, R, Scala, Java, C/C++ or similar).
+Proficiency in command-line usage and scripting in Linux.
+AWS Toolset (S3, Lambda, Step Functions, Glue, Athena, Redshift).
+Data Catalog, Data Governance, Data Lineage is a plus.
+Hands-on experience with Docker for efficient deployment of containerized applications.
+Experience in BI-Reporting is a plus.
+Experience with or knowledge of Agile Software Development methodologies.
+Knowledge of data security best practices and the ability to implement measures to protect data integrity and privacy.
+Familiarity with networking concepts, communication protocols and security in data transfer over networks.
+Understand the fundamental principles of a Customer Data Platform and have experience in its implementation is a plus.
+
+
+We will be happy to count with you for the new challenges of 2024. If you are interested apply and we will gladly contact you. Salary up to 4000 USD a month. The candidate can based anywhere in Latin America

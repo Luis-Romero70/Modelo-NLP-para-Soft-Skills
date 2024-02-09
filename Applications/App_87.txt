@@ -1,0 +1,37 @@
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Calling AI enthusiasts! Do you dream of a world where AI not only supports but fully runs education services? Does the thought of using AI to replace human decision-making thrill you? Then listen up because we have an exciting opportunity just for you!
+
+At Trilogy, we're on a mission to harness the power of AI to transform education. But we need someone at the helm who's not just an expert in AI integration and prompt engineering but who's also laser-focused on understanding and incorporating the latest in learning science.
+
+Your primary task? Take the reins to transition our human-run education services to be fully automated through the power of generative AI. Sounds like the kind of challenge you're up for? Perfect!
+
+Ready to step into the forefront of education technology? Apply today and start a journey that promises to be exciting, challenging, and super rewarding! We can't wait to hear from you!
+
+What You Will Be Doing
+
+Using your technical acumen and tools like OpenAI Code Interpreter, LangChain, and AWS Glue to revolutionize our educational services.
+Unleashing the power of AI to make our services smarter with your knack for breaking down complex cases into component steps and designing AI prompts accordingly.
+Keeping us on track, thoroughly checking and validating our IDSs to ensure our AI solutions are on point and delivering top-notch services.
+Rolling up your sleeves, evaluating outputs, building prototypes, and doing whatever it takes to push the quality bar higher.
+
+What You Won’t Be Doing
+
+Spending your day delegating tasks. You will get hands-on in the research and data, building prompts and prototypes to find the best solutions.
+Wasting time in pointless meetings. Our asynchronous culture prioritizes written communication and moves decision-making and feedback out of meetings and into the comment section.
+Managing in the traditional sense. We believe the best managers lead by example, actually doing the work and setting a high-quality standard for their team.
+Training LLMs. We're interested in your ability to utilize LLMs, not train them.
+
+Basic Requirements
+
+Senior Machine Learning Engineer key responsibilities
+
+A grasp of AI, Large Language Models (LLMs), and prompt engineering, including Chain-of-Thought (CoT) prompting and Self-Consistency in CoT
+Enough coding experience to assemble a set of prompts into a working prototype service in a single day
+A mastery of self-learning. If you're the type of person who applies learning science to your own learning journey – you're our kind of people!
+A process-focused mindset. It’s all about designing simple, repeatable processes that allow a system to scale.
+
+Nice-to-have Requirements
+
+Experience working with CodeInterpreter, LangChain, AWS Glue, and AI Orchestration tools to create 100% AI-based workflows
+Prior successful experience automating manual processes

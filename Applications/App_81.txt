@@ -1,0 +1,75 @@
+Full-Stack Software Engineer
+Are you ready to level up your career? Parrade is looking for an ambitious full-stack software engineer to help shape the future of retail. If you are eager to design a groundbreaking platform from the ground up, we want to hear from you!
+
+
+At Parrade, we're not just changing the game in retail; we're creating a new one. Our platform is at the forefront of co-retailing and online-to-offline commerce, transforming unused spaces into vibrant, revenue-generating opportunities. Our company was founded by an e-commerce veteran with two decades of experience building successful businesses.
+
+
+Learn more about our company: www.parrade.com/blog
+
+About the role
+As a full-stack software engineer at Parrade, you won't just be joining a team; you'll be at the forefront of pioneering a new era in retail technology. Working directly with our leadership team in Texas and California and reporting to our CTO, you will bring your expertise to a diverse and forward-thinking environment.
+
+
+As the first full-time member of our startup, your work will lay the foundation for our technological vision, driving forward our mission to revolutionize the retail experience. This is more than a job; it's a chance to be part of a movement that's redefining retail with every line of code.
+
+
+This role is a full-time, 100% remote position. You'll initially focus on front-end development (70%) with a gradual shift to include more back-end responsibilities (30%).
+
+Role outcomes
+In this pivotal role, your contributions will directly impact our platform's success and growth, as outlined in the following key outcomes:
+
+Successful platform launch: You will play a crucial role in launching our two web applications by April 2024. This involves active participation in the development, testing, and refinement phases, ensuring that the launch is smooth, meets our high standards, and is ready for user engagement.
+Facilitate revenue generation: Your contributions will be key in enabling Parrade to start generating revenue by the summer of 2024. This includes developing features that enhance user experience and ensuring scalability to handle increasing traffic and transactions.
+Set a high bar: As the first full-time member of our startup, you will establish the performance standards for future hires. This means demonstrating exceptional skill, dedication, and creativity in your work, thereby setting a precedent and a benchmark for excellence in our growing team.
+
+The work is challenging, but the growth potential is limitless! We promise you won’t be bored.
+
+What you will be doing
+Build high-performance ReactJS web applications with MUI (70% of the work)
+Build robust GraphQL microservices with Python and Django (30% of the work)
+Build and maintain components with Storybook
+Work with our product designer to deliver delightful UIs
+Triage production bugs and issues
+Help our CTO plan new features
+Use TDD to minimize bugs
+Review code and improve code quality
+Participate in scrum ceremonies such as daily stand-up, OKR + backlog refinement, and sprint showcase
+Redesign and maintain our home page (parrade.com)
+Maintain deployment pipelines and automate DevOps tasks
+Design and implement data models; deploy and migrate backends
+What you should have
+A degree in computer science or a certificate from a boot camp
+Strong English skills (B2 - C1)
+Experience with Git
+A strong eye for good design
+1+ years of experience building ReactJS applications with HTML5 + CSS
+1+ years of software experience (Typescript/Python)
+6+ months of database management experience (Postgres)
+A desire to own your work and consistently exceed expectations
+Strong communication, collaboration, and management skills
+An understanding of software design patterns
+A willingness to learn how to manage complex software development projects
+Commitment to continuous learning and professional growth.
+
+The first 30 days of working with us will be an introductory period. After your first 30 days, we evaluate if you are a strong fit per the criteria in this post. If we are a solid fit for each other, you will become a permanent team member.
+
+
+Please note that this role requires a stable high-speed internet connection. You must be available to work 8+ hours, Monday - Friday. We work between 8 am and 5 pm Central Time.
+
+Nice-to-haves
+Prior experience building NextJS apps with server-side rendering
+Expertise in designing and consuming GraphQL Relay APIs
+Familiarity with Django or FastAPI
+Project management experience
+Experience working with GCP
+Knowledge of Domain Driven Design (DDD) principles
+Experience with Docker
+Experience using Terraform
+What we offer
+A competitive compensation with the potential for growth
+Paid time off (PTO)
+A 100% remote work culture with a focus on autonomy and trust
+Ample opportunities for personal and professional development
+Freedom to make impactful decisions
+A supportive team of “A” players

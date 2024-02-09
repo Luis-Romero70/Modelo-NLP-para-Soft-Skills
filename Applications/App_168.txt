@@ -1,0 +1,46 @@
+CHEP LATAM is seeking a Data Scientist to assist with continued development and implementation of data-driven optimization strategy for the region. The Data Scientist will work cross-functionally with teams across LATAM to develop automated advanced tools leveraging advanced data analytics techniques (algorithms to predict indicators evolution, diagnose issues and optimize current processes). The scientist will be working with large sets of structured and unstructured data (internal and external) to perform analysis, develop tools and provide actionable insights. Scope • LATAM. 
+
+
+
+Degree in Computer Science, Statistics, Mathematics, Engineering, or related fields.
+English 80% advanced level
+At least 3 years of experience in a data science role.
+Mandatory Knowledge in :
+• Strong programming skills(Python, R)
+• Knowledge of major data science topics, models, and methods (from logisitic regression to advanced neural networks)
+• Strong knowledge in statistics, mathematics, and machine learning algorithms.
+• Experience with machine learning frameworks such as TensorFlow or PyTorch.
+• Knowledge in SQL and NoSQL databases.
+• Experience with data visualization tools like Tableau or PowerBI.
+• Familiarity with big data platforms like Hadoop, Spark.
+• Experience using version control tools 
+
+• Strong analytical and problem-solving skills.
+• Ability to work in a fast-paced and collaborative environment.
+• Excellent communication and presentation skills.
+
+
+Key Accountabilities 
+
+• Design and develop advanced machine learning models and predictive analytics. 
+
+• Collaborate with business teams to understand their needs and translate them into data-driven solutions. 
+
+• Manage and process large datasets for analysis. 
+
+• Implement best practices in data management and manipulation. 
+
+• Present analysis results to non-technical stakeholders. 
+
+• Lead and mentor junior members of the data science team. 
+
+• Stay up-to-date with emerging trends and technologies in data science and machine learning.
+ • Monitoring the external environment, using this information to assess implications and strategic options for our business, and recommending appropriate competitive and commercial strategies.
+ • Evaluate how to use data to extract key trends, predict key indicators and identify business opportunities/risks. 
+
+• Ensure accuracy on predictions.
+• Ensure solutions created are aligned with LATAM strategy.
+• Ensure solutions are delivered on a timely manner.
+• Internal customers satisfaction.
+• Develop solutions in a scalable way, standard and automated.
+• Develop processes to efficiently manage data.

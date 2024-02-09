@@ -1,0 +1,28 @@
+About The Position
+
+Mid Data Engineer
+
+Are you a skilled Data Engineer with a passion for creating compelling digital experiences? Join our prestigious content brand at the forefront of delivering engaging stories to a global audience. We are seeking a Mid Data Engineer with 2 to 5 years of experience in Python, Apache Airflow, and SQL to contribute to our dynamic team.
+
+About Us:
+
+We are dedicated to creating digital experiences that captivate and inform audiences worldwide. Our network of digital properties spans various content verticals and global territories, ensuring that our stories resonate across devices and cultures. We are laser-focused on achieving excellence in revenue, reach, and building lasting relationships with our readers.
+
+Requirements:
+
+2 to 5 years of experience in data engineering
+Proficiency in Python
+Experience with Apache Airflow and SQL
+Ability to build, troubleshoot, and maintain pipelines
+
+Responsibilities:
+
+Build robust data pipelines to support our content delivery and analysis
+Troubleshoot pipeline issues efficiently to ensure continuous data flow
+Maintain and optimize existing pipelines for improved performance
+
+Soft Skills:
+
+Attention to Detail: Demonstrate precision and accuracy in your work to ensure data integrity. 
+Great Attitude: Approach challenges with enthusiasm, contributing positively to the team environment. 
+Initiative: Take the lead in identifying and solving problems, demonstrating a proactive approach to your work. 

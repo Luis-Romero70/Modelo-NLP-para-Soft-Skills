@@ -1,0 +1,40 @@
+Do you possess an undoubtedly tech-savvy personality? Do you feel comfortable in a fast-paced, results-driven environment? Are you seeking an opportunity to demonstrate your strong analytical and problem-solving skills? Our client is a unique company that acquires entire teams of talent and IT assets from global organizations, MSPs, and data center operators. They need you ASAP! Apply today.
+BetterPros unlocks human potential by offering competitive compensation, flexibility, constant learning and growth, and the opportunity to work anywhere you want with one of our +130 active clients across the United States.
+
+
+What you’ll do: 
+Develop and deploy
+Create cutting-edge machine learning models to address diverse business applications.
+Deploy machine learning solutions that make a real impact on our products and services.
+Collaborate:
+Work closely with data scientists to preprocess and clean large datasets for analysis.
+Collaborate with cross-functional teams to integrate machine learning models into production systems seamlessly.
+Optimize:
+Implement and optimize machine learning algorithms to ensure performance and scalability.
+Fine-tune models for enhanced accuracy and efficiency.
+Innovation:
+Stay at the forefront of advancements in machine learning and artificial intelligence.
+Explore new technologies and methodologies to enhance our machine learning capabilities.
+
+
+What you must have:
+Overall:
+Proven experience in developing and deploying machine learning models.
+Excellent problem-solving and analytical skills.
+Effective communication skills to collaborate with cross-functional teams.
+Programming Skills:
+Strong proficiency in programming languages such as Python, R, or Java.
+Ability to write clean, efficient, and well-documented code.
+C++.
+Frameworks:
+Hands-on experience with popular machine learning frameworks, including TensorFlow, PyTorch, and scikit-learn.
+Strong understanding of Jupyter Notebooks.
+Understanding of Kearas.
+Data Expertise:
+Knowledge of data preprocessing, feature engineering, and model evaluation techniques.
+Familiarity with best practices in handling large and complex datasets.
+Ability to input data into unsupervised and supervised data sets for data training.
+Cloud and Distributed Computing:
+Strong understanding of Microsoft Azure (Dev Ops)
+Understanding of cloud platforms (e.g., AWS, Azure, Google Cloud) and distributed computing concepts.
+Experience leveraging cloud resources for machine learning tasks.

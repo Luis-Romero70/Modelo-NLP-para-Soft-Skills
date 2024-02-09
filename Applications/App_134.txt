@@ -1,0 +1,21 @@
+We are looking for a self-starter engineer who loves building new products 0 to 1 in a fast-moving environment. Aptford helps businesses streamline their internal operations, sales and marketing with custom AI solutions. Our mission is to empower 10 000 founders to grow their businesses, bringing value with empathy and speed.
+
+We are looking for someone with immense potential and obsession with learning & skill development. To start, you must be an engineering jack-of-all-trades, with proven experience in system design, full-stack development and end-to-end product delivery. As the team grows, you will have the opportunity to specialize over time or take on management responsibilities.
+
+You must be self-motivated, data-obsessed, and accept nothing less than the highest levels of performance from yourself and your team.
+
+What This Job Entails
+
+Own the development of new customer-facing AI solutions and product experiences
+Talk to users to understand their problems and design solutions to address them
+Collaborate with a cross-functional team of engineers, product managers & designers
+Optimize applications for speed and scale
+
+Your background looks something like:
+
+3+ years of relevant engineering experience at tech and product-driven companies
+Proficiency with JavaScript / TypeScript, React, Next, and other web dev
+Proficiency with some backend language (we use Python and Rust)
+Some experience with relational databases like Postgres/MySQL
+Interest in AI/ML (direct experience not required)
+Willingness and skill to take extreme ownership of a solution in an environment where scopes are sometimes have unclear shape and may have competing priorities or deadlines

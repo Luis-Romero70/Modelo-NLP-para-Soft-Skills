@@ -1,0 +1,106 @@
+Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out remote.com/how-it-works to learn more or if you’re interested in adding to the mission, scroll down to apply now.
+
+Please take a look at remote.com/handbook to learn more about our culture and what it is like to work here. Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of belonging. You can check out independent reviews by other candidates on Glassdoor or look up the results of our candidate surveys to see how others feel about working and interviewing here.
+
+All of our positions are fully remote. You do not have to relocate to join us!
+
+About Remote
+
+Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance (learn more about how it works). We're backed by A+ investors and our team is world-class, literally and figuratively, as we're all scattered around the world.
+
+Please check out our public handbook to learn more about our culture. We encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply. You can also check out independent reviews by other candidates on Glassdoor. If this job description resonates with you, we want to hear from you!
+
+All of our positions are fully remote. You do not have to relocate to join us!
+
+How we work
+
+We love working async and this means you get to do your own schedule.
+
+We empower ownership and proactivity and when in doubt default to action instead of waiting.
+
+The position
+
+This is an exciting time to join Remote and make a personal difference in the global employment space as a Data Analyst, joining our Operations Data Analytics team. You will be the link between data producers and data consumers at Remote. You'll primarily focus on building out our data pipeline to unify our various data sources in a compliant manner. That being said, you should be committed to transforming data into readable insights, and help deliver goal-driven reports for continued innovation and growth.
+
+Requirements
+
+2-4 years work experience in statistics, data analytics, software engineering or a related field; ideally in a fast-paced environment.
+Strong ability to collaborate and build effective relationships with your colleagues.
+Excellent communication skills and ability to document processes for both business and technical audiences.
+A self-starter mentality and the ability to thrive in an unstructured and fast-paced environment.
+Strong experience in SQL and previous experience with dbt.
+Strong experience with Metabase or other data visualisation tools.
+Proficiency with Git.
+It's not required to have experience working remotely, but considered as a plus.
+
+
+Key responsibilities
+
+Data Exploration & Quality: contribute to a culture of higher standards by discovering, documenting and working towards improving the quality of our data.
+Data Modelling: collaborate with data engineers and other data analysts and contribute to building the modelling layer of our data warehouse.
+Data Analysis: support Operational Analytics team by creating an ad hoc data reports and dashboards.
+Collaboration: collect requests from stakeholders and translate them into meaningful data. Collaborate with data engineers and other data analysts to create high-quality reports.
+
+
+Our current core data stack (among other tools) contains Metabase, Retool, dbt, Redshift, Meltano, Airflow and GitLab.
+
+Remote Compensation Philosophy
+
+Remote's Total Rewards philosophy is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.
+
+For U.S. applicants: Across all US locations, the base salary range for this full-time position is $28,660 - $60,000 plus eligibility for equity. Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The actual base pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, and market demands. The base salary range is subject to change and may be modified in the future.
+
+We offer a generous benefits package to all full-time employees. In the U.S. this includes: a 401(k) plan + 4% employer match, unlimited paid time off, paid sick leave in excess of local requirements, paid parental leave, FSA, HSA, health, dental and vision plans for you .Click here for more information on our global employee benefits.
+
+Practicals
+
+You'll report to: Manager, Data Analytics
+Team: Operations Data Analytics, ****Data, Engineering
+Location: Anywhere in the World
+Start date: As soon as possible
+
+
+Application process
+
+(async) Profile review
+Interview with recruiter
+Interview with future manager
+(async) Small challenge
+(async) Challenge Review
+Interview with team members (no managers present)
+Prior employment verification check(s)
+(async) Offer
+
+
+Benefits
+
+Our full benefits & perks are explained in our handbook at remote.com/r/benefits. As a global company, each country works differently, but some benefits/perks are for all Remoters:
+
+work from anywhere
+unlimited personal time off (minimum 4 weeks)
+quarterly company-wide day off for self care
+flexible working hours (we are async)
+16 weeks paid parental leave
+mental health support services
+stock options
+learning budget
+home office budget & IT equipment
+budget for local in-person social events or co-working spaces
+
+
+How You’ll Plan Your Day (and Life)
+
+We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at remote.com/async.
+
+You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your life-work balance is important and you will be encouraged to put yourself and your family first, and fit work around your needs.
+
+If that sounds like something you want, apply now!
+
+How To Apply
+
+Please fill out the form below and upload your CV with a PDF format.
+We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.
+If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.
+
+
+We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.
