@@ -1,0 +1,42 @@
+Les traemos una oportunidad desafiante para unirse a una compañía de servicios de TIC en crecimiento y con una cartera global, como Data Engineer en nuestro equipo de Continuidad Operacional y Soporte Big Data.
+
+La familia Getronics es un grupo de servicios de ICT que consta de las marcas Getronics y Connectis, y es propiedad de Bottega InvestCo S.à r.l. Nuestra visión es convertirnos en el socio preferido en la transformación de negocios utilizando tecnología y personas excepcionales, con un enfoque único en clientes felices al contar con empleados felices. Con casi 9.000 empleados en 23 países de Europa, Asia Pacífico, América del Norte y América Latina, la cartera de Transformación de Getronics brinda una gran capacidad y experiencia en materia de Workspace, Aplicaciones, Soluciones de Software Específicas de la industria, Gestión de Múltiples Nubes, Comunicaciones Unificadas y Servicios de Seguridad para proveer un portfolio proactivo de punta a punta al usuario digital, ya sea comercial o consumidor, tanto en el sector público como en el privado.
+Getronics es el miembro líder de la Global Workspace Alliance, un modelo único que brinda a los clientes servicios de IT abarcando 110 países y con un único punto de contacto. 
+
+La GWA ocupa el puesto número 3 a nivel mundial con un total de 7.4 millones de activos.
+Getronics apoya a sus empleados para que se conviertan en expertos en su campo a través del desarrollo de una Universidad interna y un programa de reclutamiento interno.
+ 
+Propósito del Equipo:
+
+El equipo de Continuidad Operacional y Soporte Big Data es el responsable de construir y mantener las estructuras de datos y las arquitecturas tecnológicas necesarias para el procesamiento, ingesta e implementación a gran escala de aplicaciones que usan datos de manera intensiva permitiendo a las áreas usuarias contar rápidamente con información de valor proveniente de sus datos para el análisis de los mismos.
+ 
+ 
+Propósito del Rol:
+
+Diseñar y construir los repositorios de datos en bruto para su recolección, transformación y análisis. 
+Diseñar y construir los procesos que cargarán los modelos de datos para dar soporte a la toma de decisiones.
+Resolver problemas funcionales relacionados con la organización y modelado de la data para un consumo óptimo por herramientas de explotación y visualización de información.
+Tener autonomía sobre los temas propios.
+Interactuar con distintos áreas y equipos de la compañía
+Identificar oportunidades para la adquisición de datos.
+Colaborar con científicos de datos y arquitectos de datos en varios proyectos
+Documentar todo conocimiento que aporte relevancia al desarrollo general del equipo o a la realización de tareas en forma mas eficiente y eficaz.
+Mantenerse en capacitación constante para afrontar los desafíos de nuevas tecnologías y poder así crecer como profesional dentro del servicio.
+ 
+ 
+Requisitos de Calificación / Certificación / Experiencia:
+
+ 
+
+Como parte del equipo, aprenderás tecnologías actuales para datawarehousing y gestión de la información, comprendiendo entre otras cosas:
+Tengan formación académica relacionada a sistemas o finanzas.
+2 o + años de experiencia en desarrollo de DWH, datalakes o desempeñando tareas de data engineer o similar.
+Deseable tener experiencia en empresas de tecnologías digitales.
+Experiencia previa en tecnologías Cloud (Google, AWS, Azure, etc.)
+Tener conocimientos de SQL, scripting Python, Spark o Scala.
+Se valorara conocimiento en Google DataFlow, CloudFunction, DataProc, BigQuery, Composer.
+Estén orientadas 100% a resultados, pero sin perder visibilidad de la calidad, escalabilidad y robustez de las soluciones aplicadas.
+Cuenten con capacidad analítica y trabajen de forma metódica.
+Tener ganas de crecer y desarrollarse.
+Habilidades de comunicación, colaboración y presentación.
+ Contamos con una plataforma educativa virtual y atendemos requerimientos del extranjero, por lo que es deseable que tengas conocimiento del idioma Inglés.
