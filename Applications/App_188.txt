@@ -1,0 +1,61 @@
+
+Senior data developer
+
+
+
+We are TechGenies a multinational company from the United States with more than 13 years in the Software and technology market, we are looking for a full-time Senior data developer We are a global software development firm that has been delivering custom solutions to a wide range of industries for over a decade. We are based in Dallas, TX with operations in, Canada, India, Pakistan, Philippines, Lebanon, Perú, Mexico, Colombia, and Argentina provide dedicated off-site resources that can augment your existing operations, function as self-contained product teams, or act as stand-alone software development groups. Let’s start a conversation about how we can exceed
+your wishes today!
+
+
+What do we offer?
+
+
+
+• Competitive salary
+• Time flexibility
+• Equipment to work from home
+• Courses and certifications
+• Food vouchers
+• 100 % remote
+• Excellent working environment inclusive and multicultural
+• Betterfly Benefits
+
+
+
+
+The purpose of the Data Developer position is to support current Development, QA and Production database infrastructures on both Microsoft SQL on-premise and cloud instances, including cloud data warehouse platforms such as Snowflake. Support through: development of new and existing database objects per gathered business requirements; creation and maintenance of ETL/ELT processes utilizing SQL Server Integration Services, Azure Data Factory and Snowflake scripting; database performance monitoring and tuning.
+
+
+ESSENTIAL FUNCTIONS
+
+ 
+
+• Development of database objects such as tables, stored procedures and functions as required by business needs in on-prem and cloud instances of Microsoft SQL Server and Snowflake.
+• Development and support of ETL/ELT processes servicing Microsoft SQL Server, Snowflake and flat-file sources and destinations.
+• Migration of current SQL databases and SSIS packages to SQL Managed Instance and Azure Data Factory, respectively
+• Ensuring data consistency utilizing error handling, transactions with appropriate isolation levels for optimal application concurrency and data integrity
+• Implement data governance practices to ensure data quality, compliance, and proper usage
+• Staging, scrubbing and maintenance of internal and imported data sources
+• Consistent and proactive performance tuning via index and statistics creation and maintenance
+• Assist in code releases from Development to QA to Production platforms
+• Shared maintenance of corporate ticket queue accommodating requests for ad-hoc reporting and troubleshooting
+• Provides daily work status updates during daily stand-up meetings
+
+
+EDUCATION AND EXPERIENCE
+
+• Bachelor's Degree or equivalent combination of certification/education and experience preferred
+• 5 years’ experience database development in Microsoft SQL Server 2016-2022
+• 5 years’ experience in Transact SQL
+• 2-3 years’ experience with SQL Server Integration Services (SSIS) and/or Azure Data Factory
+
+
+SKILLS AND REQUIREMENTS
+
+• An enthusiastic approach to data modeling, data methodologies and infrastructure
+• Adept at clear communication, documentation, and presentation
+• A high proficiency with database and Transact SQL development and best practices, SQL Server Management Studio (SSMS), Visual Studio & Data Tools/SSIS and cloud environments such as Microsoft Azure and Snowflake, Python a plus
+• Proficiency with indexing, performance tuning and query optimization
+• Possesses critical thinking, attention to detail, and task ownership with strong interpersonal and communication skills in a highly collaborative environment
+• General use of Microsoft DevOps for code control and Asana for project and task management.
+• Basic data analysis skills utilizing Microsoft Excel, SSRS and/or PowerBI as needed

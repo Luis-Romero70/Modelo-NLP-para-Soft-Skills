@@ -1,0 +1,70 @@
+Data Engineer/Machine Learning Engineer 
+
+
+
+Position Summary:
+
+
+
+Our partner is looking for a saavy Data Engineer/Machine Learning Engineer to join a cutting-edge development team and develop top of the industry fintech applications partnering with quantum teams and Data Science teams! In this role you play a crucial role in designing, building and maintaining data pipelines that enable efficient data processing, storage, and analysis. You will be a part of a team that’s building innovative analytical tools and frameworks to exploit advantages in the latest fintech developments in cloud computing. Finally, you will be a crucial part in shaping future highly functional applications to deliver successful high quality, and sustainability of solutions.
+
+
+Experience and Education:
+
+
+
+BS in Computer Engineering or Computer Science, Statistics, Informatics or related experience/field
+5+ years of experience with data management, data management tools and data quality
+Strong understanding of machine learning concepts, algorithms, and deep learning architectures
+Experience managing data streams with varied files format such as EDI, XML, Flat Files, others
+Familiar with stream-processing systems: Apache Kafka, Spark-Streaming, others
+
+
+Technology Skills and Strengths:
+
+
+
+Kafka
+Airflow
+Spark
+Python
+AWS
+AWS services (S3, AWS Lambda, AWS Glue, others)
+Data warehousing
+Data pipelines
+Data architecture
+Data management
+Data security
+ETL processes
+Machine Learning operations (MLOps)
+ML model evaluation and optimization
+Metadata dependency
+Workload management
+SQL and NoSQL DB (such us NumPy, Pandas, MongoDB, others)
+SQL (development, implementation and optimization)
+Automation (Terraform, ARM Template)
+LifeCycle Data Development
+API (development and integration)
+Distributed Data Processing
+User stories
+Databricks (a plus)
+Kubernetes (a plus)
+
+
+Primary Job Responsibilities:
+
+
+
+Create and maintain an optimal data pipeline architecture to move, transform, and cleanse datafrom various sources into the correct data storage or processing systems
+Design, develop and implement data packages for data warehousing or applications
+Integrate data from various sources, both structured and unstructured, including databases, APIs, logs, and external datasets
+Design, develop, and fine-tune machine learning models, including supervised, unsupervised, and deep learning models
+Collect, clean, and preprocess data for model training, ensuring data quality and integrity
+Deploy machine learning models into production environments, ensuring scalability and reliability.
+Work with a team of developers with deep experience in data, distributed microservices, and full stack systems
+Work with data management, data access (big data, data marts, etc.), programming, and data modeling; and familiar with analytic algorithms and applications
+Provide technical support and problem resolution for related data service teams
+Architect, deploy and maintain data models and schema to support analytics and reporting requirements
+Develop and test scripts and exception handling processes based upon design
+Create and maintain technical documentation to support the business application and data related processes
+Troubleshoot to resolve operational and/or system problems

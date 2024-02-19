@@ -1,0 +1,29 @@
+Job Description
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+As a Software Engineer III at JPMorgan Chase within the Infrastructure Platforms Team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
+
+Job Responsibilities
+
+Builds relationships with internal teams and clients and is passionate about unlocking value using AI and Machine learning
+Demonstrates intellectual curiosity for solving difficult problems
+Is a self-starter with technical knowledge and a hands on approach to using our data assets both efficiently and effectively
+Develop approaches for understanding each individual client and their behavior to deliver highly impactful ML models
+Develop, plan and execute analytical projects as an individual contributor and in teams.
+Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems
+
+Required Qualifications, Capabilities, And Skills
+
+Formal training or certification on data mining concepts and 3+ years applied experience
+Experience in: SQL; Python; AWS, GCP or Azure
+Working with relational and non-relational databases; ML techniques including: regression, classification, time series, clustering, deep learning, hypothesis testing, cross validation, feature selection and feature extraction; NLP techniques including: topic modeling, entity extraction, summarization, and sentiment analysis;
+Working with machine learning and natural language processing libraries such as: scikit-learn, tensor flow, pandas, nltk,; and Building data pipelines and deploying ML models and data visualization techniques.
+Analytical thought leader - You can define the analytical agenda for projects, frame ambiguous business questions into analytical plans (e.g., assess data needs, source files, prepare data, create new features, evaluate quality, etc.), and execute.
+Leadership - Primary focus of building something of significance. Willingness to roll up sleeves and do whatever it takes to achieve the goals.
+Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages.
+
+Preferred Qualifications, Capabilities, And Skills
+
+Fluent in English

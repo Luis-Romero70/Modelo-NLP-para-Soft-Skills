@@ -1,0 +1,26 @@
+About Deep Origin
+
+Led by Michael Antonov, a co-founder of Oculus, and well-funded by Formic Ventures, Deep Origin is poised to reinvent the way scientists work and life science innovations come to life. We see a future largely free of diseases with a 150 year lifespan being a norm. To get there, we are building an operating system for science, enabling scientists to be more productive and to bring tomorrow's ideas to life quickly and at a reasonable cost.
+
+
+Job Description
+
+In this hands-on position you will be a key member of the software engineering team building and maintaining our cloud infrastructure. You will help us build and maintain CI/CD pipelines and lead all infrastructure-as-a-code and infrastructure management efforts, making sure our system works well in AWS.
+
+
+Requirements
+
+Excellent command of the English language
+Ability to work with a global team spread among multiple timezones, with management in San Francisco.
+10+ years of experience designing, building, and operating complex, highly-scalable, distributed applications and systems
+5+ years of hands-on software development experience with TypeScript/JavaScript/NodeJS. Python and other languages are a plus.
+5+ years of hands-on DevOps experience with tools like Pulumi or TerraForm.
+Excellent knowledge of cloud infrastructure, including networking, security, monitoring, and configuration.
+Knowledge of Kubernetes and Cloud infrastructure/deployment tools.
+Systematic problem-solving approach, coupled with a strong sense of ownership and drive.
+Knowledge of Git-based workflow (e.g. github workflow, trunk-based workflow, code review process etc.).
+Familiar with agile methodologies (Kanban, SCRUM, XP) and modern software development environments
+Participation in an on-call rotation for production services
+Ability to work both independently and on the team
+A constant bias for action. Energy and a high desire to get things done.
+Experience working in high energy startups with fast product delivery mechanisms.

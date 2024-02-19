@@ -1,0 +1,40 @@
+It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+We're committed to bringing passion and customer focus to the business.
+
+The Role
+
+Proofpoint is looking for a seasoned engineer to work on designing, building and deploying large-scale threat detection services.
+
+Our team employs cutting-edge technology to detect, analyze and produce intelligence for the latest threats from sophisticated cyber threat actors. Our detection services are the foundational components which are leveraged across Proofpoint’s cybersecurity product offerings to protect our customers from threats delivered through e-mail, social media and SaaS applications.
+
+We are looking for an engineer with technical expertise in multiple domains, internalized critical thinking skills, passion for coding and engineering best practices.
+
+We are a fast-paced, high-energy team where you will be given the opportunity to make a significant impact. The team has a solid engineering culture that values the craftsmanship of writing great code, enjoys learning, and solving big problems. Engineers on the team, work up and down the software stack to tackle challenges of scaling, reliability, security and usability for our users.
+
+ 
+
+Your day-to-day
+
+ Be member of a high-performing team of engineers responsible for building critical threat detection and analysis services
+ Contribute to develop resilient and scalable components/features and get them integrated into the service
+ Write custom code or integrate open source technologies and AWS services as needed to find solutions to problems
+ Contribute innovative ideas for the service to stay ahead of threat actors
+ Collaborate with teammates and colleagues in partner teams
+
+ 
+
+What You Bring To The Team
+
+ 2+ years of experience developing scalable and efficient through some of the following languages Python, JAVA or GO code.
+ Unit testing, cloud-native development (K8s), secure development foundations, RESTful APIs
+ Experience automating service deployments (AWS or others), and test automation
+ Strong motivation and ability to learn new technologies and domains
+ A positive can-do attitude and bring a passion for excellence to the workplace
+ Excellent collaboration and communication skills
+ Knowledge of cybersecurity, malware analysis, threat detection is a bonus
+ Bachelor’s degree in computer science or Information Systems
+
+Why Proofpoint
+
+As a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the Proofpoint team. We believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. As we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! We are a multi-national company with locations in 10 countries, with each location contributing to Proofpoint’s amazing culture!

@@ -1,0 +1,38 @@
+Objective
+
+This role is considered at the center of the Territorium product strategy to develop education products that are centered and powered with Artificial Intelligence. You will be part of a high performing team that works to implement the full spectrum of data analytics and data science, from data querying and data wrangling to data visualization and dashboarding for business intelligence (BI) using Microsoft’s PowerBI, to predictive analytics, machine learning, and artificial intelligence. 
+
+ 
+Our Data Scientists help to define Territorium’s information strategy, architecture, and governance, get the most value from business intelligence and analytics, and implement enterprise content and data management solutions to enable business insights, reduce cost and complexity, increase trust and integrity, and improve operational effectiveness including accelerated onboarding experiences. 
+
+
+
+Responsibilities
+
+ Work closely with the technology team to continually evaluate company, customer, and supplier data.
+ Comply with the integrity and understand the scope of the data and new data collection needs/possibilities.
+ Collect data that will benefit the company and its products.
+ Digest data to be able to transmit it efficiently.
+ Filter unwanted information using data cleaning techniques.
+ Collaborate effectively with product and development teams to implement data sets and models necessary for the company and its products.
+ Combine multiple algorithms to discover patterns and trends in historical data.
+ Present data using various data visualization techniques and tools.
+ Investigate additional technologies and tools to develop innovative data strategies.
+ Meet with growth and product stakeholders to establish realistic goals based on current data and possible future data, all aligned to company objectives.
+Support in the construction of data flow (ELT/ETL pipelines).
+
+
+Qualifications
+
+Studies: M.S./M.A. in Data Science/Analytics, Statistics, Mathematics, Operations Research, Computer Science, Information Systems, Engineering, Economics, Statistics, or similar quantitative/computational discipline.
+Language: Minimum B1 (proven)
+Experience: Minimun 3 years of Data Science (proven)
+
+
+Technical Knowledge 
+
+Data mining, machine learning, natural language processing, data visualization.
+Required: Python, SQL, ChatGPT
+Must understand APIs, Deep Learning, Neural Networks, Semi-structured and unstructured data elements, Microsoft Azure, and algorithms. 
+Optional (bonus): OpenAI Assistant API, Co-Pilot, Bard, BERT, PaLM, and LaMDA models.
+Preferred: Prior Education Experience

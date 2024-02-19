@@ -1,0 +1,52 @@
+Para empresa líder de producto propio; una plataforma para Recursos Humanos
+
+Tus tareas será el procesamiento, análisis, desarrollo y explicación de tableros realizados en Microsoft Power BI y participar del desarrollo de proyectos predictivos.
+
+Vas a tener el desafío de...
+
+Desarrollar tableros de comando según requerimientos relevados.
+Proponer nuevas formas de mostrar la información.
+Monitorizar y fundamentar los resultados obtenidos.
+Entender y proponer solución técnica tanto para la gestión de los datos como las visualizaciones desarrolladas.
+Entender las estrategias de negocio.
+Realizar análisis exploratorios de datos y aplicar técnicas de búsqueda de patrones recurrentes que sean útiles al negocio.
+Colaborar en proyectos predictivos en Python por eso es muy importante que cuentes con experiencia para desplegar todo tu potencial.
+
+Y de participar activamente en algunos proyectos principales como ser 
+
+El desarrollo y mantenimiento de tableros de comando personalizados para clientes, obteniendo la información de distintas fuentes de datos,
+el desarrollo y mantenimiento de tableros internos para la toma de decisiones. (tableros de área de marketing, administración, finanzas, rrhh, sistemas etc).
+Y la colaboración en desarrollo e implementación de proyectos de ML en Python en modelos predictivos.
+
+
+Requisitos
+
+
+Ser estudiante de Ingeniería en sistemas o carreras afines (preferentemente),
+Poseer conocimientos intermedios / avanzados en PowerBI y Lenguaje DAX,
+Contar con experiencia en creación de gráficos interactivos, a través de marcadores, objetos de sincronización.
+Experiencia en creación de gráficos donde el valor cambia según el filtro seleccionado y el marcador elegido.
+Experiencia en modelado de datos y funciones DAX.
+Conocimientos de base de datos relacionales y un nivel intermedio / avanzado de SQL.
+Haber formado parte de la creación de métricas complejas que aporten información relevante.
+Se valorará haber participado en proyectos de #DataScience y Predicción en #Python.
+
+Beneficios
+
+#PapáQueremosQueCambiesMuchosPañalesMás. Licencia paternidad extendida 1 mes de licencia con goce de sueldo.
+#SlowMotionModoON. Soft landing paternidad Soft landing de 1 mes part time (trabajo medio día) o 1 mes máximo de licencia sin goce de sueldo.
+#MamáQueremosQueCambiesMuchosPañalesMás. Licencia de maternidad extendida Un mes de licencia con goce de sueldo adicional a los 3 meses de licencia por ley. Es decir, la beneficiaria tendrá un 4to mes de licencia por maternidad.
+#SlowMotionModoON. Soft landing maternidad *5to mes 5 horas de trabajo diarias *6to mes 6 horas de trabajo diarias *Hasta los 12 meses 1 hora menos de trabajo diaria (7 hs).
+#LaRebeliónDerechoDePiso. Días de vacaciones con poca antigüedad 7 días de vacaciones, aunque la fecha de ingreso sea posterior al 30/06.
+#QueremosPasarMásTiempoConPapáNoel. Semana fin de año Semana libre entre navidad y año nuevo, que no cuenta para el cómputo de vacaciones correspondientes.
+#TodosLosDíasSonCarnaval. Horario de verano Durante 2 meses de verano, los Viernes se trabaja hasta el mediodía.
+#ModoNerdOn. Días de estudio sin tope Días de estudio sin tope anual para estudiantes de carreras universitarias, terciaria o de posgrados.
+#MySingularDay. Día de cumpleaños Día libre por cumpleaños.
+#CharlaConTusCompañerosAKMdeDistancia. Oficina flexo Trabajo remoto desde cualquier lugar en donde el colaborador desee.
+#CajitaFelizADomicilio. Cumpleaños de hijos/hijas Padres y madres pueden tomarse un día los días de cumpleaños de sus hijos.
+#NosGustanLasPrecuelas. Adaptación escolar Horarios flexibles para madres y padres en adaptación escolar y actos de colegio.
+#SingularsAlCuadrado. Hijos/Hijas en la oficina Podemos recibir a hijos pequeños en la oficina cuando por alguna razón no puedan quedar en casa o en su jardín/guardería.
+Prepaga SWISS MEDICAL.
+CUPONSTAR Acceso a miles de descuentos en comercios y actividades
+
+Empresa líder de producto propio; una plataforma para Recursos Humanos

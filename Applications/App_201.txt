@@ -1,0 +1,29 @@
+Are you on the hunt for exciting new challenges that boost your professional growth? We are on the lookout for a seasoned Machine Learning/AI Developer to enhance our capabilities in large language models and generative AI technologies. If you're passionate about pushing the boundaries of AI and have a knack for solving intricate problems, you might just be the talent we're searching for.
+This is a full-time, home-based position. Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 60 countries.
+Requirements:
+• 3+ years of machine learning or AI development, primarily in a commercial setting.
+• A strong grasp of large language models (LLMs), their architecture, training techniques, and optimization for various applications.
+• Commercial experience in developing and deploying LLM solutions using techniques such as advanced prompt engineering, RAG, vector embeddings and LLM compression.
+• Experience with both commercial LLMs (GPT-4+, Claude-2, etc) and open-source LLMs (Llama-2, etc).
+• Ability to find, understand and experiment with new research in the generative AI space.
+• Familiarity with Deep Learning Frameworks like TensorFlow and PyTorch, and an understanding of their core principles and applications, is highly valued.
+• Solid foundation in mathematical concepts, algorithms, and statistical models relevant to deep learning and AI.
+• Proficient programming skills in Python, with a focus on writing clean, efficient, and robust code for AI applications.
+• Independent work ethic with the ability to lead research and development efforts within the team.
+• Good communication skills, both written and verbal, in English, to collaborate effectively with a global team.
+• Experience with project management tools and methodologies, ensuring organized and timely delivery of projects.
+The secret ingredients that make us special:
+• Your growth is our growth. We invest in your future with paid training and other professional opportunities.
+• We’re industry innovators at the forefront of change. Equipped with the latest technologies and a team of knowledgeable colleagues by your side, you’ll embrace new and interesting challenges.
+• Your location. Your schedule — Pick your time zone, choose your preferred hours, and work from the place where you feel most at home.
+• Flexibility and freedom are in our DNA! As long as you have a stable internet connection and the drive to thrive, you can travel and work from anywhere you like.
+• A workload you can rely on. We’ll set you enough tasks to keep that mind busy! At Scopic, we’ll ensure you always have a consistent flow of engaging, challenging work to do.
+• Recognition and reward. We acknowledge diligence and hard work through annual pay increases for good performance.
+Down to business!
+• Your starting rate is negotiable depending on your skills and experience.
+• This is an hourly paid position.
+• Contractors are paid monthly via wire transfer.
+Our values:
+Scopic is an equal-opportunity employer. We value diversity and do not discriminate on the basis of race, religion, color, marital status, national origin, gender, veteran status, sexual orientation, age, or disability status.
+Have the skills, the drive, and the passion to join the Scopic family?
+Apply today to join our growing team of remote professionals from around the world

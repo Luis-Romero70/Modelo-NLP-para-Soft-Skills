@@ -1,0 +1,52 @@
+🚀 What does Finalis do?
+
+Finalis is the leading platform enabling the securities brokerage landscape to operate legally and compliantly. The firm delivers a white-labeled regulatory affiliation and compliance back-office solution that supports a wide range of private market dealmaking including M&A, capital raising, private placements, direct participation programs, fintech marketplaces, and alternative investment sponsors.
+
+Finalis provides additional leverage to securities brokers with the Finalis Platform, which delivers a hassle-free deal management solution and a Marketplace that connects brokers with one another to gain insights and explore collaborations.
+
+Launched in 2020 and growing rapidly, the SF- and NYC-based firm is on a mission to power dealmakers by building the world’s largest dealmaking platform.
+
+Join us in disrupting the securities industry, for good. 
+
+🌍 How does Finalis work?
+
+We are a fully-remote company with Finalists distributed between the time zones of Eastern Standard Time and Eastern European Time .
+If you’re located outside this time zone range, depending on the needs of your team, you may be requested to be available during specific hours.
+Although we don’t have an official physical place to work, we promote gathering with your team or other colleagues whenever possible. 
+
+🤝 What about your team?
+
+We are looking for a Data Scientist to join our Connect team within the Delivery department and help us scale up our broker-dealer platform, which connects bankers across the globe to work on collaborative deals. You will be responsible for developing and implementing data-driven solutions to optimize deal origination, qualification, and assignment processes. You will also collaborate with other data professionals and business stakeholders to provide insights and recommendations based on data analysis.
+
+✨ What will you be doing?
+
+Collect, clean, and analyze data from various sources, such as internal databases, external APIs, web scraping, etc.
+Build and deploy machine learning models to automate and improve deal origination, qualification, and assignment tasks, such as matching bankers with potential clients, scoring deals based on various criteria, and assigning deals to the most suitable bankers
+Evaluate and monitor the performance and accuracy of the machine learning models and data pipelines
+Analyze customer behavior data to enhance customer segmentation, targeting, and personalization strategies.
+Provide recommendations for improving customer satisfaction and retention
+Communicate and present the results and findings of the data analysis and machine learning models to both technical and non-technical audiences
+Keep up-to-date with the latest trends and developments in data science, machine learning, and the broker-dealer industry
+
+The Connect Data Scientist will report to the Connect Manager
+
+💬 Who are we looking for 
+
+Bachelor's degree or higher in computer science, statistics, mathematics, or a related field
+Experience in data analysis and machine learning, preferably in the financial sector or a similar domain
+Experience in working with relational and non-relational databases, such as SQL, MongoDB, etc.
+Proficiency in Python, R and its data science libraries, such as pandas, numpy, scikit-learn, tensorflow, etc.
+Experience in using data visualization tools and frameworks
+Strong communication and presentation skills, both written and verbal
+Ability to work independently and collaboratively in a fast-paced and dynamic environment
+Experience in using cloud platforms and services, such as AWS, Azure, Google Cloud, etc.
+You have exceptional written and spoken English
+You have a minimum of 4+ years of relevant work experience
+You have Google Workspace experience
+You have excellent communication skills 
+You have strong organizational skills 
+You can handle confidential information
+You have the ability to work swiftly with a high sense of urgency and be comfortable with shifting priorities and deadlines
+You are a self-starter, quick learner and highly organized with attention to detail
+You have the ability to follow up; know what's going on at all times and respond quickly
+You are flexible, patient, persistent and have a team spirit attitude

@@ -1,0 +1,57 @@
+DESCRIPTION
+
+Are you a passionate machine learning enthusiast with a solid technical foundation? Do you thrive on tackling complex projects that push the boundaries of innovation? If so, we invite you to apply for the role of Machine Learning Engineer.
+
+At EPAM, we are at the forefront of cutting-edge technology, and we're seeking exceptional individuals like you to join our talented team. As a Machine Learning Engineer, you will have the opportunity to make a significant impact in the exciting fields of computer vision and machine learning.
+
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.
+
+RESPONSIBILITIES
+Develop and maintain Dataiku projects, workflows, and models
+Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions
+Design and implement data pipelines for data ingestion, preparation, modeling, and deployment
+Optimize and improve the performance of existing models and monitor their performance
+Work with data scientists and data engineers to integrate models into production systems
+Keep up-to-date with the latest developments in data science and machine learning
+
+REQUIREMENTS
+Strong experience with Dataiku and other data science and machine learning tools
+Strong programming skills, particularly in Python
+Experience with data pipeline and model deployment
+Strong understanding of data science and machine learning concepts and techniques
+Experience working with big data technologies, such as Hadoop and Spark
+Excellent communication and collaboration skills
+Candidates without Dataiku and with other relevant experience must commit to obtain Dataiku certification within first 2 months on the project
+
+TECHNOLOGIES
+Amazon web services
+Data Management
+Dataiku
+ML Arquitecture
+Programming paradigms
+Snowflake
+
+WE OFFER
+Career plan and real growth opportunities
+Unlimited access to LinkedIn learning solutions
+International Mobility Plan within 25 countries
+Constant training, mentoring, online corporate courses, eLearning and more
+English classes with a certified teacher
+Support for employee’s initiatives (Algorithms club, toastmasters, agile club and more)
+Enjoyable working environment (Gaming room, napping area, amenities, events, sport teams and more)
+Flexible work schedule and dress code
+Collaborate in a multicultural environment and share best practices from around the globe
+Hired directly by EPAM & 100% under payroll
+Law benefits (IMSS, INFONAVIT, 25% vacation bonus)
+Major medical expenses insurance: Life, Major medical expenses with dental & visual coverage (for the employee and direct family members)
+13 % employee savings fund, capped to the law limit
+Grocery coupons
+30 days December bonus
+Employee Stock Purchase Plan
+12 vacations days plus 4 floating days
+Official Mexican holidays, plus 5 extra holidays (Maundry Thursday and Friday, November 2nd, December 24th & 31st)
+Relocation bonus: transportation, 2 weeks of accommodation for you and your family and more
+Monthly non-taxable amount for the electricity and internet bills
+
+CONDITIONS
+By applying to our role, you are agreeing that your personal data may be used as in set out in EPAM´s Privacy Notice and Policy

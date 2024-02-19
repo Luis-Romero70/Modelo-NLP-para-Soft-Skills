@@ -1,0 +1,33 @@
+Descripción del Rol:
+
+Buscamos un Data Scientist generalista, con un fuerte énfasis en análisis de datos y habilidades técnicas. Este rol es crucial para nuestro equipo, ya que trabajará en estrecha colaboración con diversas áreas del negocio para impulsar la toma de decisiones basada en datos y mejorar continuamente nuestros procesos y servicios.
+
+
+Responsabilidades Principales:
+
+Desarrollar e implementar modelos de Machine Learning para resolver problemas complejos relacionados con el negocio.
+Realizar análisis de datos avanzados y proporcionar insights accionables.
+Colaborar estrechamente con equipos interdisciplinarios para entender necesidades y objetivos del negocio.
+Crear presentaciones con datos efectivas para comunicar hallazgos a stakeholders no técnicos.
+Mantener y mejorar continuamente nuestros pipelines de datos.
+Requisitos Necesarios:
+
+Experiencia comprobada trabajando como Data Scientist o en un rol similar.
+Conocimientos avanzados en Python y SQL.
+Experiencia en la aplicación de técnicas de Machine Learning y estadística.
+Habilidad para traducir problemas de negocio en soluciones analíticas.
+Excelentes habilidades de comunicación y trabajo en equipo.
+Conocimiento en Sistemas de Información Geográfica (GIS).
+Hablar español 
+Nice to Have:
+
+Experiencia con big data en la nube.
+Experiencia en roles de comunicación con empresas enterprise.
+Conocimiento sobre como modelar LLMs
+¿Qué Ofrecemos?
+
+La oportunidad de crecer profesionalmente en un ambiente de startup dinámico y colaborativo.
+Ser uno de los primeros 10 empleados, jugando un papel clave en el crecimiento de la empresa.
+Pago en dolares.
+Trabajar en proyectos desafiantes y de alto impacto.
+La posibilidad de trabajar con un equipo talentoso y diverso.

@@ -1,0 +1,25 @@
+The Position:
+
+We're looking to hire an Artificial Intelligence/Machine Learning Engineer to join our team. You'll work with our incredible clients in one of two ways:
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We're Looking For:
+
+4+ years of professional software development experience.
+3+ years of professional experience in designing and implementing machine learning algorithms.
+Meaningful experience in programming languages such as Python, R, or Java.
+Proficiency in working with machine learning frameworks such as TensorFlow or PyTorch.
+Proficiency in working with data analysis and visualization tools such as Pandas, NumPy, or Matplotlib.
+Advanced English is required.
+Successful completion of a four-year college degree is required.
+Ability to work through new and difficult issues and contribute to libraries as needed.
+Ability to create and maintain continuous integration and delivery of applications.
+Forensic attention to detail.
+A positive mindset and a can-do attitude.
+Experience working on Agile / Scrum teams.
+Meaningful experience working on large, complex systems.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week.

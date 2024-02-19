@@ -1,0 +1,27 @@
+Want to build a stronger, more sustainable future and cultivate your career? Join Cargill's global team of 160,000 employees who use new technologies, dynamic insights and over 157 years of experience to connect farmers with markets, customers with ingredients, and people and animals with the food they need to thrive.
+
+JOB PURPOSE AND IMPACT
+
+The Analytics Engineer will enable analytics and reporting through the use of the data foundation and digital core competency. In this role, you will leverage the core capabilities of data management, data engineering and information products to enable timely, accurate and actionable insights to the teams. You will be a key partner to deliver the final information products that enable business value.
+
+Key Accountabilities
+
+Partner collaboratively with data analysts and subject matter experts to understand data needs. 
+Prepare data to meet specific reporting and analytics needs. 
+Build data sets to enable functional requirements for reporting and analytics use cases. 
+Model, design, develop, test and implement moderately complex back end and front end structures to meet business visualization, reporting and analytics requirements. 
+Assess and monitor the performance of processes, services and outcomes and support access to data assets. 
+Partner with the team to develop detailed understanding of the business and offer guidance on technical solutions to solve business problems. 
+Independently solve moderately complex issues with minimal supervision, while escalating more complex issues to appropriate staff. 
+
+Qualifications
+
+MINIMUM QUALIFICATIONS
+
+Bachelor’s degree in a related field or equivalent experience. 
+Confirmed skills to blend and organize data. 
+Confirmed experience to enable data content for reporting or analytics solutions. 
+Minimum of two years of related work experience. 
+Experience working with SQL. 
+Experience working with Power BI. 
+Understanding of data concepts.

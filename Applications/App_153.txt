@@ -1,0 +1,50 @@
+Our client is a subscription-based VOD platform global leader for language learning. The web-based software provides users with television shows and movies combined with interactive language-learning tools.
+
+
+Is the Netflix of language learning, serving a vast and thriving community of language enthusiasts. They're passionately committed to transforming language learning into an enjoyable, accessible, and highly successful endeavor for everyone.
+Their platform offers a curated catalog of real foreign TV shows, movies from around the world. from various providers, including Netflix.
+
+
+We are actively seeking a highly skilled ML/AI/NLP developer to join our team and drive the development of consumer-oriented features. We're looking for someone who possesses strong technical and analytical skills and has a knack for devising innovative and efficient solutions to address product challenges. In this role, the ideal candidate will not only collaborate with stakeholders to gain insights into the product and its objectives but will also independently conduct research on existing ML/AI/NLP solutions. Their primary responsibility will be to identify opportunities for product improvement by leveraging the latest advancements in ML/AI/NLP technologies that could benefit our company.
+
+
+Once these opportunities are identified, the candidate will autonomously craft solutions and work closely with other developers and product managers to implement and deploy these improvements to end-users. Additionally, they will continuously monitor and optimize the feature's performance based on data collected from users. We are seeking a proactive team player who is eager to take the lead in advancing our ML/AI/NLP initiatives and is committed to staying up-to-date with the latest developments in the field to bring valuable enhancements to our products.
+
+
+Responsibilities:
+
+
+
+In the capacity of the ML/AI/NLP Developer at our organization, you will hold a pivotal position in integrating ML/AI/NLP technologies into our products to enhance the customer experience and drive retention. Your key duties will encompass:
+
+
+Take a leadership role in advancing our ML/AI/NLP initiatives by proactively seeking opportunities to continuously analyze the existing product, identifying areas where the implementation of ML/AI/NLP features can enhance the customer experience.
+Conduct ongoing research on existing ML/AI/NLP solutions and emerging technologies, identifying technologies that the company can leverage for innovation.
+Independently conceive and propose creative ML/AI/NLP-based solutions to enhance the customer journey and drive product improvements. 
+Collaborate closely with cross-functional teams, including developers, designers, content managers, and product managers, to implement, monitor, optimize, and deploy ML/AI/NLP-driven solutions effectively for maximum customer benefit and enhanced retention through data-driven insights.
+Evaluate and integrate third-party ML/AI/NLP tools and services to complement our in-house capabilities, expanding the potential for enhancing the customer experience.
+
+
+This is a full remote position. This position requiered to start at 6am or 7am Argentinian Time.
+
+
+
+
+Requisites
+
+3+ Years of hands-on experience in developing and deploying Machine Learning / Artifitial Intelligence / NLP models for real-world applications, including knowledge of data preprocessing, feature engineering, and model evaluation techniques.
+Demonstrated success in independently identifying opportunities for Machine Learning / Artifitial Intelligence / NLP enhancements, conducting research, and delivering tangible improvements to products or services.
+Proficiency in programming languages and familiarity with ML libraries like TensorFlow, PyTorch, or scikit-learn
+Experience with cloud platforms like AWS, Azure, or Google Cloud for deploying and scaling Machine Learning / Artifitial Intelligence / NLP enhancements models is a plus.
+Excellent English communication skills (upper-intermediate).
+Strong analytical and data-driven mindset, with a passion for improving customer experiences.
+A keen interest in staying updated with the latest advancements in Machine Learning / Artifitial Intelligence / NLP enhancements technologies and their applications.
+
+
+Benefits
+
+
+
+- 100% remote position
+- Salary in USD
+- Computer is provided by the company

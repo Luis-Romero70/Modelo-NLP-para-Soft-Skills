@@ -1,0 +1,34 @@
+About Us
+
+e2f helps people and machines communicate naturally regardless of language, content, or culture.
+
+With expertise in data science - and deep roots providing agile translation in 200+ languages and dialects - e2f uniquely provides high-quality linguistic datasets of multilingual speech, text, annotation, and quality data required to help machines understand people.
+
+e2f customers include several of the world’s most successful artificial intelligence (AI) and natural language processing (NLP) deployments.
+
+About the Role:
+
+e2f is seeking a talented and experienced Senior Python Engineer to enhance our dynamic team. In this role, you will focus on developing and maintaining advanced Python applications.
+
+Responsibilities:
+
+Developing robust Python applications using FastAPI to ensure high performance and responsiveness to requests from the front-end.
+Writing comprehensive tests with Pytest to maintain code quality and reliability.
+Working proficiently with SQLAlchemy for database interactions, particularly with PostgreSQL.
+Collaborating with cross-functional teams to define, design, and ship new features.
+Troubleshooting, debugging, and upgrading existing systems.
+
+Requirements:
+
+Proven experience in Python development (4+ years) with a strong understanding of FastAPI, Pytest, and SQLAlchemy.
+Solid experience with AWS services such as S3, RDS, Cognito, Lambda, and SNS.
+Deep understanding and experience with Machine Learning (ML) and Large Language Models (LLM).
+A strong sense of curiosity and interest in Artificial Intelligence (AI), staying abreast of the latest advancements in the field.
+
+Nice to Have:
+
+Previous experience with LLMs and their practical applications.
+Familiarity with other cloud services and technologies.
+Experience in a fast-paced, agile development environment.
+
+If you are passionate about Python development and AI, and you meet our requirements, we would love to hear from you.

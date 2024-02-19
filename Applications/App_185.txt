@@ -1,0 +1,87 @@
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.
+
+We are looking for a Senior Machine Learning Engineer who can design and implement standardized processes and technology capabilities for building, deploying and operating ML systems rapidly and reliably. To provide leadership in defining and implementing strategies and tools, working with internal and external stakeholders.
+
+Half of the time is dedicated to the hands-on analysis of data science initiatives, plans, and ML-powered products. In contrast, the other half is spent building data and modelling pipelines, tools, and applications to automate that process.
+
+OUR VALUE, OUR PEOPLE
+
+We aim to deliver truly transformative solutions around the world, with top-notch technologies, in high-performance professional teams. But none of these would be possible without our people, and that’s where you come in.
+
+As an EPAMer you will always be expanding your knowledge, facing and addressing the biggest challenges, and becoming the best version of yourself, both personally and professionally. We care about your development, and to support your growth in the company, there are many career paths you can follow within our Engineering & Advanced Engineering tracks. Plus, you’ll be constantly working in multicultural teams with people from North America & Europe that will bring out the best of you.
+
+Req.#306923195
+
+#REF_HOU_CO
+
+What You’ll Do
+
+Own and contribute to ML pipeline design, development, and operating lifecycle based on best practices
+Design, create, maintain, troubleshoot, and optimize ML pipeline steps
+Own and contribute to the ML prediction endpoints design and Implementation
+Cooperate with Data System Engineers to configure ML lifecycle management environment
+Write specifications, documentation and user guides for developed applications
+Materialize ML pipelines created by data scientists
+Cooperate with data scientists on the design and implementation of predictive models
+Collaborate with data scientists and engineering teams to optimize ML pipeline performance
+Support improvement of coding practices and repository organization in the data science work cycle
+Contribute to the exploration and understanding of new tools and techniques and propose improvements
+Establish and configure CI/CD pipelines for Data projects
+Define ML Engineering best practices within data science and product teams
+Continuously identify technical risks and gaps, devise mitigation strategies
+Identify and cover hidden technical debt in ML systems
+
+
+What You Have 
+
+Experience working as a ML Engineer
+Experience working with one of the following MLOps related technologies:
+AWS SageMaker
+Azure ML
+GCP Vertex AI/AI Platform
+
+Experience working with one of the following technologies:
+Databricks
+MLFlow
+Kubeflow
+TensorFlow Extended (TFX)
+Spark ML
+Airflow
+Argo Workflow
+
+Expert level in Python, Java, or Scala
+Strong sense of leadership and growth mindset
+Fluent English (B1+)
+
+ Nice to have
+
+Experience with different types of databases: Relational, NoSQL, Graph, Document, Columnar, Time Series
+Experience in CI/CD
+Experience with IaC tools such as: Ansible or Terraform
+Experience with Docker & Kubernetes
+Experience with R Studio and R Language
+
+
+Benefits
+
+Learning Culture - We want you to be the best version of yourself, that is why we offer unlimited access to learning platforms, a wide range of internal courses, and all the knowledge you need to grow professionally
+Health Coverage - Health and wellness are important, that is why we have you and up to four family members in a premiere health plan. We have a couple of options, so you can choose what is best for you and your family
+Visual Benefit - Seeing your work for us would be a sight for sore eyes. We want your vision to always be at 100% which is why we offer up to $200.000 COP for any visual health expenses
+Life Insurance Plan - We have partnered with MetLife to offer a full-coverage Ife insurance plan. So, your family is covered, even if you are gone
+Medical Leave Coverage - We are one of the few companies that cover 100% of your medical leave, for up to 90 days. Your health is the most important thing to us
+Professional Growth Opportunities - We have designed a highly competitive and complete development process, where you will have all the tools to get where you have always wanted to be, personally and professionally
+Stock Option Purchase Plan - As an EPAMer you can be more than just an employee, you will also have the opportunity to purchase stock at a reduced price and become a part owner of our organization
+Additional Income - Besides your regular salary, you will also have the chance to earn extra income by referring talent, being a technical interviewer, and many more ways
+Community Benefit - You will be part of a worldwide community of over 50,000 employees, where you can learn, challenge yourself, stand out, and share your knowledge and experience with multicultural teams!
+Are you open to relocation? - If you want to relocate to another country and we have the right project, we will assist you every step of the way, to help you and your family, reach your new home
+
+
+We offer
+
+We trust our people. We believe in team distribution and that you know what you are doing, which is why you will be able to work remotely and have a flexible schedule
+We are both proud of working within a diverse and inclusive environment and acting in our role as an equal opportunities’ employer. You are welcome at EPAM for who you are.
+You will be challenged while working side-by side with the best talent globally. We work with top-notch technologies, constantly seeking out new industry trends and best practices
+We are a global design community eager to share knowledge, experiences, and mentoring. You will learn, contribute, and grow with us.
+How does it sound to know you can have a 20+year career with us constantly growing and without the need to look elsewhere? We offer access to learning platforms, classes, and workshops to support your development. You will be set up for success with our clear career paths and support in helping you achieve the goals you set for yourself, both personal and professional
+We seek improvement in a proactive manner. You have the freedom to make recommendations, suggestions or simply comment on things without the pressure of adhering to hierarchy or strict processes
+We work with a broad range of clients: Media, Entertainment, Life Sciences, Automotive, Finance, Technology, and Travel. You will play a key role in growing their business and potentially work in multiple new industries

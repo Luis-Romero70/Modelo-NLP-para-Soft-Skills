@@ -1,0 +1,8 @@
+GlobalSource IT is currently working with a Direct Client in the US looking to add a couple of Sr. Data Engineers for nearshore support of their data platforms. They are looking for Senior resources who can help maintain and optimize current solutions and help business users/groups create designs that match their needs. This would be strong Data Modeling, Databricks, ETL, Integrations, Analysis, and Designs. Skills would primarily focus on using Azure, Spark, On-Prem, API, SQL, and Python. This would be a 100% remote opportunity for an initial 6 months to start supporting their US-based business units. 
+
+
+
+Must have 5+ years of Data related experience and a focus on current Data Engineering responsibilities
+Must have experience with Azure, SQL, ETL, Integrations, Python, and Spark
+Past experience creating Databricks, new Data Models, Data Analysis and documents
+Strong communication to help create designs and models will be critical for this role on top of technical efforts

@@ -1,0 +1,65 @@
+AI Applications Engineer
+
+Have you created a successful career in tech and are ready to do something good with your skills and experience? If yes, then join us in our Earthshot mission to build open source digital systems and solutions to battle environmental threats.
+
+OpenEarth Foundation (OEF) is a California-based research and deployment non-profit developing open innovative technology to increase planetary resilience and avoid a catastrophic climate crisis.
+
+We are building open infrastructure in support of the UNFCCC Paris Agreement, solutions in city decarbonization, climate finance, biodiversity tracking and other critical climate challenges.
+
+We are a diverse international team, working remotely with a network of collaborators and partners globally, from the United Nations to climate tech startups.
+
+We have funding and a team of experts focused on Earth systems and digital innovation.
+
+Your mission, should you choose to accept it:
+
+As an AI Applications Engineer at OpenEarth Foundation, you will be key to our mission of applying the latest AI technologies to the world’s most important task: slowing and halting the climate crisis. You will leverage your AI engineering, software experience and analytical skills to build open digital infrastructure, with a particular focus on our newly launched .
+
+You will work with a team of software professionals to create software that helps track the world’s progress towards the Paris Agreement goals, and improve the data infrastructure for analyzing this. A key implementation to develop is the use of AI Large Language Models (LLM) to harmonize climate datasets and drive interoperability across carbon and Environmental, Social and Corporate Governance (ESG) disclosure standards. Everything we do is Open Source, shared freely with the world, to maximize the impact of our work.
+
+The position is remote and international candidates are welcome, but prefer those willing to work with time zones compatible with PST. We're working on the planet's problems and we need the planet's best people to fix them.
+
+The following requirements describe our ideal candidate. If you don't meet some of the requirements, you're encouraged to apply anyway.
+
+Essential Functions and Specific Duties:
+
+Design, architect and build AI functionality for OpenEarth’s Open Source software, such as CityCatalyst
+Use large language model (LLM) APIs to make software more intelligent and efficient
+Participate in AI technical process standards for the foundation
+Build machine learning models for deriving insights from images, videos, documents or structured data
+Other:
+
+Actively participate in team building and culture development activities at OpenEarth Foundation
+Encourage and mentor Open Source contributors to OEF’s projects
+Represent OEF at standards discussions about the use of AI for improving global climate accounting
+Qualifications & Experience Requirements:
+
+Bachelor’s degree in computer science or related field, or equivalent work experience
+Minimum 3 years of total experience in professional software development, with 2 shipped products
+Minimum 1 years of experience in machine learning models, with 1 shipped project
+Minimum 1 year of experience creating API clients, with 1 shipped project
+At least 1 shipped product using an LLM API, such as ChatGPT
+Other competencies:
+
+Training, updating and maintaining an LLM model, such as LLaMA
+Use of low-code/no-code and other tools for rapid prototyping
+Using Python for data pipelines and data analysis
+Using NodeJS for building APIs
+Using Git for collaboration and version control
+Using Jira for project management
+Using Docker and Kubernetes for software deployment
+Interpersonal skills:
+
+Ability to work in an agile software development environment with a mix of data engineers, full-stack developers, product designers and product managers
+Ability to estimate and track time worked on tasks
+Communications skills necessary to document and present work
+Other qualities:
+
+Dedication to fighting climate change
+Focus on impact
+Interest in non-profit work
+Compensation and benefits:
+
+This position is full-time with compensation of $60,000-$90,000 (USD) per year, commensurate with location and experience
+Open Earth offers unlimited paid time off, paid holidays and paid sick leave
+You will work remotely within a dynamic and international environment
+We celebrate our achievements during our in-person annual team retreat

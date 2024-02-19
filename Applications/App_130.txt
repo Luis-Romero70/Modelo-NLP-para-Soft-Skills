@@ -1,0 +1,16 @@
+Te presentamos la oportunidad de unirte a DeepAgro, una empresa que está revolucionando el agro con Inteligencia Artificial, como Machine Learning Engineer. Si buscas un desafío emocionante, esta posición te brinda la oportunidad de desarrollar modelos de IA.
+DeepAgro desarrolla soluciones que buscan ser parte del futuro del agro a nivel mundial. Nuestro producto SprAI, le permite a los productores agropecuarios reducir hasta un 90% el uso de herbicidas, a partir de detectar, ubicar y controlar cada maleza del campo en tiempo real. No sólo es capaz de tomar y procesar imágenes de alta calidad en diversos escenarios y situaciones, sino que también puede recopilar información de distintos sensores ubicados en la máquina, almacenarla y subirla a la nube desde cualquier punto.
+
+
+Entre las responsabilidades del puesto, se encuentra la de mejorar continuamente el modelo de detección de malezas en cultivos, mantener los modelos actuales de detección de malezas en cultivos, realizar pruebas para analizar rendimiento de modelos, investigar nuevas arquitecturas e implementaciones para modelos de detección de maleza sobre distintos cultivos y otras aplicaciones de inteligencia artificial. También podrá ser responsable del prototipado de proyectos de inteligencia artificial para nuevas soluciones.
+
+
+Buscamos una persona con base en conocimientos en Inteligencia Artificial y Machine Learning. Lenguajes de programación, específicamente C++ y/o Python. Comprensión de estructuras de datos, modelado de datos y arquitectura de software. Conocimiento profundo de matemáticas, probabilidad, estadísticas y algoritmos. Excelentes habilidades de comunicación. Habilidades analíticas y de resolución de problemas excepcionales. Uso de frameworks para desarrollo de IA (PyTorch, sklearn). Uso de librerías de procesamiento de datos e imágenes (OpenCV, NumPy, Pandas, Airflow).
+Además, es deseable que cuente con habitualidad con metodologías ágiles, uso de software de versionado de código, conocimiento de herramientas cloud (AWS, Azure, IBM), experiencia en investigación, conocimiento de procesamiento de imágenes clásico. Se valorará experiencia en el puesto, ya sea en la industria o de forma independiente, de desarrollo de modelos así como de manejo de datos a gran escala.
+
+
+El perfil es para una persona con estudios universitarios finalizados, o en marcha, en carreras tales como Ingeniería Electrónica, Licenciatura en Ciencias de la Computación, Matemáticas o afines. Con capacidad de aprender y aplicar conceptos y herramientas de forma dinámica, de trabajar en equipo y, a veces, de forma independiente, con enfoque en el cliente.
+En DeepAgro te vas a encontrar con muchos beneficios, que van desde almuerzos gratuitos en oficina, bonos anuales por objetivo, créditos mensuales en Pedidos Ya, Gympass, clases de idioma, y mucho más.
+
+
+Si queres formar parte de esta gran transformación, postulate a esta búsqueda o envíanos tu CV a rrhh@deepagro.com.ar, lo estaremos esperando.

@@ -1,0 +1,69 @@
+Senior Analytics Engineer, Data & Analytics Team (Contractor)
+
+
+About Compass
+
+
+
+At Compass, our mission is to help everyone find their place in the world. Founded in 2012, we’re revolutionizing the real estate industry with our end-to-end platform that empowers residential real estate agents to deliver exceptional service to seller and buyer clients.
+The Data & Analytics team at Compass is responsible for enabling a data-driven culture at Compass by building a unified and scalable analytical platform that drives operational excellence, business intelligence, and data science use cases. As an Analytics Engineer on the Data & Analytics team, you will play a critical role in building and improving our analytical infrastructure. You will be at the forefront of helping turn raw data into meaningful insights for business stakeholders across the company.
+
+
+We #obsess about the opportunity in front of our organization to continue building a transformative asset that unlocks insights for the company. We are looking for someone to join our team that shares in this enthusiasm and passion for solving complex problems through building scalable analytics infrastructure. To thrive in this role, you must demonstrate a strong sense of ownership and accountability for the product you deliver while operating both individually and within a team.
+
+
+At Compass You Will:
+
+Architect and optimize analytical solutions that transform raw data into scalable data assets that enable robust self-serve reporting and business intelligence
+Collaborate with cross-functional business users to gather and define requirements that will be the blueprint for solutions
+Partner with data engineering teams to architect data models and pipelines that support business intelligence and data science use cases
+Help scale and improve our existing analytics infrastructure
+Define, design, and implement business metrics that automate operational reporting and self-serve reporting use cases
+Develop and design artifacts (e.g dashboards, reports) that story-tell and offer insights to both technical and non-technical audiences
+Provide technical guidance and mentorship to other Analytics Engineers on the team
+
+
+What We Are Looking For:
+
+
+
+6+ years of relevant industry experience
+Advanced SQL, DAX and data modeling skills
+Experience with a data visualization tool (Tableau, Power BI, Looker, etc)
+Experience with a cloud based data lakehouse (e.g Databricks, Redshift)
+Strong understanding of data modeling and software engineering best practices
+Preferred experience with a programming language (Python, PySpark, R, Scala, etc)
+Experience working with business users to translate requirements into scalable assets that deliver proactive insights and enable self service analysis
+Growth mindset, self-starter with a desire to continually learn and improve
+Team player, willingness to work within a collaborative team environment
+Passion for solving challenging, complex problems in a fast-paced & sometimes ambiguous environment
+Experience migrating artifacts (e.g dashboards) from one data visualization tool to another is a plus
+
+
+Hiring Conditions
+
+
+
+100% remote work (Flexible around US time zones)
+USD fixed monthly compensation (through Deel)
+Paid local national holidays
+Autonomy in managing delivery of your assignments and time off
+Mac equipment provided
+
+
+What does the interview process look like?
+
+
+
+Once the team gets your updated resume the first step is a short chat with the recruiting team to get to know you better and also to answer the first questions you might have. You will hear back from Compass within a week, even if you are not a good fit.
+Right after you’ll get an invite to a technical screening interview. This is done by a Compass partner with night and weekend availability, low pressure redo opportunity, paired with a seasoned engineer and objective interview, reducing bias.
+The main loop of interviews is as follows, each interview takes about 60 minutes with 10 minutes reserved at the end so that you can ask questions (we think it’s important that you get to know us too). These interviews are done by Compass Engineers:
+Main Coding interview
+System design interview
+Tech deep dive & cultural fit
+
+
+Compass aims to move fast, the entire process should not take more than 2 weeks.
+
+
+At Compass, our mission is to help everyone find their place in the world. This means we continually celebrate the diverse community different individuals cultivate. As an equal opportunity employer, we stay true to our mission by ensuring that our place can be anyone’s place.

@@ -1,0 +1,63 @@
+About BeatStars
+
+
+
+Since 2008 BeatStars has been the pioneering and go-to online music marketplace to connect millions of recording artists and music producers worldwide. BeatStars is also the leading artist discovery tool for all the major and independent labels. Most recently, BeatStars partnered with Sony Publishing to launch its publishing arm on the platform.
+Now, with over 3 million monthly active users, we've paid over $200M to our creator community. We continue to support independent musicians with the tools, community, opportunities, and education they need to earn a living doing what they love.
+
+
+What You’ll Be Doing
+
+
+
+The QA Automation Engineer (Contractor) will be responsible for developing and executing comprehensive test plans to ensure product quality. The responsibilities of the QA Automation Engineer include designing, implementing, and executing automated tests using Cypress for our web applications. The candidate should have a strong background in software testing, a keen eye for detail, and the ability to collaborate effectively.
+
+
+Responsibilities
+
+
+
+Develop and maintain automated test scripts using Cypress for web applications.
+Implement and maintain continuous testing strategies, integrating automated tests into CI/CD pipelines to ensure efficient and reliable delivery of software.
+Collaborate with DevOps and development teams to seamlessly integrate automated tests into the deployment process, facilitating rapid feedback loops.
+Develop robust reporting mechanisms and dashboards to communicate test results and key quality metrics to stakeholders.
+Analyze test results and contribute to the identification and resolution of quality-related issues throughout the software development lifecycle.
+Provide breakdown of QA tasks and time estimates for planning.
+Provide input toward developing Quality Assurance standards.
+Work in a highly collaborative environment with a team of software developers and product managers.
+Communicate verbally and in writing with the development team.
+Willingness to work flexible and/or extended hours as necessary.
+Ability to “think outside the box.”
+
+
+What You’ll Need
+
+
+
+At least 3 years of experience in QA automation 
+Strong proficiency in Cypress.io
+Experience in setting up and managing CI/CD pipelines for automated testing.
+Proficiency in various testing types (functional, regression, integration, etc.) and methodologies.
+Familiarity with bug reporting and project management software (Jira). 
+Strong written and verbal communication skills are vital for documenting test cases, reporting bugs effectively, and collaborating with cross-functional teams.
+Capability to manage time efficiently, prioritize tasks based on project needs, and adapt to changing deadlines or requirements.
+An understanding of the importance of maintaining high-quality standards and the ability to work collaboratively with developers, product managers, and other team members to achieve those standards.
+Self-learning skills (Experience with e-learning platforms).
+Experience with automating tests for mobile applications is a plus
+Experience with Unit Testing is a plus.
+Coding Skills in Java or Kotlin or Swift or Object C is a plus
+
+
+Compensation
+
+
+
+As a dynamic and global remote company at the forefront of the music industry, BeatStars values the expertise and contributions of our Contractors in contributing to its success. We offer competitive monthly compensation, clear project scope, and open communication channels to ensure your success working with BeatStars.
+We determine compensation considering a variety of factors, including primary work location and the level of a Contractor’s skills and experience against the needs of the role.
+
+
+Location
+
+ 
+
+LATAM (Remote)

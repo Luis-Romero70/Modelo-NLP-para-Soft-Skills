@@ -1,0 +1,53 @@
+Quienes Somos
+
+Somos Telecom Argentina, una empresa de servicios digitales, telecomunicaciones y entretenimiento, líder en la región. Evolucionamos para convertirnos en una tech-co ágil, diversa y sustentable. Confiamos y creemos en las personas, como diferencial en la entrega de valor a nuestros clientes. Nos impulsa el propósito de potenciar la vida digital de nuestros clientes y de la sociedad en su conjunto.
+
+En el equipo Advanced Analytics de la compañía, estamos sumando profesionales ML Data Engineer, con pasión por la innovación, ganas de ser protagonistas y facilidad para el desempeño en un entorno desafiante y dinámico.
+
+Dentro de la gerencia de Advanced Analytics & Big Data, el equipo de Data Management tiene como propósito velar por la calidad y disponibilidad de los datos, promover y colaborar en la integración de todos nuestros desarrollos y nuevas fuentes de datos.
+
+Buscamos protagonistas que se animen a:
+
+ Usar billones de datos para diseñar y desarrollar la mejor solución de ML que se te ocurra. 
+ Formar parte del diseño y la evolución de la práctica de ML OPS en la compañía. 
+ Responder a distintas problemáticas de la organización en riesgo, marketing, network Analytics, finanzas, customer experience, IoT y MAS! 
+ Ver los resultados y el impacto de tu trabajo. Vas a sumarte a un equipo con muchas ganas de seguir creciendo 
+ Debido al volumen de datos que la compañía está manejando, estamos en un proceso muy avanzado de evolución de tecnología y es aquí donde tenemos el mayor desafío y por lo que queremos contar con vos para llevarlo a cabo! 
+ Es importante que sepas y quieras desenvolverte dentro de un ámbito extenso, con muchos equipos de diferentes perfiles pero con un claro objetivo que es el de hacer una compañía Data Driven. 
+
+#CB-1
+
+#EB-1
+
+Y cuenten con estas experiencias y habilidades:
+
+ Experiencia trabajando con bases de datos SQL y NoSQL (Bigquery, Postgresql, Hive, Dynamodb, redis) - Excluyente 
+ Conozcas y hayas trabajado con plataformas distribuidas (Dataproc / Hadoop), su arquitectura y funcionamiento. - Excluyente 
+ Experiencia previa en desarrollo (Python, SQL) – Excluyente 
+ Experiencia en herramientas de orquestación (Airflow preferentemente) 
+ Experiencia en entornos cloud (GCP, AWS, Azure). Preferentemente GCP 
+ Conocimientos en herramientas de Integración Continua y repositorios de código: gitlab, github, gitlab CI, github action. - Excluyente 
+
+¿Qué tenemos para ofrecerte?
+
+🌏 Modalidades de trabajo flexible
+
+🏆 Bono por performance
+
+✈️ Una semana extra de vacaciones
+
+📱 Descuentos y bonificaciones exclusivas en nuestras marcas Personal y Flow (internet, conectividad móvil y entretenimiento) para vos y tu familia
+
+🏥 Prepaga para vos y tu grupo familiar a cargo
+
+📕 Acceso libre a la plataforma digital de contenidos de aprendizaje (Universo Telecom)
+
+🎓Bonificaciones especiales en universidades de primer nivel
+
+💪🏼 Bonificaciones en plataforma de entrenamiento y bienestar para membresía en gimnasios cercanos a tu rutina diaria.
+
+👫 Programa de referidos con reconocimiento económico (TECOnecto)
+
+¡Y mucho más!
+
+¡Súmate a la transformación digital más desafiante del país!

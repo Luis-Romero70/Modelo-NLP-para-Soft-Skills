@@ -1,0 +1,36 @@
+TripleTen is a service that empowers individuals, regardless of their prior experience, to embark on the exciting and challenging journey of mastering tech professions. Our bootcamps focus on training students in software engineering, data science, business intelligence analytics, and QA engineering in a feasible and accessible way, ultimately leading them to thrive in a new career.
+
+Our mission is to ensure that every student has the opportunity to successfully master a new profession, find their purpose, and become a valuable member of the tech industry.
+
+
+Please submit all resumes or CV's in English.
+
+Please note that after applying for this position, you will be required to complete a test assignment after your Online Introductory Call.
+
+
+Who we're looking for:
+
+For the Data Science program, we are looking for an experienced data scientist to review our students and help them successfully become professionals.
+
+
+Requirements:
+Experience working as an analyst using Python;
+Experience working with machine learning projects for more than a year;
+Familiar with the Pandas, NumPy, Matplotlib, Sklearn libraries;
+Readiness to dedicate at least 10 hours a week to review the student code;
+Intermediate English, proficient Spanish.
+
+What you will do::
+Check the student code and provide feedback.
+Grant credits according to the results of the assignments.
+Provide advice on improving the code, note any inaccuracies, and point out errors.
+
+What we can offer you::
+Training in code review and communication techniques;
+The ability to do code review for students while performing your primary job;
+Sharing experience with developers in our community;
+Cross-cultural collaboration experience in mentoring and conducting webinars;
+Competitive payment which depends on the number of checked tasks;
+Remote cooperation with a schedule that’s convenient for you and the team. There isn’t a focus on micromanaging;
+A comfortable digital office. We use modern digital tools — Miro, Notion, Zoom, etc. — to make working together process seamless;
+Diverse and tight-knit team which is spread out across the US, Israel, and LatAm!

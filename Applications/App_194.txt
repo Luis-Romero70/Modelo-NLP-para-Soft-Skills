@@ -1,0 +1,51 @@
+Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including: workload migrations & modernization, cloud native application development, DevOps, data engineering, security & compliance and everything in between. At Caylent, our people always come first.
+
+We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien!
+
+The Mission
+
+At Caylent, a Data Architect works as an integral part of a cross-functional delivery team to design and implement data management solutions on the AWS cloud for our customers. You will design and document the data architecture, data transformations and schema design, and provide guidance to the engineers performing the hands-on implementation of your design. You will participate in daily standup meetings with your team and bi-weekly agile ceremonies with the customer. Your manager will have a weekly 1:1 with you to help guide you in your career and make the most of your time at Caylent.
+
+Your Assignment
+
+Work with a team to deliver top-quality data solutions on AWS for customers
+Participate in daily standup meetings and address technical issues
+Design, optimization and migration of relational databases
+Be able to write code whenever needed and possible
+Lead and help engineers without any direct supervision
+
+Your Qualifications 
+
+Design and implementation of at least two of these:
+ETL, Orchestration and CI/CD pipelines
+SQL databases, Stored Procedures and Query optimization
+Analytics and visualization
+MDM and Data Governance
+Design and implementation of at least two of these on AWS:
+High Availability (HA) solutions, read/write replicas and optimization
+RDS and Aurora performance tuning
+Large scale application migration and modernization with a heavy focus on DB
+Security, access controls and governance on cloud
+Expert-level understanding of Data Warehouses, and RDBMSs like Redshift, Snowflake, Postgres, Oracle, SQL Server
+Experience with IaC tools such as CloudFormation, CDK, Terraform
+Experience with AWS Glue, Lambda, SDK
+Experience with CI/CD tools
+Excellent written and verbal communication skills
+
+Benefits
+
+Pay in USD
+100% remote work
+Generous holidays and flexible PTO
+Competitive phantom equity
+Paid for exams and certifications
+Peer bonus awards
+State of the art laptop and tools
+Equipment & Office Stipend
+Individual professional development plan
+Annual stipend for Learning and Development
+Work with an amazing worldwide team and in an incredible corporate culture
+
+Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent.
+
+We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.

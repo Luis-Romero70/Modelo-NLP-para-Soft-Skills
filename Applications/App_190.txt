@@ -1,0 +1,54 @@
+Influur is the first startup that works as an app-based marketplace by directly creating jobs for Influencers, Creators, and Brands around the world. The company was born from the communication struggles between influencers and brands, an experience that like many others, our founding team had at some point in their careers. We have created a streamlined solution built from the influencer perspective, making Influur the first platform where influencers feel they belong in a professional space.
+
+
+At Influur, our leadership team loves working hand by hand with our team, providing unique opportunities to grow and develop, professionally and personally. Also, since day one, we have been truly people oriented as we understand the value of co-creating while offering a unique employee experience.
+
+
+The Role
+
+We are looking for a Sr. Business Intelligence (BI) Analyst to join our team and make a significant impact on our business since day zero. The ideal candidate will stand out for their ability to analyze data, ensure data quality, and generate valuable insights to drive strategic decision-making. This role involves working closely with various teams, including the product and technology team, to identify opportunities and efficiently solve business challenges.
+
+
+Key Responsibilities
+
+Help the product team with APIs and app events.
+Support Product and Marketing teams with Clevertap, Amplitude, or similar tools.
+Generate, design and document analytics for a tech product.
+Think on the “big picture” for data projects.
+Analyze data from multiple sources to identify meaningful trends and patterns.
+Employ statistical tools to understand KPIs and marketing campaigns performance.
+Collaborate with the technology team to develop and maintain efficient data pipelines.
+Collaborate with both technical and non-technical teams.
+Work closely with different departments to understand their data analysis needs.
+Provide valuable insights to support strategic decision-making.
+Identify opportunities to improve the efficiency and effectiveness of data analysis processes.
+Manage relational databases ensuring data quality and availability.
+Develop a Data Quality system to ensure we deliver high quality reports.
+Create generic Dashboards and ad-hoc reports using Looker or other visualization tools.
+
+
+Desired background
+
+Bilingual - English/Spanish.
++4 years of experience with data analysis tools and techniques.
+Experience working in a Tech Product company with technical and non-technical stakeholders.
+Ability to “wear different hats” simultaneously.
+Experience with Marketing and Business KPIs.
+Studies and/or previous experience in Data Science, Data Analysis, Business Intelligence fields.
+
+
+Desired technical skills
+
+SQL.
+GCP or AWS tools.
+Looker and LookML.
+Looker Studio.
+Python intermediate.
+Notion/Jira.
+
+
+What we offer
+
+Opportunities to grow and develop.
+Working remotely in a diverse and fast paced startup.
+Great compensation package in USD.

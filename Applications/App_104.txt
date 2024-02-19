@@ -1,0 +1,40 @@
+Mission:
+
+Create high quality mobile experiences, working in a great place to collaborate and grow.
+
+
+Top Responsibilities:
+
+•Design, develop, support, and maintain excellent Python applications with clean code.
+•Build backend data services and APIs using various design patterns
+•Write unit and integration tests.
+
+
+Soft skills requirements:
+
+•We are looking for people with excellent communication skills, proactive, flexible and easy to work in a team.
+•With customer orientation and high quality standards
+
+
+Technical skills requirements
+
+•+4 years solid experience as Python Developer 
+
+•Experience with Python frameworks (e.g. Django, Flask, Bottle)
+•Understanding of relational/non-relational databases and SQL
+•English Level: Advanced
+
+
+Optional requirements
+
+•Familiarity with Amazon Web Services (AWS), Azure (optional) and REST API
+•Knowledge of JavaScript and the modern frameworks (Angular/React) is a plus
+•Knowledge and experience using DOCKER and DOCKER COMPOSE
+
+
+Working conditions
+
+Availability: Monday – Friday. 8am - 5pm (EST Time)
+Remote Position 
+
+Full Time

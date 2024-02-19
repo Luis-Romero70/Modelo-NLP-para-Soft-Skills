@@ -1,0 +1,29 @@
+Educational Background: Bachelor's or Master's degree in Computer Science, AI, or related fields.
+
+Professional Experience: Minimum of 7 years in Python development, with a focus on AI and machine learning projects.
+
+AI and Machine Learning Expertise: Deep understanding of AI, machine learning, and natural language processing. Experience with GPT-4 and similar LLMs.
+
+Strong Analytical Skills: Exceptional problem-solving abilities, analytical thinking, and innovative approach to complex challenges.
+
+Communication and Collaboration: Excellent communication skills, both verbal and written, and a strong ability to work collaboratively in a team environment.
+
+Prior Project Management Experience: Demonstrated experience in managing large-scale software development projects.
+
+What You’ll Be Working On
+
+We are seeking a highly skilled AI Engineer to drive the development of complex AI applications. This role involves creating robust, scalable applications, integrating advanced AI technologies like GPT-4, and innovating in AI-driven development tools and methodologies.
+
+Key Responsibilities
+
+AI Application Development: Design and develop scalable, robust AI applications. Focus on integrating and optimizing GPT-4 models.
+
+Code Generation and AI Research: Engage in active research and development in AI technologies, emphasizing code generation and automated coding assistants.
+
+Technical Leadership: Provide technical guidance and leadership to the development team, ensuring best practices in software development and AI integration.
+
+Code Quality Assurance: Uphold high standards of code quality and maintainability, conducting code reviews and implementing best practices.
+
+Project Management: Oversee project timelines, deliverables, and resource allocation. Ensure alignment with project goals and company vision.
+
+Mentorship: Actively mentor junior developers and team members, fostering a collaborative and innovative work environment.

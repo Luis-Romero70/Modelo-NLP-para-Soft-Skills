@@ -1,0 +1,27 @@
+Job Title: Machine Learning Engineer - Image/Video Classification and Recommendation Systems
+
+
+Responsibilities:
+1. Develop and implement machine learning models for image and video classification, ensuring high accuracy and efficiency in handling large datasets.
+2. Design and optimize recommendation systems to enhance user experience through personalized content suggestions.
+3. Collaborate with cross-functional teams to understand business requirements and integrate machine learning solutions into existing systems.
+4. Stay abreast of the latest advancements in machine learning and computer vision to continually improve algorithmic approaches.
+5. Evaluate and preprocess data to ensure its suitability for training and testing machine learning models.
+6. Conduct thorough testing and validation of models to ensure robust performance and scalability in production environments.
+7. Work on feature engineering, model tuning, and optimization to improve overall system performance.
+8. Collaborate with software developers to deploy and integrate machine learning solutions into production systems.
+9. Provide technical expertise and support to team members, fostering a collaborative and innovative environment.
+10. Stay informed about industry trends and emerging technologies in image and video processing.
+
+
+Requirements:
+1. Bachelor's/Master's/Ph.D. degree in Computer Science, Machine Learning, or a related field.
+2. Proven experience in developing and deploying machine learning models, with a focus on image and video classification.
+3. Strong programming skills in languages such as Python, and proficiency in machine learning frameworks like TensorFlow or PyTorch.
+4. Experience with recommendation systems, including collaborative filtering, content-based filtering, or hybrid approaches.
+5. Solid understanding of computer vision techniques and frameworks for image and video processing.
+6. Knowledge of deep learning architectures and algorithms for feature extraction and representation.
+7. Ability to work in a collaborative team environment and effectively communicate complex technical concepts to non-technical stakeholders.
+8. Familiarity with cloud platforms such as AWS, Azure, or Google Cloud for deploying and managing machine learning models.
+9. Strong problem-solving skills and a proactive attitude toward addressing challenges in machine learning projects.
+10. Excellent analytical and critical-thinking abilities, with attention to detail in all aspects of machine learning development.

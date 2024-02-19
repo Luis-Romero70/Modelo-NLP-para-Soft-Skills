@@ -1,0 +1,62 @@
+About The Position
+
+Estamos enfocados en crear soluciones que brinden los mejores servicios financieros con una experiencia WOW para nuestros clientes. En todo momento investigamos y nos capacitamos sobre las nuevas tendencias tecnologías que hay en el mundo para adaptarlas a nuestra Transformación Digital. Trabajamos de la mano con el negocio para realizar entregas de productos y servicios de calidad.
+
+Responsabilidades:
+
+Diseñar, desarrollar, proponer arquitecturas a nivel de infraestructura cloud. 
+Mejorar, proponer soluciones de automatización a nivel de tubería pipeline. 
+Aprovisionar recursos a través de Infrastructure As Code IAC. 
+Evaluar, diseñar, implementar y evolucionar las plataformas devops. 
+Crear artefactos, librerías de código, plantillas que puedan ser utilizados en la construcción de automatizaciones CI/CD. 
+Proponer planes de acción frente a riesgos en la plataforma y/o herramientas. 
+Asegurar la inclusión de componentes de costos en el análisis de alternativas de solución en la evaluación de herramientas. 
+Atender en el soporte de pipelines de Testing y estabilidad de la plataforma. 
+Asegurar la adopción de componentes desarrollados. 
+Asegurar implementaciones alineadas a métricas de valor. 
+Garantizar integración, despliegue y entrega continua mediante flujos automatizados. 
+
+Requirements
+
+Bachiller en la carrera de Ingeniería de Sistemas, computación, informática, software y electrónica o carreras aﬁnes. 
+3+ años de experiencia en el rol. 
+Conocimiento sobre scripts con Groovy. 
+Sólido dominio de Cloud AWS. 
+Conocimiento sobre Linux (shell scripting). 
+Conocimiento en Ansible / Playbooks. 
+Conocimiento en lenguajes de programación java, react native, ios, android y python. 
+Conocimiento de herramientas Git/BitBucket, Jenkins, Jira, Artifactory, Sonarqube, SonarCloud Snyk, MS AppCenter, Confluence (o similares). 
+Sólidos conocimiento sobre contenedores (Docker) y orquestación de contenedor AWS EKS. 
+Conocimiento sobre base de datos relacionales y no relacionales rds, aurora, dynamo, MySQL, SQL Server, MongoDB). 
+Sólidos conocimiento sobre DevOps, CI/CD pipelines Github Actions, aws code pipeline y aws code build. 
+Sólidos conocimiento en tuberías e infraestructura como código PAC / IAC. 
+Sólidos conocimiento de Terraform / Terraform Cloud. 
+Distribución de aplicaciones móviles en ms appcenter. 
+Conocimiento de Frameworks de agilidad (Scrum, Kanban, etc.). 
+Conocimiento en automatización de pruebas unitarias. 
+Uso de framework para Testing Continuo (Deseable). 
+Previa experiencia en entornos cloud donde se trabajen en la automatización de modelos ML usando Databricks (deseable). 
+Conocimiento del flujo Data Ops (deseable). 
+
+Benefits
+
+Vacaciones / Flexibilidad de Trabajo
+
+22 dias de vacaciones
+Trabajo Remoto: Remoto
+
+Salud / Seguros
+
+Seguro de Salud
+
+Beneficios salariales
+
+Esquema 100% vía nómina
+Bono desempeño
+30 días de aguinaldo
+
+Beneficios Extras + Educación
+
+Plan de capacitación
+Plan de carrera
+Certificaciones en plataformas

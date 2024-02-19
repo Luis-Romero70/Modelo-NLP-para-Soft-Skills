@@ -1,0 +1,50 @@
+Hola! 🙋
+
+
+¿Todavía no conoces HIBERUS TECNOLOGÍA? Somos una empresa de #tecnología construida con un ingrediente diferencial, la HIPERESPECIALIZACIÓN.
+
+
+Formar parte de Hiberus significa crecimiento, pasión por la tecnología, interés por la innovación, ambiente laboral flexible y colaborativo, compañerismo, aprendizaje, formación continua, motivación y superación ante nuevos retos...y esto es solo el principio.
+Somos más de 2.500 profesionales y no paramos de crecer!🙌
+Actualmente contamos con más de 20 delegaciones en puntos estratégicos de España, tenemos presencia en 10 países europeos, sede en Marruecos, Argentina, Colombia, Ecuador, Mexico y en EEUU.
+
+
+Trabajamos muy duro, para transformar nuestra vida a través de la tecnología y queremos contar contigo para seguir creciendo. Si lo tuyo es el mundo IT, te gusta estar al día en las últimas tecnologías y quieres asumir un nuevo reto profesional ¡Sigue leyendo, te estamos buscando!
+
+
+🔎¿Qué estamos buscando?
+
+Buscamos especialistas en procesamiento de datos con Spark y Scala que quieran incorporarse al equipo y ser parte de grandes proyectos nacionales e internacionales.
+Buscamos una persona que nos ayude a seguir creciendo, con ganas de aportar y seguir evolucionando de la mano de los mejores profesionales, pero sobre todo... ¡en Hiberus buscamos buena gente!😉
+
+
+📋🖋️Habilidades y requisitos
+
+Al menos 2 años de experiencia en big data (spark, hadoop, hive, kafka)
+Amplia experiencia programando con Spark/Scala
+Experiencia con BBDD (SQL, Postgres, mysql...)
+Experiencia trabajando con herramientas devops (git, jenkins, sonar, nexus, jira, splunk)
+
+
+Y además sería un plus si tienes experiencia con...
+AWS
+Visualización de datos
+Flink, hbase
+Machine learning
+
+
+🙌¿Qué te ofrecemos?
+
+💼 Contrato indefinido en una compañía puramente tecnológica, que forma parte de un gran grupo, solvente y en crecimiento.
+💰 Salario fijo competitivo + bonificación
+🏡 100% Remoto desde nuestras sedes en Argentina, México, España, UK, Alemania, Italia, USA.
+🏖️ Ambiente familiar, cercano, ¡como una gran familia!
+⏰ Conciliación con nuestra vida personal y laboral mediante horario flexible, acuerdos de teletrabajo, desconexión digital, jornada intensiva viernes y verano.
+🤙 Cultura “techie”, nos gusta estar en contacto con la tecnología, herramientas, y últimas novedades!
+📚 ¡Formación! Siempre que quieras, disfrutarás de un amplio catálogo de cursos formativos, adaptados a tu perfil profesional, inquietudes y novedades del sector. Para ello, pondremos a tu disposición todo el potencial de nuestra Hiberus University y los acuerdos con los principales fabricantes.
+💳 ¡Benefíciate! Programa de retribución flexible a medida: seguro médico, tarjeta de transporte público, cheques guardería, tarjeta restaurante, etc.
+
+
+En Hiberus estamos viviendo un crecimiento explosivo 💥 y queremos que formes parte de nuestro equipo.
+Suena bien, ¿verdad? Si quieres saber más, ¡inscríbete y te contamos!
+Si quieres saber más busca nuestros hashtag #somoshiberus #lascosasocurrenaquí y conoce todo lo que hacemos.

@@ -1,0 +1,13 @@
+Buscamos Analista de Datos (DA) para la industria de medicina prepaga.
+
+Entre sus tareas esperamos que realice:
+
+Recolección de Datos: Recopilar datos de diversas fuentes, como bases de datos, archivos, APIs, data warehouse o data lakes.
+Limpieza y Preparación de Datos: Procesar y limpiar los datos para eliminar errores o inconsistencias y prepararlos para el análisis.
+Análisis Exploratorio de Datos: Realizar un análisis inicial para entender las características y patrones en los datos, utilizando estadísticas descriptivas y visualizaciones. Aplicar reglas de negocio para la interpretación de estos datos y la detección de los patrones.
+Modelado y Análisis Estadístico: Aplicar técnicas estadísticas y de modelado para interpretar los datos y extraer insights. Creación de modelos predictivos (en conjunto con el Ingeniero ML) y pruebas de hipótesis.
+Visualización de Datos: Crear representaciones gráficas de los datos, como gráficos, tableros de control (dashboards) y mapas, para comunicar los hallazgos de manera clara y efectiva (estos reportes sirven de soporte para la operatoria diaria y la toma de decisiones basadas en datos)
+Reporte y Presentación de Hallazgos: Elaborar reportes y presentaciones para compartir los resultados del análisis con stakeholders, explicando las conclusiones y recomendando acciones basadas en los datos.
+Trabajo Colaborativo con Otros Equipos: Colaborar con otros departamentos o equipos, para entender sus necesidades de datos y proporcionarles insights relevantes (apalancado en objetivos corporativos).
+Aprendizaje Continuo: Mantenerse actualizado con las últimas herramientas, técnicas y arquitecturas que se implementen en la compañía.
+Si estas interesado en conocer más informacion y participar de la propuesta, postulate!
