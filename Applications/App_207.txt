@@ -1,0 +1,47 @@
+At Dndrite, we are committed to transforming SMEs with customized technological solutions. We believe in democratizing access to advanced digital tools, enabling businesses of all sizes to thrive in a competitive digital environment, enhancing their reach and growth.
+
+
+Role Description:
+
+We are looking for a Machine Learning Engineer to join our team. This role involves designing, maintaining, and implementing innovative ML models that address real-world problems for smaller-scale businesses, improving their efficiency and decision-making processes. You will be at the forefront of creating AI-driven solutions that make a tangible difference.
+
+
+Responsibilities:
+
+Develop and fine-tune algorithms and pre-trained models for various business applications (e.g., Sentiment Analysis, Market Predictions, back-office automation, etc.).
+Implement pattern recognition and data analysis techniques to extract valuable insights, turning raw data into actionable information for strategic decisions (Data mining & Business Intelligence).
+Collaborate with cross-functional teams to integrate ML solutions into our platform.
+
+
+Key Skills and Technologies:
+
+Python
+ML Frameworks
+Natural Language Processing (NLP)
+Big Data
+Data Visualization
+Git
+Docker
+ML Ops
+Statistics and Applied Mathematics
+
+
+Qualifications:
+
+Degree in Computer Science or related fields, with a strong foundation in programming.
+Advanced level of English.
+Strong programming skills (Python) and proficiency in using Python libraries for AI.
+Experience in developing ML algorithms, neural networks, and statistical methods.
+Knowledge of Rust (Desirable)
+Proven ability to work in digital environments and communicate effectively in teams using tools like Trello, Atlassian, Confluence, etc.
+Knowledge in decentralization and blockchain technology (Desirable).
+A Master's degree in a relevant field (AI, Data Science) or a portfolio demonstrating the required skills is preferred.
+
+
+What We Offer:
+
+The opportunity to work on transformative projects in a startup environment.
+100% remote work with a hybrid option available.
+A culture of innovation, continuous learning, and collaboration.
+Competitive salary with potential for growth within the company, equity participation, and the option for cryptocurrency compensation.
+If you are passionate about artificial intelligence and business innovation and enjoy working in collaborative and dynamic environments, Dndrite is the place for you! Send your CV to contacto@dndrite.com.

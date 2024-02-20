@@ -1,0 +1,25 @@
+We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 4-time Inc. 5000 Fastest Growing Companies in America honoree.
+
+We are looking to expand our amazing roster with a Machine Learning Engineer that is well-versed in SageMaker and is located in Latin America, preferably in Argentina. As we are currently working with multiple companies on many different products, we have quite a few projects where someone like you could make a difference.
+
+We are looking for:
+
+3+ experience in training and implementing machine learning models
+Statistical knowledge
+Python
+SageMaker
+SQL
+Strong agile/scrum development experience
+Excellent written and verbal communication skills
+
+
+We offer:
+
+Fully remote 
+Long-term
+Full-time
+No timezone shifting
+Compensation in US Dollars
+
+
+If you are as excited to learn more as we are in working with you, please submit your resume and let’s be in touch!
