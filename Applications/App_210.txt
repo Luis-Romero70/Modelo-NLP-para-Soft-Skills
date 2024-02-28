@@ -1,0 +1,47 @@
+At ioet, a leading software company with a talented team across LATAM, we provide Software Engineering as a service to clients worldwide. Join us for exciting professional challenges, working on projects ranging from innovative startups to globally recognized brands. Our positions are full-time, remote, and offer competitive compensation in USD.
+
+
+We are looking for an experienced Data Engineer who is eager to grow professionally within our dynamic and highly skilled software development team. As part of our organization, you will play a crucial role in ensuring the quality and reliability of our software solutions.
+
+
+Requirements:
+
+
+
+2+ years of experience
+Experience with data orchestration tools like Apache Airflow
+Experience with AWS (Redshift, Lambda Functions, S3, Glue)
+Experience working on GCP (BigQuery, Cloud Composer)
+Python proficiency
+Design and implement ETL processes to extract, transform, and load data
+B.S. in Data Engineering, Software Engineering, computer science, information technology, or a related field.
+Strong English communication skills - Minimum B2 level proficiency
+Send your CV and application in English (mandatory)
+Based in Latin America or be able to work +/- 3 from GMT- 5 (Bogota, Quito, Lima)
+
+
+Benefits:
+
+
+
+Flexible work options: remote or on-site in Ecuador (Quito, Loja, Guayaquil)
+Flexible schedule
+Collaboration with international clients
+USD compensation
+Paid Holidays and Vacations
+Paid family and sick leaves
+English classes
+Educational and wellness bonus
+Structured career plan with regular salary reviews
+Emphasis on personal growth and mentorship
+
+
+Are you ready to be part of the ioet journey?
+
+
+
+Get your CV and Cover Letter in English and Apply Now.
+
+
+
+If you are curious to know more about our culture, technologies, and blogs, visit www.ioet.com

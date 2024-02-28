@@ -1,0 +1,41 @@
+Telier busca soluciones para mejorar la experiencia de descubrimiento de moda online, con un tamaño que supera los 820B a nivel mundial. Trabajamos para generar soluciones tecnológicas disruptivas para ofrecerles a nuestros usuarios prendas relevantes y generar ventas para los e-commerce de moda. Somos una empresa joven nacida a comienzos de 2022 y venimos a revolucionar la forma en la que descubrimos y compramos ropa, en Latinoamérica pero con proyección internacional. 
+
+Estamos en una etapa de inversión semilla, durante la cual nos enfocaremos en contratar talento, desarrollar nuestro producto tecnológico, llevar nuestro algoritmo de recomendación al siguiente nivel, escalar el alcance de la App con inversión publicitaria, tener presencia en 4 mercados de la región y operaciones comerciales con facturación en al menos dos de ellos.
+
+
+Rol y Responsabilidades
+
+
+
+Nos encontramos en la búsqueda de AI Developers que nos ayuden a llevar nuestra App al siguiente nivel. Buscamos sumar a una persona apasionada por la tecnología, la moda y el diseño de experiencias centrada en los usuarios que esté preparada para transformar nuestra App y consolidarla como una que los usuarios amen para fashion discovery.
+
+
+ Las responsabilidades del rol:
+
+
+
+Diseñar e implementar sistemas para recomendación de productos.
+Optimizar algoritmos de búsqueda para mejorar el discovery de productos.
+Análisis, iteración e identificación de tendencias para la mejora de los sistemas.
+Colaboración con los equipos de Producto y Márketing para la alineación de KPIs y timelines de implementación.
+
+
+Perfil y Calificaciones esperadas
+
+
+
+Experiencia diseñando, implementando e iterando sistemas de inteligencia artificial, idealmente orientado a sistemas de recomendaciones.
+Conocimientos de Python para el desarrollo.
+Familiaridad con GCP es un plus.
+
+
+Beneficios y Cultura de Trabajo:
+
+
+
+Trabajo completamente remoto.,
+Horas de trabajo flexibles, orientado a resultados.
+Día de cumpleaños libre.
+Permiso parental pago adicional
+Viernes sin reuniones
+Stock option vesting plan

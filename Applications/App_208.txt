@@ -1,0 +1,77 @@
+⭐ Who we are
+
+
+
+Lodgify is not just any startup, we're a fast-growing company leading the vacation rental industry with our innovative software. And we raised $30M to do exactly that!
+
+
+Our platform empowers property owners and managers to efficiently manage and market their rental businesses online. We are an international team of more than 300 people and over 50 different nationalities, founded in the heart of sunny Barcelona. 
+
+
+
+⭐ Role Overview
+
+
+
+We are looking for a talented AI Python Engineer with previous experience in applying RAG in production and ready to tackle a wide range of challenges. If you are excited by the prospects of Generative AI (LLMs), ML models and are eager to use them in production to solve real problems this is the position for you.
+
+
+You will be part of our first squad fully dedicated to leveraging AI in the company and you will be reporting directly to our Chief AI Officer.
+If you want to help us make vacation rental work easier with AI, come join us!
+
+
+⭐ How will you make an impact?
+
+Write production code that meets our company's high-quality and maintainability standards
+Selecting the most appropriate Generative AI, Natural Language Processing (NLP), and Machine Learning(ML) model depending on the use case
+Use your prompt engineering and prompt chaining skills to create new prompts and keep improving on the existing ones.
+Improve our LLMOps infrastructure to have a solid feedback loop with the most appropriate metrics to keep optimizing each use case
+Implement RAG in production and fine tune each aspect of the process to keep improving its metrics
+Work collaboratively with other squads and technical chapters.
+You will be part of a mission driven Agile team (Scrum/Kanban)
+
+
+⭐ What makes you a great fit?
+
+You have 3+ years of professional experience with Python
+You have professional experience using Generative AI, RAG and vector databases in production.
+You’re able to write production level code in Python (SOLID principles)
+Experience with LLM frameworks (i.e. LangChain, LlamaIndex, Haystack) and prompt engineering techniques.
+You keep yourself updated on Generative AI and ML technologies and you’re eager to use them to solve real problems
+You’re well versed with best practices in software development, including version control, testing, and continuous integration.
+Have a keen interest in the fundamental knowledge of Data Science
+Proactive attitude to challenge assumptions and come up with solutions
+You are a collaborative learner and team player who strives for impact.
+
+
+⭐ How can you earn extra bonus points?
+
+Experience with Machine Learning Operations (MLOps) (i.e. Arize, Weights & Biases, MLFlow, Neptune)
+End-to-end experience in training, evaluating, testing, and deploying ML solutions in production
+Experience with the Hugging Face libraries
+
+
+Why you’ll love us:
+
+You’ll be part of a growing, dynamic company with a truly international team. At Lodgify, we are full of contagious energy, hard work, and passion for what we do. We celebrate diversity and are proud to acknowledges a variety of backgrounds, perspectives and skills in our team; committed to creating a workplace where everyone is heard and feels a sense of belonging.
+
+
+
+What's in it for you?
+
+
+
+🏠 The freedom to work from home any day that works for you.
+🌴 Enjoy 25 working days of paid vacation and Jornada Intensiva in August.
+💊 Top-notch Cigna health insurance (includes travel insurance, dental plan, psychologist and we cover pre-existing conditions too).
+😋 Save on meals! Enjoy a monthly allowance of 150€ and, in addition, a Flexible Remuneration plan with up to 70€. Plus, enjoy a 50% discount on Ametller’s prepared dishes to level up your mealtime!
+🚇 Flexible Remuneration options for your transportation needs.
+🖥️ Elevate your workspace. We provide a home-office setup allowance to ensure you have everything you need for a productive and comfortable work environment.
+🇪🇸 Free Spanish classes.
+🤑 Boost your earning potential with our referral program that offers paid compensation.
+🌟 Fuel your day with a daily office breakfast buffet and join our monthly events like football tournaments, wine tastings, hikes, kayaking and more!
+🎯 Work in a dynamic environment with offices fully equipped for fun with ping pong, foosball, surrounded by an international team of +50 nationalities.
+
+
+So, what are you waiting for? Apply now!
+All applications and CVs must be submitted in English 😉
